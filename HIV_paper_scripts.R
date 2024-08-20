@@ -14,12 +14,6 @@ pacman::p_load(char = c("lubridate","gtsummary", "tidyverse", "dplyr", "here", "
                         "ggsignif", "ggpubr", "ggeasy", "cowplot","ggExtra", "PupillometryR","hrbrthemes", "ggstance",
                         "survival","survminer","sysfonts","showtext","nlme",'glue'))
 
-
-#installing and loading required packages----
-pacman::p_load(char = c('lubridate',"gtsummary", 'tidyverse', "dplyr", "here", "rio", "scales", "boot", 
-                        "magrittr",  "mvtnorm", "zoo", "patchwork", "mgcv", "PropCIs", "writexl", 
-                        "ggsignif", "ggpubr", "ggeasy", "cowplot","ggExtra", "PupillometryR","hrbrthemes", "ggstance",
-                        "survival","survminer","sysfonts","showtext","nlme"))
 library(Seurat)
 library(ggplot2)
 library(dplyr)
