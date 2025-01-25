@@ -1,0 +1,1410 @@
+---
+title: "NASOMUNE_Nasal"
+output: html_document
+date: "2025-01-05"
+---
+
+```{r setup, include=FALSE}
+library(Seurat)
+library(SoupX)
+library(harmony)
+library(ggmin)
+```
+
+## R Markdown
+
+
+```{r cars}
+patient_3 <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/003_007/cluster0_barcodes.tsv", header = F, row.names = "V1")
+patient_7 <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/003_007/cluster1_barcodes.tsv", header = F, row.names = "V1")
+patient_3$Sample <- "Cos-3"
+patient_7$Sample <- "Cos-7"
+sample_meta <- rbind(patient_3, patient_7)
+```
+
+
+```{r}
+cos3plus7 <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/003_007/filtered_feature_bc_matrix/")
+```
+
+```{r}
+cos3plus7_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/003_007/outs/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/003_007/outs/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(cos3plus7_raw, cos3plus7)
+sc = setClusters(sc, clustering_vector)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix  <- adjustCounts(sc, roundToInt = T)
+```
+
+```{r}
+cos3plus7 <- as.matrix(adj.matrix)
+cos3plus7 <- cos3plus7[,rownames(sample_meta)]
+```
+
+```{r}
+cos3plus7.obj <- CreateSeuratObject(counts = cos3plus7,
+                              project = "Cos003-007")
+```
+
+```{r}
+cos3plus7.obj$Sample <- sample_meta$Sample
+```
+
+```{r}
+cos3plus7.obj.list <- SplitObject(cos3plus7.obj, split.by = "Sample")
+```
+
+```{r}
+cos3 <- cos3plus7.obj.list[[1]]
+cos7 <- cos3plus7.obj.list[[2]]
+```
+
+```{r}
+cos3$Group <- "COVID-19"
+cos3$Diagnosis <- "COVID-19"
+cos3$AM_Covid <- "Positive"
+cos3$PM_Covid <- "Positive"
+cos3$Sex <- "Male"
+cos3$HIV_Status <- "Positive"
+```
+
+
+```{r}
+cos7$Group <- "COVID-19"
+cos7$Diagnosis <- "COVID-19"
+cos7$AM_Covid <- "Positive"
+cos7$PM_Covid <- "Positive"
+cos7$Sex <- "Female"
+cos7$HIV_Status <- "Positive"
+```
+
+
+```{r}
+cos11 <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos11-N/filtered_feature_bc_matrix/")
+```
+
+```{r}
+cos11_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos11-N/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/Cos11-N/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(cos11_raw, cos11)
+sc = setClusters(sc, clustering_vector)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix  <- adjustCounts(sc, roundToInt = T)
+```
+
+```{r}
+cos11 <- CreateSeuratObject(counts = adj.matrix,
+                              project = "Cos11")
+```
+
+
+```{r}
+cos11$Sample <- "Cos-11"
+cos11$Group <- "Pneumonia"
+cos11$Diagnosis <- "Squamous cell carcinoma of Lung"
+cos11$AM_Covid <- "Negative"
+cos11$PM_Covid <- "Positive"
+cos11$Sex <- "Female"
+cos11$HIV_Status <- "Positive"
+```
+
+```{r}
+cos12NplusP <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos12NplusP/filtered_feature_bc_matrix/")
+```
+
+```{r}
+cos12NplusP_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos12NplusP/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/Cos12NplusP/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(cos12NplusP_raw, cos12NplusP)
+sc = setClusters(sc, clustering_vector)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix_cos12  <- adjustCounts(sc, roundToInt = T)
+```
+
+
+```{r}
+# Cos12
+cos12.hto <- Read10X(data.dir = "/datastore3/Olympia/COSMIC_HTO/merged_hto_fastqs/Cos12/HTO_results_filtered/umi_count/", gene.column = 1)
+
+
+colnames(adj.matrix_cos12) <- sub("-1", "", colnames(adj.matrix_cos12))
+
+common.barcodes <- intersect(colnames(adj.matrix_cos12), colnames(cos12.hto))
+length(common.barcodes)
+
+adj.matrix_cos12 <- adj.matrix_cos12[,common.barcodes]
+cos12.hto <- as.matrix(cos12.hto[,common.barcodes])
+
+rowSums(cos12.hto)
+
+cos12.hto.filtered = cos12.hto[c(1,2) ,]
+rownames(cos12.hto.filtered) = sapply(strsplit(rownames(cos12.hto.filtered),"-"), '[', 1)
+
+```
+
+```{r}
+cos12NplusP.obj <- CreateSeuratObject(counts = adj.matrix_cos12,
+                              project = "Cos12NplusP")
+```
+
+```{r}
+cos12NplusP.obj <- NormalizeData(cos12NplusP.obj)
+# Find and scale variable features
+cos12NplusP.obj <- FindVariableFeatures(cos12NplusP.obj, selection.method = "mean.var.plot")
+cos12NplusP.obj <- ScaleData(cos12NplusP.obj, features = VariableFeatures(cos12NplusP.obj))
+
+#Add the HTO as an independent assay
+cos12NplusP.obj[["HTO"]] <- CreateAssayObject(counts = cos12.hto.filtered)
+# Normalize HTO data, here we use centered log-ratio (CLR) transformation
+cos12NplusP.obj <- NormalizeData(cos12NplusP.obj, assay = "HTO", normalization.method = "CLR")
+
+cos12NplusP.obj <- HTODemux(cos12NplusP.obj, assay = "HTO", positive.quantile = 0.9)
+
+table(cos12NplusP.obj$HTO_classification.global)
+```
+
+```{r}
+cos12NplusP.obj <- subset(cos12NplusP.obj, subset = hash.ID == "Hashtag1Nasal" | hash.ID == "Hashtag2PBMC")
+```
+
+```{r}
+cos12NplusP.obj$Sample <- "Cos-12"
+cos12NplusP.obj$Group <- "COVID-19"
+cos12NplusP.obj$Diagnosis <- "Sepsis from bowel perforation"
+cos12NplusP.obj$AM_Covid <- "Positive"
+cos12NplusP.obj$PM_Covid <- "Positive"
+cos12NplusP.obj$Sex <- "Female"
+cos12NplusP.obj$HIV_Status <- "Negative"
+```
+
+
+```{r}
+cos12NplusP.obj.list <- SplitObject(cos12NplusP.obj, split.by = 'hash.ID')
+```
+
+```{r}
+cos12_nasal <- cos12NplusP.obj.list[[2]]
+cos12_pbmc <- cos12NplusP.obj.list[[1]]
+```
+
+
+COS 13 
+
+```{r}
+cos13NplusP <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos13NplusP/filtered_feature_bc_matrix/")
+```
+
+```{r}
+cos13NplusP_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos13NplusP/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/Cos13NplusP/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(cos13NplusP_raw, cos13NplusP)
+sc = setClusters(sc, clustering_vector)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix_cos13  <- adjustCounts(sc, roundToInt = T)
+```
+
+```{r}
+
+```
+
+
+```{r}
+# Cos13
+cos13.hto <- Read10X(data.dir = "/datastore3/Olympia/COSMIC_HTO/merged_hto_fastqs/Cos13/HTO_results/umi_count/", gene.column = 1)
+
+
+colnames(cos13NplusP) <- sub("-1", "", colnames(cos13NplusP))
+
+common.barcodes <- intersect(colnames(cos13NplusP), colnames(cos13.hto))
+length(common.barcodes)
+
+cos13NplusP <- cos13NplusP[,common.barcodes]
+cos13.hto <- as.matrix(cos13.hto[,common.barcodes])
+
+rowSums(cos13.hto)
+
+cos13.hto.filtered = cos13.hto[c(1,2) ,]
+rownames(cos13.hto.filtered) = sapply(strsplit(rownames(cos13.hto.filtered),"-"), '[', 1)
+
+```
+
+```{r}
+cos13NplusP.obj <- CreateSeuratObject(counts = cos13NplusP,
+                              project = "Cos13NplusP")
+```
+
+```{r}
+cos13NplusP.obj <- NormalizeData(cos13NplusP.obj)
+# Find and scale variable features
+cos13NplusP.obj <- FindVariableFeatures(cos13NplusP.obj, selection.method = "mean.var.plot")
+cos13NplusP.obj <- ScaleData(cos13NplusP.obj, features = VariableFeatures(cos13NplusP.obj))
+
+#Add the HTO as an independent assay
+cos13NplusP.obj[["HTO"]] <- CreateAssayObject(counts = cos13.hto.filtered)
+# Normalize HTO data, here we use centered log-ratio (CLR) transformation
+cos13NplusP.obj <- NormalizeData(cos13NplusP.obj, assay = "HTO", normalization.method = "CLR")
+
+cos13NplusP.obj <- HTODemux(cos13NplusP.obj, assay = "HTO", positive.quantile = 0.9)
+
+table(cos13NplusP.obj$HTO_classification.global)
+```
+
+```{r}
+cos13NplusP.obj <- subset(cos13NplusP.obj, subset = hash.ID == "Hashtag1Nasal" | hash.ID == "Hashtag2PBMC")
+```
+
+```{r}
+cos13NplusP.obj$Sample <- "Cos-13"
+cos13NplusP.obj$Group <- "COVID-19"
+cos13NplusP.obj$Diagnosis <- "COVID-19"
+cos13NplusP.obj$AM_Covid <- "Positive"
+cos13NplusP.obj$PM_Covid <- "Positive"
+cos13NplusP.obj$Sex <- "Female"
+cos13NplusP.obj$HIV_Status <- "Negative"
+```
+
+
+```{r}
+cos13NplusP.obj.list <- SplitObject(cos13NplusP.obj, split.by = 'hash.ID')
+```
+
+```{r}
+cos13_nasal <- cos13NplusP.obj.list[[2]]
+cos13_pbmc <- cos13NplusP.obj.list[[1]]
+```
+
+
+COS14 
+
+
+```{r}
+cos14NplusP <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos14NplusP/filtered_feature_bc_matrix/")
+```
+
+```{r}
+cos14NplusP_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos14NplusP/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/Cos14NplusP/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(cos14NplusP_raw, cos14NplusP)
+sc = setClusters(sc, clustering_vector)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix_cos14  <- adjustCounts(sc, roundToInt = T)
+```
+
+
+```{r}
+# Cos14
+cos14.hto <- Read10X(data.dir = "/datastore3/Olympia/COSMIC_HTO/merged_hto_fastqs/Co14/HTO_results/umi_count/", gene.column = 1)
+
+
+colnames(adj.matrix_cos14) <- sub("-1", "", colnames(adj.matrix_cos14))
+
+common.barcodes <- intersect(colnames(adj.matrix_cos14), colnames(cos14.hto))
+length(common.barcodes)
+
+adj.matrix_cos14 <- adj.matrix_cos14[,common.barcodes]
+cos14.hto <- as.matrix(cos14.hto[,common.barcodes])
+
+rowSums(cos14.hto)
+
+cos14.hto.filtered = cos14.hto[c(1,2) ,]
+rownames(cos14.hto.filtered) = sapply(strsplit(rownames(cos14.hto.filtered),"-"), '[', 1)
+
+```
+
+```{r}
+cos14NplusP.obj <- CreateSeuratObject(counts = adj.matrix_cos14,
+                              project = "Cos14NplusP")
+```
+
+```{r}
+cos14NplusP.obj <- NormalizeData(cos14NplusP.obj)
+# Find and scale variable features
+cos14NplusP.obj <- FindVariableFeatures(cos14NplusP.obj, selection.method = "mean.var.plot")
+cos14NplusP.obj <- ScaleData(cos14NplusP.obj, features = VariableFeatures(cos14NplusP.obj))
+
+#Add the HTO as an independent assay
+cos14NplusP.obj[["HTO"]] <- CreateAssayObject(counts = cos14.hto.filtered)
+# Normalize HTO data, here we use centered log-ratio (CLR) transformation
+cos14NplusP.obj <- NormalizeData(cos14NplusP.obj, assay = "HTO", normalization.method = "CLR")
+
+cos14NplusP.obj <- HTODemux(cos14NplusP.obj, assay = "HTO", positive.quantile = 0.9)
+
+table(cos14NplusP.obj$HTO_classification.global)
+```
+
+```{r}
+cos14NplusP.obj <- subset(cos14NplusP.obj, subset = hash.ID == "Hashtag1Nasal" | hash.ID == "Hashtag2PBMC")
+```
+
+```{r}
+cos14NplusP.obj$Sample <- "Cos-14"
+cos14NplusP.obj$Group <- "Pneumonia"
+cos14NplusP.obj$Diagnosis <- "Bacterial Pneumonia"
+cos14NplusP.obj$AM_Covid <- "Negative"
+cos14NplusP.obj$PM_Covid <- "Negative"
+cos14NplusP.obj$Sex <- "Male"
+cos14NplusP.obj$HIV_Status <- "Negative"
+```
+
+
+```{r}
+cos14NplusP.obj.list <- SplitObject(cos14NplusP.obj, split.by = 'hash.ID')
+```
+
+```{r}
+cos14_nasal <- cos14NplusP.obj.list[[2]]
+cos14_pbmc <- cos14NplusP.obj.list[[1]]
+```
+
+
+
+COS 15
+
+```{r}
+cos15NplusP <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos15NplusP/filtered_feature_bc_matrix/")
+```
+
+```{r}
+cos15NplusP_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos15NplusP/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/Cos15NplusP/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(cos15NplusP_raw, cos15NplusP)
+sc = setClusters(sc, clustering_vector)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix_cos15  <- adjustCounts(sc, roundToInt = T)
+```
+
+
+```{r}
+# Cos15
+cos15.hto <- Read10X(data.dir = "/datastore3/Olympia/COSMIC_HTO/merged_hto_fastqs/Co15/HTO_results/umi_count/", gene.column = 1)
+
+
+colnames(adj.matrix_cos15) <- sub("-1", "", colnames(adj.matrix_cos15))
+
+common.barcodes <- intersect(colnames(adj.matrix_cos15), colnames(cos15.hto))
+length(common.barcodes)
+
+adj.matrix_cos15 <- adj.matrix_cos15[,common.barcodes]
+cos15.hto <- as.matrix(cos15.hto[,common.barcodes])
+
+rowSums(cos15.hto)
+
+cos15.hto.filtered = cos15.hto[c(1,2) ,]
+rownames(cos15.hto.filtered) = sapply(strsplit(rownames(cos15.hto.filtered),"-"), '[', 1)
+
+```
+
+```{r}
+cos15NplusP.obj <- CreateSeuratObject(counts = adj.matrix_cos15,
+                              project = "Cos15NplusP")
+```
+
+```{r}
+cos15NplusP.obj <- NormalizeData(cos15NplusP.obj)
+# Find and scale variable features
+cos15NplusP.obj <- FindVariableFeatures(cos15NplusP.obj, selection.method = "mean.var.plot")
+cos15NplusP.obj <- ScaleData(cos15NplusP.obj, features = VariableFeatures(cos15NplusP.obj))
+
+#Add the HTO as an independent assay
+cos15NplusP.obj[["HTO"]] <- CreateAssayObject(counts = cos15.hto.filtered)
+# Normalize HTO data, here we use centered log-ratio (CLR) transformation
+cos15NplusP.obj <- NormalizeData(cos15NplusP.obj, assay = "HTO", normalization.method = "CLR")
+
+cos15NplusP.obj <- HTODemux(cos15NplusP.obj, assay = "HTO", positive.quantile = 0.9)
+
+table(cos15NplusP.obj$HTO_classification.global)
+```
+
+```{r}
+cos15NplusP.obj <- subset(cos15NplusP.obj, subset = hash.ID == "Hashtag1Nasal" | hash.ID == "Hashtag2PBMC")
+```
+
+```{r}
+cos15NplusP.obj$Sample <- "Cos-15"
+cos15NplusP.obj$Group <- "COVID-19"
+cos15NplusP.obj$Diagnosis <- "COVID-19"
+cos15NplusP.obj$AM_Covid <- "Positive"
+cos15NplusP.obj$PM_Covid <- "Positive"
+cos15NplusP.obj$Sex <- "Male"
+cos15NplusP.obj$HIV_Status <- "Negative"
+```
+
+
+```{r}
+cos15NplusP.obj.list <- SplitObject(cos15NplusP.obj, split.by = 'hash.ID')
+```
+
+```{r}
+cos15_nasal <- cos15NplusP.obj.list[[2]]
+cos15_pbmc <- cos15NplusP.obj.list[[1]]
+```
+
+
+COS 16 
+
+```{r}
+cos16NplusP <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos16NplusP/filtered_feature_bc_matrix/")
+```
+
+```{r}
+cos16NplusP_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Nasal/Cos16NplusP/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Nasal/Cos16NplusP/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(cos16NplusP_raw, cos16NplusP)
+sc = setClusters(sc, clustering_vector)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix_cos16  <- adjustCounts(sc, roundToInt = T)
+```
+
+
+```{r}
+# Cos16
+cos16.hto <- Read10X(data.dir = "/datastore3/Olympia/COSMIC_HTO/merged_hto_fastqs/Co16/HTO_results/umi_count/", gene.column = 1)
+
+
+colnames(adj.matrix_cos16) <- sub("-1", "", colnames(adj.matrix_cos16))
+
+common.barcodes <- intersect(colnames(adj.matrix_cos16), colnames(cos16.hto))
+length(common.barcodes)
+
+adj.matrix_cos16 <- adj.matrix_cos16[,common.barcodes]
+cos16.hto <- as.matrix(cos16.hto[,common.barcodes])
+
+rowSums(cos16.hto)
+
+cos16.hto.filtered = cos16.hto[c(1,2) ,]
+rownames(cos16.hto.filtered) = sapply(strsplit(rownames(cos16.hto.filtered),"-"), '[', 1)
+
+```
+
+```{r}
+cos16NplusP.obj <- CreateSeuratObject(counts = adj.matrix_cos16,
+                              project = "Cos16NplusP")
+```
+
+```{r}
+cos16NplusP.obj <- NormalizeData(cos16NplusP.obj)
+# Find and scale variable features
+cos16NplusP.obj <- FindVariableFeatures(cos16NplusP.obj, selection.method = "mean.var.plot")
+cos16NplusP.obj <- ScaleData(cos16NplusP.obj, features = VariableFeatures(cos16NplusP.obj))
+
+#Add the HTO as an independent assay
+cos16NplusP.obj[["HTO"]] <- CreateAssayObject(counts = cos16.hto.filtered)
+# Normalize HTO data, here we use centered log-ratio (CLR) transformation
+cos16NplusP.obj <- NormalizeData(cos16NplusP.obj, assay = "HTO", normalization.method = "CLR")
+
+cos16NplusP.obj <- HTODemux(cos16NplusP.obj, assay = "HTO", positive.quantile = 0.9)
+
+table(cos16NplusP.obj$HTO_classification.global)
+```
+
+```{r}
+cos16NplusP.obj <- subset(cos16NplusP.obj, subset = hash.ID == "Hashtag1Nasal" | hash.ID == "Hashtag2PBMC")
+```
+
+```{r}
+cos16NplusP.obj$Sample <- "Cos-16"
+cos16NplusP.obj$Group <- "Non-Pneumonia"
+cos16NplusP.obj$Diagnosis <- "Stroke"
+cos16NplusP.obj$AM_Covid <- "Negative"
+cos16NplusP.obj$PM_Covid <- "Negative"
+cos16NplusP.obj$Sex <- "Female"
+cos16NplusP.obj$HIV_Status <- "Negative"
+```
+
+
+```{r}
+cos16NplusP.obj.list <- SplitObject(cos16NplusP.obj, split.by = 'hash.ID')
+```
+
+```{r}
+cos16_nasal <- cos16NplusP.obj.list[[2]]
+cos16_pbmc <- cos16NplusP.obj.list[[1]]
+```
+
+```{r}
+cos3[["percent.mt"]] <- PercentageFeatureSet(cos3, pattern = "^MT-")
+cos7[["percent.mt"]] <- PercentageFeatureSet(cos7, pattern = "^MT-")
+cos11[["percent.mt"]] <- PercentageFeatureSet(cos11, pattern = "^MT-")
+cos12_nasal[["percent.mt"]] <- PercentageFeatureSet(cos12_nasal, pattern = "^MT-")
+cos13_nasal[["percent.mt"]] <- PercentageFeatureSet(cos13_nasal, pattern = "^MT-")
+cos14_nasal[["percent.mt"]] <- PercentageFeatureSet(cos14_nasal, pattern = "^MT-")
+cos15_nasal[["percent.mt"]] <- PercentageFeatureSet(cos15_nasal, pattern = "^MT-")
+cos16_nasal[["percent.mt"]] <- PercentageFeatureSet(cos16_nasal, pattern = "^MT-")
+```
+
+```{r}
+FeatureScatter(cos3, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+Mark.cells(cos3, nFeature.low = 150, nFeature.high = 7000, mt.high = 15, nCount.high = 18000)
+```
+```{r}
+cos3 <- subset(cos3, subset = nFeature_RNA > 150 & nFeature_RNA < 7000 & percent.mt < 15)
+```
+
+```{r}
+FeatureScatter(cos7, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos7, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos7, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos7 <- subset(cos7, subset = nFeature_RNA > 150 & nFeature_RNA < 7000 & percent.mt < 50)
+```
+
+```{r}
+FeatureScatter(cos12_nasal, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos12_nasal, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos12_nasal, nFeature.low = 150, nFeature.high = 7000, mt.high = 50, nCount.high = 18000)
+```
+
+```{r}
+cos12_nasal <- subset(cos12_nasal, subset = nFeature_RNA > 150 & nFeature_RNA < 8000 & percent.mt < 50)
+```
+
+```{r}
+FeatureScatter(cos13_nasal, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos13_nasal, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos13_nasal, nFeature.low = 150, nFeature.high = 3000, mt.high = 15, nCount.high = 18000)
+```
+
+```{r}
+cos13_nasal <- subset(cos13_nasal, subset = nFeature_RNA > 150 & nFeature_RNA < 3000 & percent.mt < 15)
+```
+
+```{r}
+FeatureScatter(cos14_nasal, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos14_nasal, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos14_nasal, nFeature.low = 150, nFeature.high = 7000, mt.high = 50, nCount.high = 18000)
+```
+
+```{r}
+cos14_nasal <- subset(cos14_nasal, subset = nFeature_RNA > 150 & nFeature_RNA < 9000 & percent.mt < 40)
+```
+
+```{r}
+FeatureScatter(cos15_nasal, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos15_nasal, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos15_nasal, nFeature.low = 150, nFeature.high = 9000, mt.high = 50, nCount.high = 18000)
+```
+
+```{r}
+cos15_nasal <- subset(cos15_nasal, subset = nFeature_RNA > 150 & nFeature_RNA < 9000 & percent.mt < 50)
+```
+
+```{r}
+FeatureScatter(cos16_nasal, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos16_nasal, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos16_nasal, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos16_nasal <- subset(cos16_nasal, subset = nFeature_RNA > 150 & nFeature_RNA < 7000 & percent.mt < 25)
+```
+
+
+
+```{r}
+nasal_obj.list <- c(cos3,cos7,cos11,cos12_nasal, cos13_nasal,cos14_nasal,cos15_nasal,cos16_nasal)
+```
+
+
+```{r}
+merged_samples_nasal <- merge(x = nasal_obj.list[[1]],
+                       y = nasal_obj.list[2:length(nasal_obj.list)],
+                       merge.data = TRUE)
+```
+
+```{r}
+table(merged_samples_nasal$Sample)
+```
+
+```{r}
+merged_samples_nasal <- merged_samples_nasal %>%
+    NormalizeData() %>%
+    FindVariableFeatures(selection.method = "vst", nfeatures = 3000) %>% 
+    ScaleData() %>%
+    SCTransform(vars.to.regress = c("percent.mt"))
+```
+
+```{r}
+merged_samples_nasal <- RunPCA(merged_samples_nasal, assay = "SCT", npcs = 50)
+```
+
+```{r}
+integrated_cosmic_nasal <- RunHarmony(merged_samples_nasal, 
+                                group.by.vars = c("Sample"), 
+                                reduction = "pca", assay.use = "SCT", reduction.save = "harmony")
+```
+```{r}
+ElbowPlot(integrated_cosmic_nasal, ndims = 40)
+```
+
+```{r}
+integrated_cosmic_nasal <- RunUMAP(integrated_cosmic_nasal, reduction = "harmony", assay = "SCT", dims = 1:30)
+integrated_cosmic_nasal <- FindNeighbors(integrated_cosmic_nasal, reduction = "harmony", dims = 1:30, verbose=FALSE)
+integrated_cosmic_nasal <- FindClusters(integrated_cosmic_nasal, verbose = FALSE, res=0.3)
+```
+```{r}
+DimPlot(object = integrated_cosmic_nasal, reduction = "umap", label = T) + theme_powerpoint()
+FeaturePlot(integrated_cosmic_nasal, features = c("percent.mt", "nCount_RNA", "nFeature_RNA", "HBB"))
+DimPlot(object = integrated_cosmic_nasal, reduction = "umap", group.by="Sample") + theme_powerpoint()
+DimPlot(object = integrated_cosmic_nasal, reduction = "umap", group.by="Group") + theme_powerpoint()
+```
+
+```{r}
+DefaultAssay(integrated_cosmic_nasal) <- "RNA"
+nasal.markers <- FindAllMarkers(integrated_cosmic_nasal, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25, test.use = "MAST")
+top.nasal.markers <- nasal.markers %>%
+    group_by(cluster) %>%
+    slice_max(n = 10, order_by = avg_log2FC)
+```
+```{r}
+VlnPlot(integrated_cosmic_nasal, features = c("FCGR3B","S100A8","S100A9","CSF3R","MXD1","ITM2B","S100A6","FTL","ACTB","DHFR", "LTF", "PLAC8", "CD83", "IL1R2", "IFI44L", "IFI44", "IFITM1", "EMP3", "CLEC12A", "GBP1"))
+# Basal cells
+VlnPlot(integrated_cosmic_nasal, features = c("KRT5", "TP63", "KRT15"), pt.size = 0)
+# Secretory cells
+VlnPlot(integrated_cosmic_nasal, features = c("MUC5AC", "MUC1", "PSCA", "S100P","KRT7", "CXCL17", "F3", "AQP5", and "CP"), pt.size = 0)
+# CD8 T cell/CD4
+VlnPlot(integrated_cosmic_nasal, features = c("CD8A", "CD3E", "IL7R", "CCR7"), pt.size = 0)
+
+VlnPlot(integrated_cosmic_nasal, features = c("LTF", "LYZ", "PIP", "MUC5B"))
+# MULTICILIATIED cells
+VlnPlot(integrated_cosmic_nasal, features = c("FOXJ1", "TPPP3", "SNTN", "DLEC1", "DNAH11", "CFAP43"), pt.size = 0)
+# A - Endothelial, F - Fibroblast
+VlnPlot(integrated_cosmic_nasal, features = c("ACKR1", "FBLN1", "DCN"), pt.size = 0)
+VlnPlot(integrated_cosmic_nasal, features = c("RERGL", "MCAM", "PDGFRB"), pt.size = 0)
+VlnPlot(integrated_cosmic_nasal, features = c("TMPRSS2", "MDK", "VMO1", "LYPD2", "IDO1", "PI3"))
+# Pericyte
+VlnPlot(integrated_cosmic_nasal, features = c("COX4I2", "PDGFRB", "TACC1", "CALD1", "NID1", "COL4A1", "COL4A2", "LAMB1", "LAMC3", "CHN1"), pt.size = 0)
+# Myofibroblast - Cluster 14
+VlnPlot(integrated_cosmic_nasal, features = c("COL1A1", "COL1A2", "COL3A1", "COL6A3", "ASPN", "LTBP1", "ITGBL1", "CALD1", "POSTN", "BGN"), pt.size = 0)
+# Capillary markers - Cluster 9/10/11?
+VlnPlot(integrated_cosmic_nasal, features = c("FCN3", "EPAS1", "RAMP3", "CDH5", "PODXL", "BTNL9", "NOSTRIN", "FLNB", "CDC42EP1", "CD81"), pt.size = 0)
+# Macrophage markers
+VlnPlot(integrated_cosmic_nasal, features = c("CD68", "CD163", "MERTK", "IL1B", "CD14"), pt.size = 0)
+# Club cells markers - Cluster 16
+VlnPlot(integrated_cosmic_nasal, features = c("SCGB3A2", "CYB5A", "SFTPB", "PIGR", "C16orf89", "CTSE", "KIAA1324", "CEACAM6", "WFDC2", "DSTN"), pt.size = 0)
+# DC
+VlnPlot(integrated_cosmic_nasal, features = c("CD1C", "CLEC10A", "GPR183", "HLA-DQA1", "FCER1A", "CREM", "AXL"), pt.size = 0)
+#pDC
+VlnPlot(integrated_cosmic_nasal, features = c("IL3RA", "MZB1", "GZMB", "CLEC4E", "ITM2C"), pt.size = 0)
+# neutrophil
+VlnPlot(integrated_cosmic_nasal, features = c("CXCR4", "CD49", "CD177", "FCGR3B", "CXCR2"), pt.size = 0.1)
+```
+
+
+```{r}
+saveRDS(integrated_cosmic_nasal, "/datastore3/Olympia/COSMIC_data/nasal_integrated.rds")
+write.csv(nasal.markers, "/datastore3/Olympia/COSMIC_data/nasal_markers.csv")
+```
+```{r}
+write.csv(nasal.markers, "/datastore3/Olympia/COSMIC_data/nasal_markers.csv")
+```
+
+```{r}
+nasal.markers <- read.csv("/datastore3/Olympia/COSMIC_data/nasal_markers.csv")
+integrated_cosmic_nasal <- readRDS("/datastore3/Olympia/COSMIC_data/nasal_integrated.rds")
+```
+
+
+```{r}
+new.cluster.ids <- c("Goblet", "Secretory", "Neutrophils", "Basal", "Neutrophils", "Squamous",
+    "Squamous", "7", "Macrophages", "T-cells", "10", "Goblet", "Cilliated", "13", "Squamous")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOOD
+```{r}
+patient_6_blood <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/cluster5_barcodes.tsv", header = F, row.names = "V1")
+patient_6_blood.1 <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/cluster1_barcodes.tsv", header = F, row.names = "V1")
+patient_12_blood <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/cluster4_barcodes.tsv", header = F, row.names = "V1")
+patient_12_blood.1 <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/cluster3_barcodes.tsv", header = F, row.names = "V1")
+patient_1_blood <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/cluster2_barcodes.tsv", header = F, row.names = "V1")
+patient_3_blood <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/cluster0_barcodes.tsv", header = F, row.names = "V1")
+
+patient_6_blood$Sample<- "Cos-6"
+patient_6_blood.1$Sample<- "Cos-6"
+
+patient_12_blood$Sample<- "Cos-12"
+patient_12_blood.1$Sample<- "Cos-12"
+
+patient_1_blood$Sample <- "Cos-1"
+patient_3_blood$Sample <- "Cos-3"
+
+sample_meta <- rbind(patient_6_blood, patient_6_blood.1,patient_12_blood,patient_12_blood.1,patient_1_blood,patient_3_blood)
+```
+
+```{r}
+c006PBMCs <- Read10X("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/filtered_feature_bc_matrix/")
+```
+
+```{r}
+c006PBMCs_raw <- Read10X("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/raw_feature_bc_matrix")
+```
+
+```{r}
+clustering <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/analysis/clustering/gene_expression_graphclust/clusters.csv", row.names = 1)
+clustering_vector <- unlist(as.vector(clustering))
+names(clustering_vector) <- rownames(clustering)
+```
+
+
+```{r pressure, echo=FALSE}
+sc = SoupChannel(c006PBMCs_raw, c006PBMCs)
+sc = setClusters(sc, clustering_vector)
+```
+```{r}
+umap_coords <- read.csv("/datastore3/Olympia/COSMIC_data/Blood/006-001-012-003-007-008-PBMCs/analysis/umap/gene_expression_2_components/projection.csv")
+```
+
+```{r}
+sc = setDR(sc, umap_coords[colnames(sc$toc), c("UMAP.1", "UMAP.2")])
+```
+
+```{r}
+plotMarkerDistribution(sc)
+```
+```{r}
+hbGenes <- c("HBB","HBA2")
+useToEst = estimateNonExpressingCells(sc, nonExpressedGeneList = list(HB = hbGenes))
+plotMarkerMap(sc, geneSet = hbGenes, useToEst = useToEst)
+```
+
+
+```{r}
+sc = calculateContaminationFraction(sc, list(HB = hbGenes), useToEst = useToEst)
+```
+
+```{r}
+sc  <- autoEstCont(sc)
+adj.matrix  <- adjustCounts(sc, roundToInt = T)
+```
+
+```{r}
+c006PBMCs <- as.matrix(adj.matrix)
+c006PBMCs <- c006PBMCs[,rownames(sample_meta)]
+```
+
+```{r}
+c006PBMCs.obj <- CreateSeuratObject(counts = c006PBMCs,
+                              project = "Cos006-001-012-003-007-008-PBMCs")
+```
+
+```{r}
+c006PBMCs.obj$Sample <- sample_meta$Sample
+```
+
+```{r}
+c006PBMCs.obj.list <- SplitObject(c006PBMCs.obj, split.by = "Sample")
+```
+
+```{r}
+cos6_blood <- c006PBMCs.obj.list[[1]]
+cos12_blood <- c006PBMCs.obj.list[[2]]
+cos1_blood <- c006PBMCs.obj.list[[3]]
+cos3_blood <- c006PBMCs.obj.list[[4]]
+
+```
+
+```{r}
+cos12_blood$Sample <- "Cos-12"
+cos12_blood$Group <- "COVID-19"
+cos12_blood$Diagnosis <- "Sepsis from bowel perforation"
+cos12_blood$AM_Covid <- "Positive"
+cos12_blood$PM_Covid <- "Positive"
+cos12_blood$Sex <- "Female"
+cos12_blood$HIV_Status <- "Negative"
+```
+
+
+```{r}
+cos6_blood$Group <- "COVID-19"
+cos6_blood$Diagnosis <- "COVID-19"
+cos6_blood$AM_Covid <- "Positive"
+cos6_blood$PM_Covid <- "Positive"
+cos6_blood$Sex <- "Male"
+cos6_blood$HIV_Status <- "Positive"
+```
+
+```{r}
+cos1_blood$Group <- "Pneumonia"
+cos1_blood$Diagnosis <- "Pulmonary TB"
+cos1_blood$AM_Covid <- "Negative"
+cos1_blood$PM_Covid <- "Negative"
+cos1_blood$Sex <- "Male"
+cos1_blood$HIV_Status <- "Positive"
+```
+
+```{r}
+cos3_blood$Group <- "COVID-19"
+cos3_blood$Diagnosis <- "COVID-19"
+cos3_blood$AM_Covid <- "Positive"
+cos3_blood$PM_Covid <- "Positive"
+cos3_blood$Sex <- "Male"
+cos3_blood$HIV_Status <- "Positive"
+```
+
+```{r}
+cos1_blood[["percent.mt"]] <- PercentageFeatureSet(cos1_blood, pattern = "^MT-")
+cos3_blood[["percent.mt"]] <- PercentageFeatureSet(cos3_blood, pattern = "^MT-")
+cos6_blood[["percent.mt"]] <- PercentageFeatureSet(cos6_blood, pattern = "^MT-")
+cos12_blood[["percent.mt"]] <- PercentageFeatureSet(cos12_blood, pattern = "^MT-")
+cos12_pbmc[["percent.mt"]] <- PercentageFeatureSet(cos12_pbmc, pattern = "^MT-")
+cos13_pbmc[["percent.mt"]] <- PercentageFeatureSet(cos13_pbmc, pattern = "^MT-")
+cos14_pbmc[["percent.mt"]] <- PercentageFeatureSet(cos14_pbmc, pattern = "^MT-")
+cos15_pbmc[["percent.mt"]] <- PercentageFeatureSet(cos15_pbmc, pattern = "^MT-")
+cos16_pbmc[["percent.mt"]] <- PercentageFeatureSet(cos16_pbmc, pattern = "^MT-")
+```
+
+```{r}
+FeatureScatter(cos1_blood, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos1_blood, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos1_blood, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos1_blood <- subset(cos1_blood, subset = nFeature_RNA > 150 & nFeature_RNA < 7000 & percent.mt < 25)
+```
+
+
+```{r}
+FeatureScatter(cos3_blood, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos3_blood, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos3_blood, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos3_blood <- subset(cos3_blood, subset = nFeature_RNA > 150 & nFeature_RNA < 3500 & percent.mt < 25)
+```
+
+```{r}
+FeatureScatter(cos6_blood, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos6_blood, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos6_blood, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos6_blood <- subset(cos6_blood, subset = nFeature_RNA > 150 & nFeature_RNA < 4000 & percent.mt < 25)
+```
+
+```{r}
+FeatureScatter(cos12_blood, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos12_blood, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos12_blood, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos12_blood <- subset(cos12_blood, subset = nFeature_RNA > 150 & nFeature_RNA < 7000 & percent.mt < 25)
+```
+
+```{r}
+FeatureScatter(cos12_pbmc, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos12_pbmc, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos12_pbmc, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos12_pbmc <- subset(cos12_pbmc, subset = nFeature_RNA > 150 & nFeature_RNA < 6000 & percent.mt < 25)
+```
+
+```{r}
+FeatureScatter(cos13_pbmc, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos13_pbmc, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos13_pbmc, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos13_pbmc <- subset(cos13_pbmc, subset = nFeature_RNA > 150 & nFeature_RNA < 2500 & percent.mt < 15)
+```
+
+```{r}
+FeatureScatter(cos14_pbmc, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos14_pbmc, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos14_pbmc, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos14_pbmc <- subset(cos14_pbmc, subset = nFeature_RNA > 150 & nFeature_RNA < 6000 & percent.mt < 10)
+```
+
+```{r}
+FeatureScatter(cos15_pbmc, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos15_pbmc, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos15_pbmc, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos15_pbmc <- subset(cos15_pbmc, subset = nFeature_RNA > 150 & nFeature_RNA < 8000 & percent.mt < 25)
+```
+
+```{r}
+FeatureScatter(cos16_pbmc, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+FeatureScatter(cos16_pbmc, feature1 = "nCount_RNA", feature2 = "percent.mt")
+Mark.cells(cos16_pbmc, nFeature.low = 150, nFeature.high = 7000, mt.high = 25, nCount.high = 18000)
+```
+
+```{r}
+cos16_pbmc <- subset(cos16_pbmc, subset = nFeature_RNA > 150 & nFeature_RNA < 5000 & percent.mt < 20)
+```
+
+
+```{r}
+pbmc_obj.list <- c(cos1_blood,cos3_blood,cos6_blood,cos12_blood,cos12_pbmc, cos13_pbmc,cos14_pbmc,cos15_pbmc,cos16_pbmc)
+```
+
+
+```{r}
+merged_samples_pbmc <- merge(x = pbmc_obj.list[[1]],
+                       y = pbmc_obj.list[2:length(pbmc_obj.list)],
+                       merge.data = TRUE)
+```
+
+```{r}
+table(merged_samples_pbmc$Sample)
+```
+```{r}
+merged_samples_pbmc = subset(merged_samples_pbmc, HBB < 4)
+```
+
+```{r}
+merged_samples_pbmc = subset(merged_samples_pbmc, Sample != "Cos-6")
+```
+
+```{r}
+merged_samples_pbmc <- merged_samples_pbmc %>%
+    NormalizeData() %>%
+    FindVariableFeatures(selection.method = "vst", nfeatures = 3000) %>% 
+    ScaleData() %>%
+    SCTransform(vars.to.regress = c("percent.mt"))
+```
+
+
+
+```{r}
+merged_samples_pbmc <- RunPCA(merged_samples_pbmc, assay = "SCT", npcs = 50)
+```
+
+
+
+```{r}
+integrated_cosmic_pbmc <- RunHarmony(merged_samples_pbmc, 
+                                group.by.vars = c("Sample"), 
+                                reduction = "pca", assay.use = "SCT", reduction.save = "harmony")
+```
+
+
+```{r}
+ElbowPlot(integrated_cosmic_pbmc)
+```
+
+```{r}
+integrated_cosmic_pbmc <- RunUMAP(integrated_cosmic_pbmc, reduction = "harmony", assay = "SCT", dims = 1:30)
+integrated_cosmic_pbmc <- FindNeighbors(integrated_cosmic_pbmc, reduction = "harmony", dims = 1:30, verbose=FALSE)
+integrated_cosmic_pbmc <- FindClusters(integrated_cosmic_pbmc, verbose = FALSE, res=0.5)
+```
+
+
+```{r}
+DimPlot(object = integrated_cosmic_pbmc, reduction = "umap") + theme_powerpoint()
+FeaturePlot(integrated_cosmic_pbmc, features = c("percent.mt", "nCount_RNA", "nFeature_RNA", "HBB"))
+DimPlot(object = integrated_cosmic_pbmc, reduction = "umap", group.by="Sample") + theme_powerpoint()
+DimPlot(object = integrated_cosmic_pbmc, reduction = "umap", group.by="Group") + theme_powerpoint()
+```
+
+```{r}
+DefaultAssay(integrated_cosmic_pbmc) <- "RNA"
+# Monocytes 9/10 also show macro markers?
+VlnPlot(integrated_cosmic_pbmc, features = c("CD14", "LYZ", "VCAN", "FCN1", "S100A8", "FCGR3A", "LST", "MPO", "ICAM1"), pt.size = 0)
+
+# T cells - 13 is CD8+, 5 is NK cells, 6 naive CD4+, 3 is CD4+
+VlnPlot(integrated_cosmic_pbmc, features = c("CD3D", "CD8A", "IL7R", "CCR7", "S100A4", "FCGR3A", "GZMB", "KLRG1"), pt.size = 0)
+
+# B cells - 14 is B cell
+VlnPlot(integrated_cosmic_pbmc, features = c("CD79A", "MS4A1", "BANK1", "HLA-DQA"), pt.size = 0)
+
+# DC - mDC 17
+VlnPlot(integrated_cosmic_pbmc, features = c("CD1C", "CLEC10A", "GPR183", "CD36", "CD14", "CD163", "CD68", "AXL", "CCR5"), pt.size = 0)
+VlnPlot(integrated_cosmic_pbmc, features = c("IL3RA", "PTPRC", "SIGLEC3", "CLEC4C"), pt.size = 0)
+
+# Neutrophil
+VlnPlot(integrated_cosmic_pbmc, features = c("CXCR4", "CD49", "CD177", "FCGR3B", "CXCL8"), pt.size = 0)
+```
+
+```{r}
+DefaultAssay(integrated_cosmic_pbmc) <- "RNA"
+pbmc.markers <- FindAllMarkers(integrated_cosmic_pbmc, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25, test.use = "MAST")
+top.pbmc.markers <- pbmc.markers %>%
+    group_by(cluster) %>%
+    slice_max(n = 10, order_by = avg_log2FC)
+```
+
+
+
+```{r}
+saveRDS(integrated_cosmic_pbmc, "/datastore3/Olympia/blood_integrated.rds")
+```
+
+
+```{r}
+write.csv(pbmc.markers,"/datastore3/Olympia/pbmc_markers.csv" )
+```
+
+```{r}
+integrated_cosmic_pbmc <- readRDS("/datastore3/Olympia/blood_integrated.rds")
+```
+
+
+```{r}
+pbmc.markers <- read.csv("/datastore3/Olympia/pbmc_markers.csv" )
+```
+
+```{r}
+FeaturePlot(integrated_cosmic_pbmc, features = c("HBB", "HBA2"))
+```
+
+```{r}
+FeaturePlot(integrated_cosmic_pbmc_nosoup, features = c("HBB", "HBA2"))
+```
+```{r}
+FeaturePlot(integrated_cosmic_pbmc_clean, features = c("HBB", "HBA2"))
+```
+```{r}
+DimPlot(object = integrated_cosmic_pbmc_clean, reduction = "umap", group.by="Sample") + theme_powerpoint()
+DimPlot(object = integrated_cosmic_pbmc_clean, reduction = "umap", group.by="Group") + theme_powerpoint()
+```
+```{r}
+DefaultAssay(integrated_cosmic_pbmc_clean) <- "RNA"
+pbmc.markers.clean <- FindAllMarkers(integrated_cosmic_pbmc_clean, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25, test.use = "MAST")
+top.pbmc.markers.clean <- pbmc.markers.clean %>%
+    group_by(cluster) %>%
+    slice_max(n = 10, order_by = avg_log2FC)
+```
+
+``` {r}
+DefaultAssay(integrated_cosmic_pbmc_clean) <- "RNA"
+# Monocytes 9/10 also show macro markers?
+VlnPlot(integrated_cosmic_pbmc_clean, features = c("CD14", "LYZ", "VCAN", "FCN1", "S100A8", "FCGR3A", "LST", "MPO", "ICAM1"), pt.size = 0)
+
+# T cells - 13 is CD8+, 5 is NK cells, 6 naive CD4+, 3 is CD4+
+VlnPlot(integrated_cosmic_pbmc_clean, features = c("CD3D", "CD8A", "IL7R", "CCR7", "S100A4", "FCGR3A", "GZMB", "KLRG1"), pt.size = 0)
+
+# B cells - 14 is B cell
+VlnPlot(integrated_cosmic_pbmc_clean, features = c("CD79A", "MS4A1", "BANK1", "HLA-DQA"), pt.size = 0)
+
+# DC - mDC 17
+VlnPlot(integrated_cosmic_pbmc_clean, features = c("CD1C", "CLEC10A", "GPR183", "CD36", "CD14", "CD163", "CD68", "AXL", "CCR5"), pt.size = 0)
+VlnPlot(integrated_cosmic_pbmc_clean, features = c("IL3RA", "PTPRC", "SIGLEC3", "CLEC4C"), pt.size = 0)
+
+# Neutrophil
+VlnPlot(integrated_cosmic_pbmc_clean, features = c("CXCR4", "CD49", "CD177", "FCGR3B", "CXCL8"), pt.size = 0)
+```
+
+```{r}
+DimPlot(integrated_cosmic_pbmc_clean, label = T) + NoLegend()
+```
+
+```{r}
+myeloid <- subset(integrated_cosmic_pbmc_clean, idents = c(4,10,1,0,6))
+```
+
+```{r}
+myeloid <- myeloid %>%
+    NormalizeData() %>%
+    FindVariableFeatures(selection.method = "vst", nfeatures = 2000) %>% 
+    ScaleData() %>%
+    SCTransform(vars.to.regress = c("percent.mt"))
+```
+
+```{r}
+myeloid <- RunPCA(myeloid, assay = "SCT", npcs = 50)
+```
+
+```{r}
+integrated_myeloid <- RunHarmony(myeloid, 
+                                group.by.vars = c("Sample"), 
+                                reduction = "pca", assay.use = "SCT", reduction.save = "harmony")
+```
+
+```{r}
+integrated_myeloid <- RunUMAP(integrated_myeloid, reduction = "harmony", assay = "SCT", dims = 1:30)
+integrated_myeloid <- FindNeighbors(integrated_myeloid, reduction = "harmony", dims = 1:30, verbose=FALSE)
+integrated_myeloid <- FindClusters(integrated_myeloid, verbose = FALSE, res=0.3)
+```
+
+```{r}
+DimPlot(object = integrated_myeloid, reduction = "umap") + theme_powerpoint()
+FeaturePlot(integrated_myeloid, features = c("percent.mt", "nCount_RNA", "nFeature_RNA", "HBB"))
+DimPlot(object = integrated_myeloid, reduction = "umap", group.by="Sample") + theme_powerpoint()
+DimPlot(object = integrated_myeloid, reduction = "umap", group.by="Group") + theme_powerpoint()
+```
+```{r}
+DefaultAssay(integrated_myeloid) <- "RNA"
+integrated_myeloid.markers <- FindAllMarkers(integrated_myeloid, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25, test.use = "MAST")
+top.integrated_myeloid.markers <- integrated_myeloid.markers %>%
+    group_by(cluster) %>%
+    slice_max(n = 10, order_by = avg_log2FC)
+```
+```{r}
+tcell <- subset(integrated_cosmic_pbmc_clean, idents = c(2,13,9,8,3,12))
+```
+
+```{r}
+tcell <- tcell %>%
+    NormalizeData() %>%
+    FindVariableFeatures(selection.method = "vst", nfeatures = 2000) %>% 
+    ScaleData() %>%
+    SCTransform(vars.to.regress = c("percent.mt"))
+```
+
+```{r}
+tcell <- RunPCA(tcell, assay = "SCT", npcs = 50)
+```
+
+```{r}
+integrated_tcell <- RunHarmony(tcell, 
+                                group.by.vars = c("Sample"), 
+                                reduction = "pca", assay.use = "SCT", reduction.save = "harmony")
+```
+
+```{r}
+integrated_tcell <- RunUMAP(integrated_tcell, reduction = "harmony", assay = "SCT", dims = 1:30)
+integrated_tcell <- FindNeighbors(integrated_tcell, reduction = "harmony", dims = 1:30, verbose=FALSE)
+integrated_tcell <- FindClusters(integrated_tcell, verbose = FALSE, res=0.2)
+```
+
+```{r}
+DimPlot(object = integrated_tcell, reduction = "umap") + theme_powerpoint()
+FeaturePlot(integrated_tcell, features = c("percent.mt", "nCount_RNA", "nFeature_RNA", "HBB"))
+DimPlot(object = integrated_tcell, reduction = "umap", group.by="Sample") + theme_powerpoint()
+DimPlot(object = integrated_tcell, reduction = "umap", group.by="Group") + theme_powerpoint()
+```
+```{r}
+DefaultAssay(integrated_tcell) <- "RNA"
+integrated_tcell.markers <- FindAllMarkers(integrated_tcell, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25, test.use = "MAST")
+top.integrated_tcell.markers <- integrated_tcell.markers %>%
+    group_by(cluster) %>%
+    slice_max(n = 10, order_by = avg_log2FC)
+```
+```{r}
+hbb_contaminant <- subset(integrated_cosmic_pbmc, idents = c(7,2,11,18,13,1,10))
+```
+
+```{r}
+hbb_contaminant <- hbb_contaminant %>%
+    NormalizeData() %>%
+    FindVariableFeatures(selection.method = "vst", nfeatures = 2000) %>% 
+    ScaleData() %>%
+    SCTransform(vars.to.regress = c("percent.mt"))
+```
+
+```{r}
+hbb_contaminant <- RunPCA(hbb_contaminant, assay = "SCT", npcs = 50)
+```
+
+```{r}
+integrated_hbb_contaminant <- RunHarmony(hbb_contaminant, 
+                                group.by.vars = c("Sample"), 
+                                reduction = "pca", assay.use = "SCT", reduction.save = "harmony")
+```
+
+```{r}
+integrated_hbb_contaminant <- RunUMAP(integrated_hbb_contaminant, reduction = "harmony", assay = "SCT", dims = 1:30)
+integrated_hbb_contaminant <- FindNeighbors(integrated_hbb_contaminant, reduction = "harmony", dims = 1:30, verbose=FALSE)
+integrated_hbb_contaminant <- FindClusters(integrated_hbb_contaminant, verbose = FALSE, res=0.3)
+```
+
+
+```{r}
+DimPlot(object = integrated_hbb_contaminant, reduction = "umap") + theme_powerpoint()
+FeaturePlot(integrated_hbb_contaminant, features = c("percent.mt", "nCount_RNA", "nFeature_RNA", "HBB"))
+DimPlot(object = integrated_hbb_contaminant, reduction = "umap", group.by="Sample") + theme_powerpoint()
+DimPlot(object = integrated_hbb_contaminant, reduction = "umap", group.by="Group") + theme_powerpoint()
+```
+
+
+```{r}
+clean.var.features <- integrated_cosmic_pbmc_clean@assays$SCT@var.features
+```
+
+```{r}
+soup_sample_list <- SplitObject(integrated_cosmic_pbmc, split.by = "Sample")
+```
+
+```{r}
+object.vector <- unlist(soup_sample_list)
+```
+
+```{r}
+merged_samples_pbmc_soup <- merge(x = object.vector[[1]],
+                       y = object.vector[2:length(object.vector)],
+                       merge.data = TRUE)
+```
+
+
+
+```{r}
+merged_samples_pbmc_soup <- NormalizeData(merged_samples_pbmc_soup)
+```
+
+```{r}
+VariableFeatures(merged_samples_pbmc_soup) <- clean.var.features
+```
+
+```{r}
+merged_samples_pbmc_soup <- ScaleData(merged_samples_pbmc_soup)
+merged_samples_pbmc_soup <- SCTransform(merged_samples_pbmc_soup, vars.to.regress = c("percent.mt"))
+```
+
+```{r}
+VariableFeatures(merged_samples_pbmc_soup) <- clean.var.features
+merged_samples_pbmc_soup <- ScaleData(merged_samples_pbmc_soup)
+```
+
+
+```{r}
+merged_samples_pbmc_soup <- RunPCA(merged_samples_pbmc_soup, assay = "SCT", npcs = 50)
+```
+
+```{r}
+integrated_hbb_contaminant_clean.vars <- RunHarmony(merged_samples_pbmc_soup, 
+                                group.by.vars = c("Sample"), 
+                                reduction = "pca", assay.use = "SCT", reduction.save = "harmony")
+```
+
+```{r}
+integrated_hbb_contaminant_clean.vars <- RunUMAP(integrated_hbb_contaminant_clean.vars, reduction = "harmony", assay = "SCT", dims = 1:30)
+integrated_hbb_contaminant_clean.vars <- FindNeighbors(integrated_hbb_contaminant_clean.vars, reduction = "harmony", dims = 1:30, verbose=FALSE)
+integrated_hbb_contaminant_clean.vars <- FindClusters(integrated_hbb_contaminant_clean.vars, verbose = FALSE, res=0.5)
+```
+
+```{r}
+DimPlot(object = integrated_hbb_contaminant_clean.vars, reduction = "umap") + theme_powerpoint()
+FeaturePlot(integrated_hbb_contaminant_clean.vars, features = c("percent.mt", "nCount_RNA", "nFeature_RNA", "HBB"))
+DimPlot(object = integrated_hbb_contaminant_clean.vars, reduction = "umap", group.by="Sample") + theme_powerpoint()
+DimPlot(object = integrated_hbb_contaminant_clean.vars, reduction = "umap", group.by="Group") + theme_powerpoint()
+```
+
+
+```{r}
+DefaultAssay(integrated_hbb_contaminant_clean.vars) <- "RNA"
+integrated_hbb_contaminant_clean.vars.markers <- FindAllMarkers(integrated_hbb_contaminant_clean.vars, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25, test.use = "MAST")
+top.integrated_hbb_contaminant_clean.vars.markers <- integrated_hbb_contaminant_clean.vars.markers %>%
+    group_by(cluster) %>%
+    slice_max(n = 10, order_by = avg_log2FC)
+```
+
+
+
+
