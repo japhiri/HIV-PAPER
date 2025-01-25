@@ -1,0 +1,57 @@
+Sample,Monocyte CD10 proportion,Monocyte CD63 proportion,Monocyte CD10+CD63+,Monocyte CD10+CD63-,Monocyte CD10-CD63+,Monocyte CD10-CD63-,Monocyte CD10+CD11b+CD62L+CD63+,Monocyte CD10+CD11b+CD62L+CD63-,Monocyte CD10+CD11b+CD62L-CD63+,Monocyte CD10+CD11b+CD62L-CD63-,Monocyte CD10+CD11b-CD62L+CD63+,Monocyte CD10+CD11b-CD62L+CD63-,Monocyte CD10+CD11b-CD62L-CD63+,Monocyte CD10+CD11b-CD62L-CD63-,Monocyte CD10-CD11b+CD62L+CD63+,Monocyte CD10-CD11b+CD62L+CD63-,Monocyte CD10-CD11b+CD62L-CD63+,Monocyte CD10-CD11b+CD62L-CD63-,Monocyte CD10-CD11b-CD62L+CD63+,Monocyte CD10-CD11b-CD62L+CD63-,Monocyte CD10-CD11b-CD62L-CD63+,Monocyte CD10-CD11b-CD62L-CD63-,Monocyte CD10 MFI,Monocyte CD63 MFI,Monocyte CD10+ MFI,Monocyte CD63+ MFI,LAB ID,Sample Type,Sample Quality,CD3 Staining,CD11b Staining,Panel
+Samples_CUI12C New Myeloid Panel 1 Nasal_001.fcs,0,66.3,16.4,15.1,44.6,23.9,0,0,0,0,0,0,0,0,0,0,31.5,18.5,1.09,0,33.7,15.2,50.5,2404,n/a,3152,CUI12C,Nasal,Good,Stained,Stained,NewMF
+Samples_CUI129 New Myeloid Panel 1 Nasal_001.fcs,0,37.1,11.6,68.2,5.1,15,0,0,0,0,0,0,0,0,2.25,11.2,21.3,22.5,1.12,0,12.4,29.2,76.7,1539,n/a,3304,CUI129,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI 15S Nasal.fcs,3.9,98.3,55,35.8,5.25,3.98,0,0,3.69,0.22,0,0,0,0,2.17,0,92.2,1.08,0,0,0.22,0.43,55.2,9561,1077,9618,CUI15S,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI15Y Nasal.fcs,0,63.8,6.88,51.1,6.32,35.7,0,0,0,0,0,0,0,0,0,0,6.03,2.59,0.86,0,56.9,33.6,75.9,1070,n/a,1631,CUI15Y,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI15Z Nasal.fcs,0,52.5,14.5,16.7,29.8,38.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52.5,47.5,53.5,642,n/a,1315,CUI15Z,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI160 Nasal.fcs,0,0,9.04,61.2,8.03,21.7,0,0,0,0,0,42.9,0,0,0,0,0,0,0,42.9,0,57.1,48.1,85.1,n/a,n/a,CUI160,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI161 Nasal.fcs,0,0,4.64,75.4,1.06,18.9,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,94.7,64.2,-1.8,n/a,n/a,CUI161,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI162 Nasal.fcs,0,48.5,18.5,31.5,28.2,21.9,0,0,0,0,0,0.42,0,0,0,0,0.84,0,0.42,0.42,47.3,51,35.6,824,n/a,1693,CUI162,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI163 Nasal.fcs,0.4,0,0.53,56.5,0.3,42.7,0,0,0,0,0,1.99,0,0.4,0,0,0,17.5,0,1.99,0,80.1,57.1,1.8,6633,n/a,CUI163,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI164 Nasal Scrape.fcs,0,69,28.5,56.3,9.97,5.27,0,0,0,0,0,0,0,0,0,0,69,13.8,0,0,0,17.2,61.5,6032,n/a,7336,CUI164,Nasal,Good,Stained,Stained,NewMF
+Specimen_001_CUI167  Nasal Scrape.fcs,0,82.5,11.9,22.3,33.9,31.9,0,0,0,0,0,0,0,0,3.51,0,24.6,3.51,0,0,54.4,14,64.5,2682,n/a,3051,CUI167,Nasal,Good,Stained,Stained,NewMF
+Samples_CUI11T New Myeloid Panel 1 Nasal_001.fcs,0,90.3,26.5,19.1,38.8,15.6,0,0,0,0,0,0,0,0,20.4,0,25.2,0,0.97,0,43.7,9.71,77.8,4592,n/a,4719,CUI11T,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11U New Myeloid Panel 1 Nasal_001.fcs,0,50,5.39,44.8,18.2,31.6,0,0,0,0,0,0,0,0,0,0,12.5,0,0,0,37.5,50,69.3,1883,n/a,3163,CUI11U,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11V New Myeloid Panel 1 Nasal_001.fcs,0,16.1,15.3,18.1,25.4,41.2,0,0,0,0,0,0,0,0,0,0,3.23,3.23,0,0,12.9,80.6,57.4,885,n/a,3900,CUI11V,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11W New Myeloid Panel 1 Nasal_001.fcs,0,83.8,50.5,22,16.3,11.2,0,0,0,0,0,0,0,0,3.73,0,12.9,0,1.24,0,66,16.2,71.9,7054,n/a,8242,CUI11W,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11X New Myeloid Panel 1 Nasal_001.fcs,0,44.3,28.6,32.8,23,15.6,0,0,0,0,0,1.64,0,0,0,0,0,0,1.64,1.64,42.6,54.1,64.7,1589,n/a,2784,CUI11X,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12A New Myeloid Panel 1 Nasal_001.fcs,0.47,39.3,9.74,76.2,6.69,7.33,0,0,0.12,0.35,0,0,0,0,0,0.24,35.2,52.8,0,0,4,7.29,104,1674,407,2775,CUI12A,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12B New Myeloid Panel 1 Nasal_001.fcs,1.03,59.8,24.6,46.6,18.6,10.2,0,0,1.03,0,0,0,0,0,3.09,0,17.5,8.25,0,0,38.1,32,76,2552,327,3644,CUI12B,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12D New Myeloid Panel 1 Nasal_001.fcs,0.7,59.9,11.1,74.2,7,7.64,0,0,0.23,0,0,0,0.46,0,0.93,2.32,16.9,9.98,0.23,0,41.1,27.8,76.3,1579,355,2535,CUI12D,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12E New Myeloid Panel 1 Nasal_001.fcs,6.42,74.1,11.2,70.7,6.95,11.2,0.36,0.24,2.85,0,0,0.12,2.02,0.95,1.66,0.83,11.2,1.19,0.59,0.12,55.4,22.6,61,2412,222,3163,CUI12E,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12J New Myeloid Panel 1 Nasal_001.fcs,1.75,64.3,21.7,61.8,10,6.51,0,0.58,0,0,0,1.17,0,1.17,0,0,17.5,9.36,0,1.17,46.8,23.4,50.9,966,407,1519,CUH12J,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI124 New Myeloid Panel 1 Nasal_001.fcs,0,0,6.47,71.5,6.76,15.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n/a,n/a,n/a,n/a,CUI124,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI125 New Myeloid Panel 1 Nasal_001.fcs,0,75,9.55,73.5,8.78,8.22,0,0,0,0,0,0,0,0,0,0,3.33,1.67,0,0,71.7,23.3,69.1,2412,n/a,3452,CUI125,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI126 New Myeloid Panel 1 Nasal_001.fcs,0.041,93,10.6,53.6,18.2,17.6,0,0,0,0.041,0,0.083,0,0,9.59,0.21,60.1,1.29,1.7,0.083,21.6,5.39,98.8,5158,1539,5393,CUI126,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI127 New Myeloid Panel 1 Nasal_001.fcs,0,77.3,9.9,26.3,27.3,36.5,0,0,0,0,0,0,0,0,27.3,18.2,27.3,0,13.6,0,9.09,4.55,97.9,3079,n/a,3571,CUI127,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI128 New Myeloid Panel 1 Nasal_001.fcs,0,0,16.5,46.2,20.5,16.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n/a,n/a,n/a,n/a,CUI128,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11K New Myeloid Panel 1 Nasal_001.fcs,0,81.2,21.1,28.7,31,19.2,0,0,0,0,0,0,0,0,12.4,2.29,12.8,0.46,0,0,56,16.1,64.1,4021,n/a,4784,CUI11K,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11L New Myeloid Panel 1 Nasal_001.fcs,0,50,11,53.9,3.07,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,49.2,1652,n/a,2162,CUI11L,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11M New Myeloid Panel 1 Nasal_001.fcs,0,77.5,19.1,73.1,2.77,5.08,0,0,0,0,0,1.41,0,0,0,1.41,52.1,0,1.41,1.41,23.9,19.7,124,4188,n/a,5338,CUI11M,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11P New Myeloid Panel 1 Nasal_001.fcs,11.2,78.8,16.1,53.1,5.22,25.6,1.54,0,0.58,0,1.35,0.39,6.37,1.35,32,0.77,7.34,0.19,3.86,0.39,25.7,18.5,117,3953,284,4703,CUI11P,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11Q New Myeloid Panel 1 Nasal_001.fcs,0.38,43.1,4.96,32.3,17.9,44.8,0,0,0,0,0,0.77,0,0.38,0.77,5.38,9.23,23.5,3.46,0.77,29.6,26.9,88.9,1680,1506,3487,CUI11Q,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11R New Myeloid Panel 1 Nasal_001.fcs,0,92.3,17.4,27,30.9,24.7,0,0,0,0,0,0,0,0,0,0,1.92,0,0,0,90.4,7.69,39.6,6295,n/a,6768,CUI11R,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI11S New Myeloid Panel 1 Nasal_001.fcs,1.79,37.5,18.2,61.4,10.2,10.2,0,0,0,0,0,0,0,1.79,0,0,7.14,0,1.79,0,28.6,60.7,28.9,1419,1093,3632,CUI11S,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12F New Myeloid Panel 1 Nasal_001.fcs,0,54.5,6.23,77.8,5.68,10.3,0,0,0,0,0,0,0,0,0,0,2.02,2.02,0,0,52.5,43.4,72.5,2169,n/a,3770,CUI12F,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12G New Myeloid Panel 1 Nasal_001.fcs,0,55.6,13.7,77.1,2.43,6.8,0,0,0,0,0,0,0,0,0,0,22.2,0,0,0,33.3,44.4,64.7,1252,n/a,1534,CUI12G,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12H New Myeloid Panel 1 Nasal_001.fcs,1.82,63.6,3.58,74.3,5.27,16.8,0,0,0,0,0,1.82,0,0,0,0,1.82,0,0,1.82,61.8,32.7,33.5,1741,630,2364,CUI12H,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12I New Myeloid Panel 1 Nasal_001.fcs,0,64.3,15.7,61.4,8.25,14.6,0,0,0,0,0,0,0,0,7.14,3.57,26.8,7.14,1.79,0,28.6,25,83.7,1289,n/a,1920,CUI12I,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12M New Myeloid Panel 1 Nasal_001.fcs,0,81.8,19.1,72.1,7.54,1.26,0,0,0,0,0,0.42,0,0,0.42,1.69,24.6,5.51,0.42,0.42,56.4,10.6,83.9,3163,n/a,3770,CUI12M,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12N New Myeloid Panel 1 Nasal_001.fcs,0,8.2,12,56,8.79,23.2,0,0,0,0,0,1.64,0,0,0,0,0,11.5,0,1.64,8.2,78.7,46.8,286,n/a,1452,CUI12N,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12P New Myeloid Panel 1 Nasal_001.fcs,0,27.8,12.7,13.9,20.6,52.7,0,0,0,0,0,0,0,0,0,0,0,5.56,0,0,27.8,66.7,6.82,209,n/a,789,CUI12P,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12Q New Myeloid Panel 1 Nasal_001.fcs,3.33,40,8.5,8.52,40.2,42.8,0,0,3.33,0,0,0,0,0,0,0,0,3.33,0,0,36.7,56.7,52.1,893,904,1805,CUI12Q,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12R New Myeloid Panel 1 Nasal_001.fcs,0,60,52.6,20,17.6,9.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,40,35.1,1933,n/a,1965,CUI12P,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12S New Myeloid Panel 1 Nasal_001.fcs,0,72,10.4,68.1,8.75,12.8,0,0,0,0,0,0,0,0,0,0,24,0,0,0,48,28,43.3,2957,n/a,3523,CUI12S,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12X New Myeloid Panel 1 Nasal_001.fcs,0.24,83.4,32,50.9,13.8,3.29,0,0,0,0,0,0,0.12,0,0.12,0,1.91,0,3.71,0,77.5,16.5,110,2756,1044,3476,CUI12X,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12Y New Myeloid Panel 1 Nasal_001.fcs,0,39.1,23.6,16.6,40,19.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39.1,60.9,56.7,1322,n/a,3499,CUI12Y,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI13I New Myeloid Panel 1 Nasal_001.fcs,0,26.7,42.6,23.7,15,18.7,0,0,0,0,0,0,0,0,0,2.22,8.89,0,0,0,17.8,71.1,83.5,1799,n/a,3620,CUI131,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI120 New Myeloid Panel 1 Nasal_001.fcs,0,50,16.5,48.5,13.4,21.6,0,0,0,0,0,0,0,0,0,20,40,20,0,0,10,10,85.4,599,n/a,2587,CUI120,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI121 New Myeloid Panel 1 Nasal_001.fcs,0,69,7.82,82.3,3.36,6.52,0,0,0,0,0,0.65,0,0,0.65,0,22.6,9.03,0,0.65,45.8,21.3,64.9,1335,n/a,1939,CUI121,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI122 New Myeloid Panel 1 Nasal_001.fcs,0,0,20.7,40.9,5.77,32.7,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,50,32.8,275,n/a,n/a,CUI122,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI123 New Myeloid Panel 1 Nasal_001.fcs,6.67,76.2,20.8,62.8,3.4,13,0,0,0.83,0.83,1.25,0.42,1.67,1.67,0.42,2.08,33.3,2.92,1.67,0.42,37.1,15.4,119,2341,445,2947,CUI123,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI130 New Myeloid Panel 1 Nasal_001.fcs,0,93,12.8,62.5,12.1,12.6,0,0,0,0,0,0,0,0,2.33,0,60.5,0,0,0,30.2,6.98,82.5,5658,n/a,5816,CUI130,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI134 New Myeloid Panel 1 Nasal_001.fcs,4.31,66,43.5,32.2,13,11.3,0,0,1.13,0,0,0,2.95,0.23,0.23,4.99,23.8,12.5,0.23,0,37.6,16.3,67.9,1594,231,2613,CUI134,Nasal,Good,Not Stained,Stained,NewMF
+Samples_CUI12V New Myeloid Panel 1 Nasal_001.fcs,0,81.8,24.5,60.6,6.07,8.86,0,0,0,0,0,0,0,0,0,0,27.3,0,9.09,0,45.5,18.2,95.7,3116,n/a,4418,CUI12V,Nasal,Good,Not Stained,Stained,NewMF
+Specimen_001_CUI15T Nasal.fcs,0.58,31.2,10.3,57.1,8.93,23.6,0,0,0,0,0,1.16,0.58,0,0,0,3.47,2.89,1.16,1.16,26,64.7,46.4,843,1690,2653,CUI15T,Nasal,Good,Not Stained,Stained,NewMF
+Specimen_001_CUI15U Nasal.fcs,0,60.3,10.2,24,21.3,44.4,0,0,0,0,0,0,0,0,0,0,4.11,0,2.74,0,53.4,39.7,39.4,1782,n/a,3200,CUI15U,Nasal,Good,Not Stained,Stained,NewMF
+Specimen_001_CUI15V Nasal.fcs,0,60.6,8.86,25.3,15.2,50.6,0,0,0,0,0,3.03,0,0,0,0,9.09,3.03,6.06,3.03,45.5,33.3,32.3,2551,n/a,4504,CUI15V,Nasal,Good,Not Stained,Stained,NewMF
