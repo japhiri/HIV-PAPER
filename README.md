@@ -1,5 +1,5 @@
 **Authors**
-Joseph Aston Phiri1,2, Lusako Lucky Sibale1,2, Gloria Kapira1,2, Lukerensia Mlogoti1, James Tchando Nyirenda1,4, Ndaona Mitole1,3, Alice Kusakala1,3, Charles Ndovi1, Precious Chigamba1,4, Thokozani Kayembe1, Janet Zambezi1, Edwin Lisimba1,  Memory Nekati Mvula1, David Viyezgo Mhango1,2, Leonard Mvaya1,2, Stephen Gordon1,2, Benjamin Kumwenda1,3, Christopher Moxon1,4, Daniela Ferreira1,2,5, Henry Mwandumba1,2,3, Kondwani Jambo PhD1,2,3
+Joseph Aston Phiri1,2, Lusako Lucky Sibale1,2, Gloria Kapira1,2, Lukerensia Mlogoti1, James Tchando Nyirenda1,4, Ndaona Mitole1,3, Alice Kusakala1,3, Charles Ndovi1, Precious Chigamba1,4, Thokozani Kayembe1, Janet Zambezi1, Edwin Lisimba1, Klara Doherty2, Robert K. Nyirenda1, Memory Nekati Mvula1, David Viyezgo Mhango1,2, Leonard Mvaya1,2, Stephen Gordon1,2, Benjamin Kumwenda1,3, Christopher Moxon1,4, Daniela Ferreira1,2,5, Henry Mwandumba1,2,3, Kondwani Jambo PhD1,2,3
 
 1.	Malawi Liverpool Wellcome Research Programme, P.O. Box 30096, Blantyre 3, Malawi.
 2.	Department of Clinical Sciences, Liverpool School of Tropical Medicine, Pembroke Place Liverpool, L3 5QA, UK
