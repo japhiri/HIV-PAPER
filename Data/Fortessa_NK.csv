@@ -1,0 +1,109 @@
+Samples,NK cells,NK T cells,NK cells CD3-,NKT cells CD3+,Sample Type,Sample quality,LAB ID,Visit
+Specimen_001_CUF11F T cells PBMC.fcs,18.5,57.9,59.9,83.8,PBMC,Good,CUF11F,Week 1
+Specimen_001_CUF11G T cells Nasal Scrape.fcs,1.21,4.95,8.63,6.54,Scrape,Good,CUF11G,Week 1
+Specimen_001_CUF11G T cells PBMC.fcs,12.5,41.8,36.6,63.5,PBMC,Good,CUF11G,Week 1
+Specimen_001_CUF11H T cells Nasal Scrape.fcs,4.93,31.7,33.5,48.6,Scrape,Good,CUF11H,Week 1
+Specimen_001_CUF11H T cells PBMC.fcs,24.4,40.3,74.1,60.1,PBMC,Good,CUF11H,Week 1
+Specimen_001_CUF11L T cells Nasal Scrape.fcs,11.3,16.2,30.6,36.5,Scrape,Good,CUF11L,Week 1
+Specimen_001_CUF11L T cells PBMC.fcs,19.6,31.5,46.8,54.5,PBMC,Good,CUF11L,Week 1
+Specimen_001_CUF11Q T cells Nasal.fcs,4.81,32.6,17.9,46.1,Scrape,Good,CUF11Q,Week 1
+Specimen_001_CUF11Q T cells PBMC.fcs,9.32,52.1,49.6,65,PBMC,Good,CUF11Q,Week 1
+Specimen_001_CUF11R T cells Nasal.fcs,3.24,16.2,7.39,50.4,Scrape,Good,CUF11R,Week 1
+Specimen_001_CUF11R T cells PBMC.fcs,35.7,22.7,67.4,48.3,PBMC,Good,CUF11R,Week 1
+Specimen_001_CUF11S T cells Nasal.fcs,2.86,27.4,10.5,39.6,Scrape,Good,CUF11S,Week 1
+Specimen_001_CUF11S T cells PBMC.fcs,10.5,38.8,35.2,55.4,PBMC,Good,CUF11S,Week 1
+Specimen_001_CUF11T T cells Nasal.fcs,11.8,36.8,39.8,53.6,Scrape,Good,CUF11T,Week 1
+Specimen_001_CUF11T T cells PBMC.fcs,15.1,49.4,60.9,67.2,PBMC,Good,CUF11T,Week 1
+Specimen_001_CUF11U T cells Nasal.fcs,8.76,4.52,29.1,7.2,Scrape,Good,CUF11U,Week 1
+Specimen_001_CUF1U T cells PBMC.fcs,5.44,34.7,17.1,50.9,PBMC,Good,CUF11U,Week 1
+Specimen_001_CUF11V T cells Nasal.fcs,1.72,3.82,3.14,12.3,Scrape,Good,CUF11V,Week 1
+Specimen_001_CUF1V T cells PBMC.fcs,19.9,47.1,65,67.9,PBMC,Good,CUF11V,Week 1
+Specimen_001_CUF13U T cells Nasal.fcs,8.78,59.5,34.5,87.3,Scrape,Good,CUF13U,Week 1
+Specimen_001_CUF13U T cells PBMC.fcs,21.4,45.2,53.8,75.1,PBMC,Good,CUF13U,Week 1
+Specimen_001_CUF13V T cells Nasal.fcs,11,7.05,28.4,29.9,Scrape,Good,CUF13V,Week 1
+Specimen_001_CUF13V T cells PBMC.fcs,11.2,41.8,35.7,60.8,PBMC,Good,CUF13V,Week 1
+Specimen_001_CUF14H T cells Nasal.fcs,3.94,17.8,10.7,30.3,Scrape,Good,CUF14H,Week 1
+Specimen_001_CUF14H T cells PBMC.fcs,12.8,39.1,35.8,61,PBMC,Good,CUF14H,Week 1
+Specimen_001_CUF14I T cells Nasal.fcs,1.28,18.5,4.86,30.8,Scrape,Good,CUF14I,Week 1
+Specimen_001_CUF14I T cells PBMC.fcs,5.67,30.3,21.9,40.9,PBMC,Good,CUF14I,Week 1
+Specimen_001_CUF14KJ T cells PBMC.fcs,75.7,1.44,77.8,68.3,PBMC,Good,CUF14J,Week 1
+Specimen_001_CUF14KJT cells PBMC.fcs,76.7,1.48,78.6,69.5,PBMC,Good,CUF14J,Week 1
+Specimen_001_CUF14K T cells Nasal.fcs,1.08,19.5,2.79,36.5,Scrape,Good,CUF14K,Week 1
+Specimen_001_CUF14K T cells PBMC.fcs,73.8,0.7,74.6,75.7,PBMC,Good,CUF14K,Week 1
+Specimen_001_CUF14L T cells Nasal.fcs,4.05,30.9,11.6,54.5,Scrape,Good,CUF14L,Week 1
+Specimen_001_CUF14L T cells PBMC.fcs,13.9,35.8,31.7,63.8,PBMC,Good,CUF14L,Week 1
+Specimen_001_CUF14M T cells Nasal.fcs,3.12,32.5,16.6,49.9,Scrape,Good,CUF14M,Week 1
+Specimen_001_CUF14M T cells PBMC.fcs,2.89,55.8,19.6,65.5,PBMC,Good,CUF14M,Week 1
+Specimen_001_CUF14U T cells Nasal Scrape.fcs,1.8,16.9,7.47,27.8,Scrape,Good,CUF14U,Week 1
+Specimen_001_CUF14U T cells PBMC.fcs,17.1,59.5,52.1,88.7,PBMC,Good,CUF14U,Week 1
+Specimen_001_CUF14V T cells Nasal Scrape.fcs,1.77,19.5,6.22,34.2,Scrape,Good,CUF14V,Week 1
+Specimen_001_CUF14V T cells PBMC.fcs,16.6,45.4,43.4,73.6,PBMC,Good,CUF14V,Week 1
+Specimen_001_CUF14W T cells Nasal Scrape.fcs,0.94,9.7,6.12,19.3,Scrape,Good,CUF14W,Week 1
+Specimen_001_CUF14W T cells PBMC.fcs,9.79,24.4,40.2,32.3,PBMC,Good,CUF14W,Week 1
+Specimen_001_CUF14Y T cells Nasal Scrape.fcs,2.34,11.3,12.7,18.7,Scrape,Good,CUF14Y,Week 1
+Specimen_001_CUF14Y T cells PBMC.fcs,22.4,32.7,56.7,54.1,PBMC,Good,CUF14Y,Week 1
+Specimen_001_CUH15F T cells Nasal Scrape.fcs,2.37,18.3,6.55,34.4,Scrape,Good,CUF15F,Week 3
+Specimen_001_CUF15W  T cells PBMC.fcs,28.2,19.8,59.3,37.8,PBMC,Good,CUF15W,Week 1
+Samples_CUF15Z NASAL_002.fcs,0.6,7.3,4.55,12.6,Scrape,Good,CUF15Z,Week 1
+Samples_CUF15Z PBMC_001.fcs,6.97,0.48,35.2,0.6,PBMC,Good,CUF15Z,Week 1
+Specimen_001_CUF16A T cells Nasal.fcs,3.74,8.07,9.02,22.2,Scrape,Good,CUF16A,Week 1
+Specimen_001_CUF16A T cells PBMC.fcs,15.5,51.2,44.4,78.7,PBMC,Good,CUF16A,Week 1
+Specimen_001_CUF16B T cells Nasal.fcs,3.31,15.2,24.1,20.2,Scrape,Good,CUF16B,Week 1
+Specimen_001_CUF16B T cells PBMC.fcs,44.6,28.3,73.7,71.9,PBMC,Good,CUF16B,Week 1
+Specimen_001_CUF16C T cells Nasal.fcs,2.58,8.66,13.7,13.4,Scrape,Good,CUF16C,Week 1
+Specimen_001_CUF16C T cells PBMC.fcs,15.6,6.35,53.3,8.99,PBMC,Good,CUF16C,Week 1
+Specimen_001_CUF16D T cells Nasal Scrape.fcs,3.21,25.3,10.7,41.9,Scrape,Good,CUF16D,Week 1
+Specimen_001_CUF16D T cells PBMC.fcs,16,2.85,48.5,4.26,PBMC,Good,CUF16D,Week 1
+Specimen_001_CUF16E T cells Nasal Scrape.fcs,17.9,7.91,47.1,14.2,Scrape,Good,CUF16E,Week 1
+Specimen_001_CUF16E T cells PBMC.fcs,22.2,30.2,54.9,50.9,PBMC,Good,CUF16E,Week 1
+Specimen_001_CUF16F T cells Nasal Scrape.fcs,6.34,13.1,30.1,18.2,Scrape,Good,CUF16F,Week 1
+Specimen_001_CUF16F T cells PBMC.fcs,3.36,24.1,13.4,32.2,PBMC,Good,CUF16F,Week 1
+Specimen_001_CUF16G T cells Nasal Scrape.fcs,2.05,3.58,6.38,6.35,Scrape,Good,CUF16G,Week 1
+Specimen_001_CUF16G T cells PBMC.fcs,16.3,39.1,50,58,PBMC,Good,CUF16G,Week 1
+Specimen_001_CUF16H T cells Nasal Scrape.fcs,1.2,9.64,3.86,19,Scrape,Good,CUF16H,Week 1
+Specimen_001_CUF16H T cells PBMC.fcs,2.72,15.5,10.3,21.2,PBMC,Good,CUF16H,Week 1
+Specimen_001_CUF16I T cells Nasal Scrape.fcs,0.88,10.6,5.31,15,Scrape,Good,CUF16I,Week 1
+Specimen_001_CUF16I T cells PBMC.fcs,31.8,38.6,69.6,71.2,PBMC,Good,CUF16I,Week 1
+Specimen_001_CUF16J T cells Nasal Scrape.fcs,1.89,10.8,4.73,23.8,Scrape,Good,CUF16J,Week 1
+Specimen_001_CUF16J T cells PBMC.fcs,9.24,57.4,41.8,73.7,PBMC,Good,CUF16J,Week 1
+Specimen_001_CUF16K T cells Nasal Scrape.fcs,13.4,3.77,23.9,13.1,Scrape,Good,CUF16K,Week 1
+Specimen_001_CUF16K T cells PBMC.fcs,15.2,0.7,17.3,5.79,PBMC,Good,CUF16K,Week 1
+Specimen_001_CUF16L T cells Nasal Scrape.fcs,0.9,27.3,7.41,44.8,Scrape,Good,CUF16L,Week 1
+Specimen_001_CUF16L T cells PBMC.fcs,0.6,1.06,0.62,47.6,PBMC,Good,CUF16L,Week 1
+Specimen_001_CUF16M T cells Nasal Scrape.fcs,17,13.5,32.2,32.2,Scrape,Good,CUF16M,Week 1
+Specimen_001_CUF16M T cells PBMC.fcs,11.7,47.7,28,82,PBMC,Good,CUF16M,Week 1
+Specimen_001_CUF16N T cells Nasal Scrape.fcs,11.4,32.3,55.3,44.2,Scrape,Good,CUF16N,Week 1
+Specimen_001_CUF16N T cells PBMC.fcs,18.8,50,44.1,87.2,PBMC,Good,CUF16N,Week 1
+Specimen_001_CUF16R T cells Nasal Scrape.fcs,0.71,6.57,5.6,26.3,Scrape,Good,CUF16R,Week 1
+Specimen_001_CUF16R T cells PBMC.fcs,24.3,3.23,41.2,8,PBMC,Good,CUF16R,Week 1
+Specimen_001_CUF16S T cells Nasal Scrape.fcs,6.12,8.77,32.3,15.9,Scrape,Good,CUF16S,Week 1
+Specimen_001_CUF16S T cells PBMC.fcs,14.9,9.65,64.6,12.6,PBMC,Good,CUF16S,Week 1
+Specimen_001_CUF16T T cells Nasal Scrape.fcs,0.45,6.03,2.44,10.8,Scrape,Good,CUF16T,Week 1
+Specimen_001_CUF16U T cells Nasal Scrape.fcs,14.5,16.6,41.9,39.7,Scrape,Good,CUF16U,Week 1
+Specimen_001_CUF16U T cells PBMC.fcs,24.2,30.3,56.6,54.6,PBMC,Good,CUF16U,Week 1
+Specimen_001_CUF16V  T cells PBMC.fcs,6.14,23.6,22.4,32.5,PBMC,Good,CUF16V,Week 1
+Specimen_001_CUF141 T cells Nasal.fcs,3.46,22.6,13,35.1,Scrape,Good,CUF141,Week 1
+Specimen_001_CUF141 T cells PBMC.fcs,15.9,30,44.4,46.8,PBMC,Good,CUF141,Week 1
+Specimen_001_CUF142 T cells Nasal.fcs,2.97,18.8,12.4,33.3,Scrape,Good,CUF142,Week 1
+Specimen_001_CUF142 T cells PBMC.fcs,24.8,44,61.2,74,PBMC,Good,CUF142,Week 1
+Specimen_001_CUF151 T cells Nasal Scrape.fcs,1.35,22,6.2,35,Scrape,Good,CUF151,Week 1
+Specimen_001_CUF151 T cells PBMC.fcs,13.5,7.28,72.7,8.95,PBMC,Good,CUF151,Week 1
+Specimen_001_CUF152 T cells Nasal Scraoe.fcs,1.92,16.4,19.8,25.7,Scrape,Good,CUF152,Week 1
+Specimen_001_CUF152 T cells PBMC.fcs,19.3,2.54,68,3.55,PBMC,Good,CUF152,Week 1
+Specimen_001_CUF153 T cells Nasal Scrape.fcs,1.92,4.94,5.6,23.4,Scrape,Good,CUF153,Week 1
+Specimen_001_CUF153 T cells PBMC.fcs,7.95,15.4,23.3,23.5,PBMC,Good,CUF153,Week 1
+Specimen_001_CUF160 T cells PBMC.fcs,4.47,61.2,19.9,79.1,PBMC,Good,CUF160,Week 1
+CUF162_CUF162 T cells Nasal.fcs,3.05,39,16.1,57.8,Scrape,Good,CUF162,Week 1
+CUF163_CUF163 T cells Nasal.fcs,14.3,7,48.6,10.8,Scrape,Good,CUF163,Week 1
+Specimen_001_CUF164 T cells Nasal.fcs,0.24,19,0.68,31.8,Scrape,Good,CUF164,Week 1
+Specimen_001_CUF164 T cells PBMC.fcs,8.57,0.39,24.8,0.6,PBMC,Good,CUF164,Week 1
+Specimen_001_CUF165 T cells Nasal.fcs,0.19,3.91,0.71,9.3,Scrape,Good,CUF165,Week 1
+Specimen_001_CUF165 T cells PBMC.fcs,22.1,38.6,51.1,68.3,PBMC,Good,CUF165,Week 1
+Specimen_001_CUF166 T cells Nasal.fcs,4.45,3.71,23.5,6.44,Scrape,Good,CUF166,Week 1
+Specimen_001_CUF166 T cells PBMC.fcs,8.86,35,27.4,51.7,PBMC,Good,CUF166,Week 1
+Specimen_001_CUF167 T cells Nasal.fcs,4.19,31.7,12.4,56.5,Scrape,Good,CUF167,Week 1
+Specimen_001_CUF167 T cells PBMC.fcs,20.3,0.92,59.8,1.39,PBMC,Good,CUF167,Week 1
+Specimen_001_CUF168 T cells Nasal.fcs,2.44,9.96,10.1,14.3,Scrape,Good,CUF168,Week 1
+Specimen_001_CUF168 T cells PBMC.fcs,7.76,45.9,28.5,63.1,PBMC,Good,CUF168,Week 1
+Specimen_001_CUF169 T cells Nasal.fcs,4.54,4.6,7.88,11,Scrape,Good,CUF169,Week 1
+Specimen_001_CUF169 T cells PBMC.fcs,12.2,58.8,43.5,81.8,PBMC,Good,CUF169,Week 1

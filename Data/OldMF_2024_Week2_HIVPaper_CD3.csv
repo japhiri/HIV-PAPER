@@ -1,0 +1,15 @@
+Sample,T cell count,T cell proportion,T cell CD62L proportion,T cell CD62L MFI,T cell CD62L+ MFI,LAB ID
+Samples_CUG10B Week 2 Nasal_001.fcs,1971,4.19,10.6,50.5,941,CUG10B
+Samples_CUG10F Week 2 Nasal_001.fcs,139,2.67,0,14.5,n/a,CUG10F
+Samples_CUG10G Week 2 Nasal_001.fcs,533,1.2,0,21.2,n/a,CUG10G
+Samples_CUG10H Week 2 Nasal_001.fcs,565,4.47,0.35,10.1,1746,CUG10H
+Samples_CUG10J Week 2 Nasal_001.fcs,368,1.81,0.54,53.9,1142,CUG10J
+Samples_CUG10V Week 2 Nasal_001.fcs,2846,27.2,0.53,71.1,968,CUG10V
+Samples_CUG10W Week 2 Nasal_001.fcs,247,2.72,0.4,47.7,6138,CUG10W
+Samples_CUG10X Week 2 Nasal_001.fcs,2107,16.5,2.71,42.6,712,CUG10X
+Samples_CUG10Y Week 2 Nasal_001.fcs,1490,22.7,0.2,34.1,1280,CUG10Y
+Samples_CUG10Z Week 2 Nasal_001.fcs,3,0.21,66.7,511,511,CUG10Z
+Samples_CUG100 Week 2 Nasal_001.fcs,984,4.62,3.15,45.4,813,CUG100
+Samples_CUG104 Week 2 Nasal_001.fcs,1027,31.3,1.27,28.5,327,CUG104
+Samples_CUG107 Week 2 Nasal_001.fcs,587,32.1,2.21,33,509,CUG107
+Samples_CUG112  Week 2 Nasal_001.fcs,7,0.068,14.3,464,731,CUG112

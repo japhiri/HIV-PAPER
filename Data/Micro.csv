@@ -1,0 +1,3149 @@
+﻿PID,HIV Status,Visit,LAB ID,Carriage Status,serotype_Kit_latex_reaction,Serotype,Density
+NAS0032,HIV-,Week 1,CUF10A,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 1,CUF102,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 1,CUF104,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 1,CUF105,Carriage Negative,,,
+NAS0149,HIV-,Week 1,CUF10C,Carriage Negative,,,
+NAS0156,HIV-,Week 1,CUF10D,Carriage Negative,,,
+NAS0107,PLHIV ART <3m,Week 1,CUF107,Carriage Negative,,,
+NAS0164,HIV-,Week 1,CUF10E,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 1,CUF109,Carriage Negative, , ,
+NAS0206,HIV-,Week 1,CUF10F,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 1,CUF10G,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 1,CUF10H,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 1,CUF10V,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 1,CUF10X,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 1,CUF10Y,Carriage Negative,,,
+NAS0271,PLHIV ART >1y,Week 1,CUF110,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 1,CUF112,Carriage Negative,,,
+NAS0305,HIV-,Week 1,CUF10K,Carriage Negative,,,
+NAS0313,HIV-,Week 1,CUF10L,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 1,CUF114,Carriage Negative,,,
+NAS0370,HIV-,Week 1,CUF10M,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 1,CUF116,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 1,CUF10S,Carriage Negative,,,
+NAS0453,HIV-,Week 1,CUF10U,Carriage Negative,,,
+NAS0438,HIV-,Week 1,CUF10T,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 1,CUF120,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 1,CUF121,Carriage Negative,,,
+NAS0487,HIV-,Week 1,CUF124,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 1,CUF117,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 1,CUF118,Carriage Negative,,,
+NAS0537,HIV-,Week 1,CUF126,Carriage Negative,,,
+NAS0545,HIV-,Week 1,CUF127,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 1,CUF119,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 1,CUF11A,Carriage Negative,,,
+NAS0560,HIV-,Week 1,CUF129,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 1,CUF11B,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 1,CUF14P,Carriage Negative,,,
+NAS0628,HIV-,Week 1,CUF12M,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 1,CUF14Q,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 1,CUF14R,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 1,CUF14S,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 1,CUF14T,Carriage Negative,,,
+NAS0685,HIV-,Week 1,CUF12P,Carriage Negative,,,
+NAS0677,HIV-,Week 1,CUF12Q,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 1,CUF12D,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 1,CUF12C,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 1,CUF12S,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 1,CUF12T,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 1,CUF12R,Carriage Negative,,,
+NAS0693,HIV-,Week 1,CUF12U,Carriage Negative,,,
+NAS0750,HIV-,Week 1,CUF12V,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 1,CUF12X,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 1,CUF12A,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 1,CUF12W,Carriage Negative,,,
+NAS0859,HIV-,Week 1,CUF13A,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 1,CUF139,Carriage Negative,,,
+NAS0867,HIV-,Week 1,CUF13B,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 1,CUF13C,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 1,CUF13D,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 1,CUF13E,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 1,CUF12B,Carriage Negative,,,
+NAS0818,HIV-,Week 1,CUF12Z,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 1,CUF130,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 1,CUF13K,Carriage Negative,,,
+NAS1030,HIV-,Week 1,CUF13P,Carriage Negative,,,
+NAS1063,HIV-,Week 1,CUF13Q,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 1,CUF143,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 1,CUF144,Carriage Negative,,,
+NAS1113,HIV-,Week 1,CUF145,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 1,CUF146,Carriage Negative,,,
+NAS1154,HIV-,Week 1,CUF148,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 1,CUF147,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 1,CUF149,Carriage Negative,,,
+NAS1162,HIV-,Week 1,CUF14A,Carriage Negative,,,
+NAS1188,HIV-,Week 1,CUF14C,Carriage Negative,,,
+NAS1279,HIV-,Week 1,CUF14F,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 1,CUF15Z,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 1,CUF14G,Carriage Negative,,,
+NAS1311,PLHIV ART <3m,Week 1,CUF14H,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 1,CUF14I,Carriage Negative,,,
+NAS1337,PLHIV ART <3m,Week 1,CUF160,Carriage Negative,,,
+NAS1352,PLHIV ART <3m,Week 1,CUF14J,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 1,CUF14L,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 1,CUF14M,Carriage Negative,,,
+NAS1394,HIV-,Week 1,CUF162,Carriage Negative,,,
+NAS1402,HIV-,Week 1,CUF163,Carriage Negative,,,
+NAS1410,HIV-,Week 1,CUF164,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 1,CUF166,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 1,CUF165,Carriage Negative,,,
+NAS1469,HIV-,Week 1,CUF167,Carriage Negative,,,
+NAS1485,HIV-,Week 1,CUF13U,Carriage Negative,,,
+NAS1493,PLHIV ART >1y,Week 1,CUF13V,Carriage Negative,,,
+NAS1477,HIV-,Week 1,CUF168,Carriage Negative,,,
+NAS1238,PLHIV ART <3m,Week 1,CUF140,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 1,CUF13X,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 1,CUF13W,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 1,CUF13Z,Carriage Negative,,,
+NAS1451,PLHIV ART >1y,Week 1,CUF11T,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 1,CUF11S,Carriage Negative,,,
+NAS1246,HIV-,Week 1,CUF11Q,Carriage Negative,,,
+NAS1519,PLHIV ART >1y,Week 1,CUF11U,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 1,CUF16A,Carriage Negative,,,
+NAS1535,PLHIV ART >1y,Week 1,CUF141,Carriage Negative,,,
+NAS1543,HIV-,Week 1,CUF142,Carriage Negative,,,
+NAS1584,HIV-,Week 1,CUF16C,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 1,CUF16D,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 1,CUF16E,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 1,CUF16B,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 1,CUF16F,Carriage Negative,,,
+NAS1675,HIV-,Week 1,CUF14V,Carriage Negative,,,
+NAS1659,HIV-,Week 1,CUF16I,Carriage Negative,,,
+NAS1634,PLHIV ART >1y,Week 1,CUF16G,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 1,CUF14W,Carriage Negative,,,
+NAS1667,HIV-,Week 1,CUF14U,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 1,CUF16L,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 1,CUF16K,Carriage Negative,,,
+NAS1725,HIV-,Week 1,CUF16M,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 1,CUF16P,Carriage Negative,,,
+NAS1774,HIV-,Week 1,CUF16Q,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 1,CUF14Y,Carriage Negative,,,
+NAS1816,HIV-,Week 1,CUF11F,Carriage Negative,,,
+NAS1824,HIV-,Week 1,CUF11G,Carriage Negative,,,
+NAS1832,HIV-,Week 1,CUF11H,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 1,CUF11I,Carriage Negative,,,
+NAS1857,HIV-,Week 1,CUF11J,Carriage Negative,,,
+NAS1881,HIV-,Week 1,CUF150,Carriage Negative,,,
+NAS1899,PLHIV ART >1y,Week 1,CUF11L,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 1,CUF151,Carriage Negative,,,
+NAS1758,HIV-,Week 1,CUF152,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 1,CUF16R,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 1,CUF16T,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 1,CUF16W,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 1,CUF16V,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 1,CUF16Z,Carriage Negative,,,
+NAS0032,HIV-,Week 2,CUG102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 2,CUG104,Carriage Negative,,,
+NAS0040,HIV-,Week 2,CUG103,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 2,CUG106,Carriage Negative,,,
+NAS0149,HIV-,Week 2,CUG108,Carriage Negative,,,
+NAS0156,HIV-,Week 2,CUG109,Carriage Negative,,,
+NAS0164,HIV-,Week 2,CUG10C,Carriage Negative,,,
+NAS0115,PLHIV ART >1y,Week 2,CUG10B,Carriage Negative, , ,
+NAS0214,PLHIV ART <3m,Week 2,CUG10D,Carriage Negative, , ,
+NAS0206,HIV-,Week 2,CUG10F,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 2,CUG10E,Carriage Negative,,,
+NAS0198,HIV-,Week 2,CUG10G,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 2,CUG10W,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 2,CUG10Y,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 2,CUG10J,Carriage Negative,,,
+NAS0271,PLHIV ART >1y,Week 2,CUG10I,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 2,CUG112,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 2,CUG111,Carriage Negative,,,
+NAS0305,HIV-,Week 2,CUG10Z,Carriage Negative,,,
+NAS0313,HIV-,Week 2,CUG110,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 2,CUG115,Carriage Negative,,,
+NAS0370,HIV-,Week 2,CUG114,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 2,CUG117,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 2,CUG11B,Carriage Negative,,,
+NAS0453,HIV-,Week 2,CUG11F,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 2,CUG11D,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 2,CUG11H,Carriage Negative,,,
+NAS0487,HIV-,Week 2,CUG11J,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 2,CUG11K,Carriage Negative,,,
+NAS0537,HIV-,Week 2,CUG11P,Carriage Negative,,,
+NAS0545,HIV-,Week 2,CUG11N,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 2,CUG11M,Carriage Negative,,,
+NAS0552,HIV-,Week 2,CUG10N,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 2,CUG10K,Carriage Negative,,,
+NAS0560,HIV-,Week 2,CUG10M,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 2,CUG10L,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 2,CUG10Q,Carriage Negative,,,
+NAS0628,HIV-,Week 2,CUG10R,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 2,CUG10T,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 2,CUG10U,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 2,CUG11R,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 2,CUG11S,Carriage Negative,,,
+NAS0685,HIV-,Week 2,CUG11U,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 2,CUG11T,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 2,CUG11Z,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 2,CUG11Y,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 2,CUG11X,Carriage Negative,,,
+NAS0693,HIV-,Week 2,CUG120,Carriage Negative,,,
+NAS0750,HIV-,Week 2,CUG121,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 2,CUG122,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 2,CUG123,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 2,CUG124,Carriage Negative,,,
+NAS0859,HIV-,Week 2,CUG127,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 2,CUG128,Carriage Negative,,,
+NAS0867,HIV-,Week 2,CUG126,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 2,CUG129,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 2,CUG12B,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 2,CUG12C,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 2,CUG12E,Carriage Negative,,,
+NAS0818,HIV-,Week 2,CUG12L,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 2,CUG12P,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 2,CUG12R,Carriage Negative,,,
+NAS0974,PLHIV ART >1y,Week 2,CUG12S,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 2,CUG12H,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 2,CUG12I,Carriage Negative,,,
+NAS1030,HIV-,Week 2,CUG12K,Carriage Negative,,,
+NAS1063,HIV-,Week 2,CUG12Y,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 2,CUG130,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 2,CUG131,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 2,CUG133,Carriage Negative,,,
+NAS1154,HIV-,Week 2,CUG135,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 2,CUG153,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 2,CUG134,Carriage Negative,,,
+NAS1162,HIV-,Week 2,CUG154,Carriage Negative,,,
+NAS1279,HIV-,Week 2,CUG14J,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 2,CUG14L,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 2,CUG14M,Carriage Negative,,,
+NAS1311,PLHIV ART <3m,Week 2,CUG14N,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 2,CUG14P,Carriage Negative,,,
+NAS1352,PLHIV ART <3m,Week 2,CUG156,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 2,CUG14S,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 2,CUG14U,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 2,CUG14T,Carriage Negative,,,
+NAS1394,HIV-,Week 2,CUG157,Carriage Negative,,,
+NAS1402,HIV-,Week 2,CUG158,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 2,CUG159,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 2,CUG15A,Carriage Negative,,,
+NAS1469,HIV-,Week 2,CUG14Z,Carriage Negative,,,
+NAS1485,HIV-,Week 2,CUG14Y,Carriage Negative,,,
+NAS1493,PLHIV ART >1y,Week 2,CUG14X,Carriage Negative,,,
+NAS1477,HIV-,Week 2,CUG14W,Carriage Negative,,,
+NAS1238,PLHIV ART <3m,Week 2,CUG152,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 2,CUG14V,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 2,CUG15B,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 2,CUG150,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 2,CUG15U,Carriage Negative,,,
+NAS1246,HIV-,Week 2,CUG15V,Carriage Negative,,,
+NAS1550,HIV-,Week 2,CUG137,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 2,CUG13D,Carriage Negative,,,
+NAS1543,HIV-,Week 2,CUG136,Carriage Negative,,,
+NAS1584,HIV-,Week 2,CUG13B,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 2,CUG15M,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 2,CUG13C,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 2,CUG15N,Carriage Negative,,,
+NAS1675,HIV-,Week 2,CUG13F,Carriage Negative,,,
+NAS1634,PLHIV ART >1y,Week 2,CUG15P,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 2,CUG15Q,Carriage Negative,,,
+NAS1667,HIV-,Week 2,CUG13E,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 2,CUG15Y,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 2,CUG16L,Carriage Negative,,,
+NAS1725,HIV-,Week 2,CUG15Z,Carriage Negative,,,
+NAS1733,HIV-,Week 2,CUG15L,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 2,CUG15K,Carriage Negative,,,
+NAS1774,HIV-,Week 2,CUG15J,Carriage Negative,,,
+NAS1808,PLHIV ART <3m,Week 2,CUG15I,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 2,CUG15H,Carriage Negative,,,
+NAS1824,HIV-,Week 2,CUG15F,Carriage Negative,,,
+NAS1832,HIV-,Week 2,CUG15G,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 2,CUG15E,Carriage Negative,,,
+NAS1857,HIV-,Week 2,CUG16P,Carriage Negative,,,
+NAS1881,HIV-,Week 2,CUG16M,Carriage Negative,,,
+NAS1758,HIV-,Week 2,CUG174,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 2,CUG16S,Carriage Negative,,,
+NAS1931,PLHIV ART <3m,Week 2,CUG16T,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 2,CUG16U,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 2,CUG16V,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 2,CUG16X,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 2,CUG16Y,Carriage Negative,,,
+NAS1998,PLHIV ART >1y,Week 2,CUG16Z,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 2,CUG171,Carriage Negative,,,
+NAS0032,HIV-,Week 3,CUH102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 3,CUH103,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 3,CUH106,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 3,CUH105,Carriage Negative,,,
+NAS0149,HIV-,Week 3,CUH108,Carriage Negative,,,
+NAS0156,HIV-,Week 3,CUH109,Carriage Negative,,,
+NAS0107,PLHIV ART <3m,Week 3,CUH10A,Carriage Negative,,,
+NAS0164,HIV-,Week 3,CUH10C,Carriage Negative,,,
+NAS0115,PLHIV ART >1y,Week 3,CUH10B,Carriage Negative, , ,
+NAS0214,PLHIV ART <3m,Week 3,CUH10D,Carriage Negative,,,
+NAS0206,HIV-,Week 3,CUH10G,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 3,CUH10H,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 3,CUH10E,Carriage Negative,,,
+NAS0172,HIV-,Week 3,CUH10I,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 3,CUH10J,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 3,CUH10L,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 3,CUH10M,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 3,CUH10P,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 3,CUH10Q,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 3,CUH10T,Carriage Negative,,,
+NAS0305,HIV-,Week 3,CUH10S,Carriage Negative,,,
+NAS0313,HIV-,Week 3,CUH10R,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 3,CUH10V,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 3,CUH10U,Carriage Negative,,,
+NAS0370,HIV-,Week 3,CUH10X,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 3,CUH10Z,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 3,CUH10Y,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 3,CUH111,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 3,CUH114,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 3,CUH116,Carriage Negative,,,
+NAS0487,HIV-,Week 3,CUH118,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 3,CUH119,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 3,CUH11E,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 3,CUH11A,Carriage Negative,,,
+NAS0537,HIV-,Week 3,CUH11D,Carriage Negative,,,
+NAS0545,HIV-,Week 3,CUH11B,Carriage Negative,,,
+NAS0552,HIV-,Week 3,CUH11H,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 3,CUH11G,Carriage Negative,,,
+NAS0560,HIV-,Week 3,CUH11F,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 3,CUH11I,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 3,CUH11L,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 3,CUH11P,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 3,CUH11M,Carriage Negative,,,
+NAS0610,HIV-,Week 3,CUH11N,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 3,CUH11Q,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 3,CUH11R,Carriage Negative,,,
+NAS0685,HIV-,Week 3,CUH11U,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 3,CUH11V,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 3,CUH11W,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 3,CUH11X,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 3,CUH11Y,Carriage Negative,,,
+NAS0693,HIV-,Week 3,CUH120,Carriage Negative,,,
+NAS0750,HIV-,Week 3,CUH121,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 3,CUH11Z,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 3,CUH122,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 3,CUH123,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 3,CUH126,Carriage Negative,,,
+NAS0867,HIV-,Week 3,CUH125,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 3,CUH128,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 3,CUH12A,Carriage Negative,,,
+NAS0917,HIV-,Week 3,CUH12C,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 3,CUH12B,Carriage Negative,,,
+NAS0818,HIV-,Week 3,CUH13K,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 3,CUH12D,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 3,CUH12E,Carriage Negative,,,
+NAS0974,PLHIV ART >1y,Week 3,CUH12F,Carriage Negative,,,
+NAS0800,HIV-,Week 3,CUH12J,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 3,CUH12K,Carriage Negative,,,
+NAS1055,HIV-,Week 3,CUH12P,Carriage Negative,,,
+NAS1063,HIV-,Week 3,CUH12S,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 3,CUH12U,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 3,CUH12W,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 3,CUH12Y,Carriage Negative,,,
+NAS1154,HIV-,Week 3,CUH14J,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 3,CUH14K,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 3,CUH14I,Carriage Negative,,,
+NAS1162,HIV-,Week 3,CUH14L,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 3,CUH14N,Carriage Negative,,,
+NAS1279,HIV-,Week 3,CUH14P,Carriage Negative,,,
+NAS1261,PLHIV ART >1y,Week 3,CUH14Q,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 3,CUH14R,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 3,CUH14S,Carriage Negative,,,
+NAS1311,PLHIV ART <3m,Week 3,CUH154,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 3,CUH155,Carriage Negative,,,
+NAS1352,PLHIV ART <3m,Week 3,CUH15A,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 3,CUH14U,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 3,CUH158,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 3,CUH159,Carriage Negative,,,
+NAS1394,HIV-,Week 3,CUH15C,Carriage Negative,,,
+NAS1402,HIV-,Week 3,CUH15B,Carriage Negative,,,
+NAS1410,HIV-,Week 3,CUH14V,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 3,CUH14W,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 3,CUH15E,Carriage Negative,,,
+NAS1469,HIV-,Week 3,CUH15H,Carriage Negative,,,
+NAS1485,HIV-,Week 3,CUH14Y,Carriage Negative,,,
+NAS1493,PLHIV ART >1y,Week 3,CUH14Z,Carriage Negative,,,
+NAS1477,HIV-,Week 3,CUH15G,Carriage Negative,,,
+NAS1238,PLHIV ART <3m,Week 3,CUH151,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 3,CUH14X,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 3,CUH15D,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 3,CUH15F,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 3,CUH153,Carriage Negative,,,
+NAS1246,HIV-,Week 3,CUH15J,Carriage Negative,,,
+NAS1550,HIV-,Week 3,CUH15L,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 3,CUH15X,Carriage Negative,,,
+NAS1543,HIV-,Week 3,CUH15Q,Carriage Negative,,,
+NAS1584,HIV-,Week 3,CUH15S,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 3,CUH15P,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 3,CUH15U,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 3,CUH15R,Carriage Negative,,,
+NAS1675,HIV-,Week 3,CUH15V,Carriage Negative,,,
+NAS1659,HIV-,Week 3,CUH15W,Carriage Negative,,,
+NAS1667,HIV-,Week 3,CUH15Z,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 3,CUH162,Carriage Negative,,,
+NAS1725,HIV-,Week 3,CUH14B,Carriage Negative,,,
+NAS1733,HIV-,Week 3,CUH14C,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 3,CUH14D,Carriage Negative,,,
+NAS1774,HIV-,Week 3,CUH14E,Carriage Negative,,,
+NAS1824,HIV-,Week 3,CUH164,Carriage Negative,,,
+NAS1832,HIV-,Week 3,CUH165,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 3,CUH16A,Carriage Negative,,,
+NAS1857,HIV-,Week 3,CUH16C,Carriage Negative,,,
+NAS1881,HIV-,Week 3,CUH16B,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 3,CUH16F,Carriage Negative,,,
+NAS1758,HIV-,Week 3,CUH16E,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 3,CUH16G,Carriage Negative,,,
+NAS1931,PLHIV ART <3m,Week 3,CUH16J,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 3,CUH16H,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 3,CUH16I,Carriage Negative,,,
+NAS1964,PLHIV ART >1y,Week 3,CUH16K,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 3,CUH16M,Carriage Negative,,,
+NAS1998,PLHIV ART >1y,Week 3,CUH16N,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 3,CUH16Q,Carriage Negative,,,
+NAS0032,HIV-,Week 4,CUI102,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 4,CUI105,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 4,CUI107,Carriage Negative,,,
+NAS0149,HIV-,Week 4,CUI108,Carriage Negative,,,
+NAS0156,HIV-,Week 4,CUI109,Carriage Negative,,,
+NAS0164,HIV-,Week 4,CUI10B,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 4,CUI10D,Carriage Negative,,,
+NAS0206,HIV-,Week 4,CUI10G,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 4,CUI10E,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 4,CUI10K,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 4,CUI10P,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 4,CUI10T,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 4,CUI10Q,Carriage Negative,,,
+NAS0305,HIV-,Week 4,CUI10R,Carriage Negative,,,
+NAS0313,HIV-,Week 4,CUI10S,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 4,CUI10W,Carriage Negative,,,
+NAS0370,HIV-,Week 4,CUI10U,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 4,CUI10Y,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 4,CUI10Z,Carriage Negative,,,
+NAS0396,PLHIV ART <3m,Week 4,CUI111,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 4,CUI110,Carriage Negative,,,
+NAS0453,HIV-,Week 4,CUI113,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 4,CUI114,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 4,CUI117,Carriage Negative,,,
+NAS0487,HIV-,Week 4,CUI11A,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 4,CUI11B,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 4,CUI11G,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 4,CUI11E,Carriage Negative,,,
+NAS0537,HIV-,Week 4,CUI11F,Carriage Negative,,,
+NAS0545,HIV-,Week 4,CUI11D,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 4,CUI11C,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 4,CUI11H,Carriage Negative,,,
+NAS0560,HIV-,Week 4,CUI11I,Carriage Negative,,,
+NAS0578,PLHIV ART >1y,Week 4,CUI11M,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 4,CUI11L,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 4,CUI11P,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 4,CUI11Q,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 4,CUI11S,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 4,CUI11R,Carriage Negative,,,
+NAS0685,HIV-,Week 4,CUI11V,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 4,CUI11W,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 4,CUI11U,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 4,CUI11X,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 4,CUI11Z,Carriage Negative,,,
+NAS0693,HIV-,Week 4,CUI120,Carriage Negative,,,
+NAS0750,HIV-,Week 4,CUI122,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 4,CUI123,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 4,CUI124,Carriage Negative,,,
+NAS0859,HIV-,Week 4,CUI128,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 4,CUI129,Carriage Negative,,,
+NAS0867,HIV-,Week 4,CUI126,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 4,CUI127,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 4,CUI12C,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 4,CUI12B,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 4,CUI12D,Carriage Negative,,,
+NAS0933,PLHIV ART >1y,Week 4,CUI12H,Carriage Negative,,,
+NAS0818,HIV-,Week 4,CUI12G,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 4,CUI12I,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 4,CUI12J,Carriage Negative,,,
+NAS0800,HIV-,Week 4,CUI12P,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 4,CUI12S,Carriage Negative,,,
+NAS1055,HIV-,Week 4,CUI12W,Carriage Negative,,,
+NAS1063,HIV-,Week 4,CUI12Y,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 4,CUI12Z,Carriage Negative,,,
+NAS1089,HIV-,Week 4,CUI130,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 4,CUI131,Carriage Negative,,,
+NAS1113,HIV-,Week 4,CUI133,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 4,CUI134,Carriage Negative,,,
+NAS1154,HIV-,Week 4,CUI138,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 4,CUI137,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 4,CUI135,Carriage Negative,,,
+NAS1162,HIV-,Week 4,CUI136,Carriage Negative,,,
+NAS1279,HIV-,Week 4,CUI13B,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 4,CUI13C,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 4,CUI13D,Carriage Negative,,,
+NAS1311,PLHIV ART <3m,Week 4,CUI13E,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 4,CUI13F,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 4,CUI15N,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 4,CUI15P,Carriage Negative,,,
+NAS1394,HIV-,Week 4,CUI15Q,Carriage Negative,,,
+NAS1402,HIV-,Week 4,CUI15R,Carriage Negative,,,
+NAS1410,HIV-,Week 4,CUI15S,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 4,CUI15V,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 4,CUI15U,Carriage Negative,,,
+NAS1469,HIV-,Week 4,CUI15Z,Carriage Negative,,,
+NAS1485,HIV-,Week 4,CUI15X,Carriage Negative,,,
+NAS1493,PLHIV ART >1y,Week 4,CUI15Y,Carriage Negative,,,
+NAS1477,HIV-,Week 4,CUI161,Carriage Negative,,,
+NAS1238,PLHIV ART <3m,Week 4,CUI163,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 4,CUI15W,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 4,CUI15T,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 4,CUI162,Carriage Negative,,,
+NAS1451,PLHIV ART >1y,Week 4,CUI164,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 4,CUI167,Carriage Negative,,,
+NAS1246,HIV-,Week 4,CUI165,Carriage Negative,,,
+NAS1550,HIV-,Week 4,CUI13P,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 4,CUI140,Carriage Negative,,,
+NAS1543,HIV-,Week 4,CUI13Q,Carriage Negative,,,
+NAS1584,HIV-,Week 4,CUI13X,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 4,CUI13T,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 4,CUI13R,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 4,CUI13M,Carriage Negative,,,
+NAS1642,PLHIV ART <3m,Week 4,CUI13Z,Carriage Negative,,,
+NAS1675,HIV-,Week 4,CUI13V,Carriage Negative,,,
+NAS1659,HIV-,Week 4,CUI13L,Carriage Negative,,,
+NAS1667,HIV-,Week 4,CUI13Y,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 4,CUI143,Carriage Negative,,,
+NAS1725,HIV-,Week 4,CUI144,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 4,CUI14E,Carriage Negative,,,
+NAS1774,HIV-,Week 4,CUI14D,Carriage Negative,,,
+NAS1816,HIV-,Week 4,CUI148,Carriage Negative,,,
+NAS1824,HIV-,Week 4,CUI14A,Carriage Negative,,,
+NAS1832,HIV-,Week 4,CUI149,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 4,CUI151,Carriage Negative,,,
+NAS1857,HIV-,Week 4,CUI146,Carriage Negative,,,
+NAS1881,HIV-,Week 4,CUI152,Carriage Negative,,,
+NAS1758,HIV-,Week 4,CUI155,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 4,CUI157,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 4,CUI159,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 4,CUI15A,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 4,CUI15C,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 4,CUI15E,Carriage Negative,,,
+NAS1998,PLHIV ART >1y,Week 4,CUI15D,Carriage Negative,,,
+NAS0032,HIV-,Week 5,CUJ10Y,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 5,CUJ10Z,Carriage Negative,,,
+NAS0073,PLHIV ART >1y,Week 5,CUJ111,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 5,CUJ112,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 5,CUJ113,Carriage Negative,,,
+NAS0149,HIV-,Week 5,CUJ114,Carriage Negative,,,
+NAS0156,HIV-,Week 5,CUJ115,Carriage Negative,,,
+NAS0164,HIV-,Week 5,CUJ10M,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 5,CUJ10P,Carriage Negative,,,
+NAS0206,HIV-,Week 5,CUJ10R,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 5,CUJ10T,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 5,CUJ10Q,Carriage Negative,,,
+NAS0198,HIV-,Week 5,CUJ10S,Carriage Negative,,,
+NAS0172,HIV-,Week 5,CUJ10U,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 5,CUJ11A,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 5,CUJ10V,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 5,CUJ11D,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 5,CUJ11B,Carriage Negative,,,
+NAS0305,HIV-,Week 5,CUJ11C,Carriage Negative,,,
+NAS0313,HIV-,Week 5,CUJ11E,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 5,CUJ11F,Carriage Negative,,,
+NAS0370,HIV-,Week 5,CUJ11I,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 5,CUJ11J,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 5,CUJ11W,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 5,CUJ11M,Carriage Negative,,,
+NAS0453,HIV-,Week 5,CUJ11R,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 5,CUJ11Q,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 5,CUJ11U,Carriage Negative,,,
+NAS0321,HIV-,Week 5,CUJ11S,Carriage Negative,,,
+NAS0487,HIV-,Week 5,CUJ11V,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 5,CUJ11X,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 5,CUJ11Y,Carriage Negative,,,
+NAS0552,HIV-,Week 5,CUJ123,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 5,CUJ122,Carriage Negative,,,
+NAS0560,HIV-,Week 5,CUJ121,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 5,CUJ11Z,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 5,CUJ125,Carriage Negative,,,
+NAS0628,HIV-,Week 5,CUJ124,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 5,CUJ129,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 5,CUJ127,Carriage Negative,,,
+NAS0610,HIV-,Week 5,CUJ128,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 5,CUJ12A,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 5,CUJ12B,Carriage Negative,,,
+NAS0685,HIV-,Week 5,CUJ12D,Carriage Negative,,,
+NAS0677,HIV-,Week 5,CUJ12E,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 5,CUJ12F,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 5,CUJ12C,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 5,CUJ12I,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 5,CUJ12H,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 5,CUJ12J,Carriage Negative,,,
+NAS0693,HIV-,Week 5,CUJ12L,Carriage Negative,,,
+NAS0750,HIV-,Week 5,CUJ12K,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 5,CUJ12N,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 5,CUJ12P,Carriage Negative,,,
+NAS0859,HIV-,Week 5,CUJ12T,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 5,CUJ12U,Carriage Negative,,,
+NAS0867,HIV-,Week 5,CUJ12R,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 5,CUJ12S,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 5,CUJ12X,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 5,CUJ12W,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 5,CUJ12Z,Carriage Negative,,,
+NAS0933,PLHIV ART >1y,Week 5,CUJ132,Carriage Negative,,,
+NAS0818,HIV-,Week 5,CUJ131,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 5,CUJ133,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 5,CUJ13A,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 5,CUJ139,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 5,CUJ13C,Carriage Negative,,,
+NAS1030,HIV-,Week 5,CUJ13F,Carriage Negative,,,
+NAS1055,HIV-,Week 5,CUJ13B,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 5,CUJ13D,Carriage Negative,,,
+NAS1063,HIV-,Week 5,CUJ13E,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 5,CUJ140,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 5,CUJ141,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 5,CUJ142,Carriage Negative,,,
+NAS1113,HIV-,Week 5,CUJ143,Carriage Negative,,,
+NAS1154,HIV-,Week 5,CUJ146,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 5,CUJ148,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 5,CUJ145,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 5,CUJ149,Carriage Negative,,,
+NAS1279,HIV-,Week 5,CUJ14B,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 5,CUJ14C,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 5,CUJ14D,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 5,CUJ14E,Carriage Negative,,,
+NAS1345,PLHIV ART <3m,Week 5,CUJ14G,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 5,CUJ14S,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 5,CUJ14T,Carriage Negative,,,
+NAS1394,HIV-,Week 5,CUJ14V,Carriage Negative,,,
+NAS1402,HIV-,Week 5,CUJ14W,Carriage Negative,,,
+NAS1410,HIV-,Week 5,CUJ14X,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 5,CUJ14Z,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 5,CUJ153,Carriage Negative,,,
+NAS1469,HIV-,Week 5,CUJ152,Carriage Negative,,,
+NAS1485,HIV-,Week 5,CUJ150,Carriage Negative,,,
+NAS1493,PLHIV ART >1y,Week 5,CUJ151,Carriage Negative,,,
+NAS1477,HIV-,Week 5,CUJ156,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 5,CUJ14I,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 5,CUJ14Y,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 5,CUJ154,Carriage Negative,,,
+NAS1519,PLHIV ART >1y,Week 5,CUJ15B,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 5,CUJ13K,Carriage Negative,,,
+NAS1543,HIV-,Week 5,CUJ14K,Carriage Negative,,,
+NAS1584,HIV-,Week 5,CUJ14P,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 5,CUJ14L,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 5,CUJ14M,Carriage Negative,,,
+NAS1642,PLHIV ART <3m,Week 5,CUJ14R,Carriage Negative,,,
+NAS1675,HIV-,Week 5,CUJ13Q,Carriage Negative,,,
+NAS1659,HIV-,Week 5,CUJ13M,Carriage Negative,,,
+NAS1634,PLHIV ART >1y,Week 5,CUJ14Q,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 5,CUJ13N,Carriage Negative,,,
+NAS1667,HIV-,Week 5,CUJ13P,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 5,CUJ13H,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 5,CUJ13I,Carriage Negative,,,
+NAS1691,PLHIV ART >1y,Week 5,CUJ13J,Carriage Negative,,,
+NAS1725,HIV-,Week 5,CUJ13G,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 5,CUJ15D,Carriage Negative,,,
+NAS1774,HIV-,Week 5,CUJ15F,Carriage Negative,,,
+NAS1824,HIV-,Week 5,CUJ15H,Carriage Negative,,,
+NAS1832,HIV-,Week 5,CUJ15I,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 5,CUJ15L,Carriage Negative,,,
+NAS1857,HIV-,Week 5,CUJ15M,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 5,CUJ15R,Carriage Negative,,,
+NAS1758,HIV-,Week 5,CUJ15Q,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 5,CUJ15S,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 5,CUJ15U,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 5,CUJ15V,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 5,CUJ15Y,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 6,CUK100,Carriage Negative,,,
+NAS0032,HIV-,Week 6,CUK102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 6,CUK104,Carriage Negative,,,
+NAS0073,PLHIV ART >1y,Week 6,CUK106,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 6,CUK107,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 6,CUK105,Carriage Negative,,,
+NAS0149,HIV-,Week 6,CUK108,Carriage Negative,,,
+NAS0156,HIV-,Week 6,CUK109,Carriage Negative,,,
+NAS0164,HIV-,Week 6,CUK10B,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 6,CUK10D,Carriage Negative,,,
+NAS0206,HIV-,Week 6,CUK10G,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 6,CUK10H,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 6,CUK10E,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 6,CUK10N,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 6,CUK10K,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 6,CUK10M,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 6,CUK10L,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 6,CUK10T,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 6,CUK10R,Carriage Negative,,,
+NAS0305,HIV-,Week 6,CUK10Q,Carriage Negative,,,
+NAS0313,HIV-,Week 6,CUK10S,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 6,CUK10X,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 6,CUK10W,Carriage Negative,,,
+NAS0370,HIV-,Week 6,CUK10U,Carriage Negative,,,
+NAS0388,HIV-,Week 6,CUK10V,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 6,CUK10Z,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 6,CUK110,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 6,CUK11A,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 6,CUK114,Carriage Negative,,,
+NAS0453,HIV-,Week 6,CUK116,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 6,CUK112,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 6,CUK117,Carriage Negative,,,
+NAS0487,HIV-,Week 6,CUK11B,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 6,CUK11G,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 6,CUK11D,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 6,CUK11C,Carriage Negative,,,
+NAS0537,HIV-,Week 6,CUK11E,Carriage Negative,,,
+NAS0545,HIV-,Week 6,CUK11F,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 6,CUK11H,Carriage Negative,,,
+NAS0552,HIV-,Week 6,CUK11L,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 6,CUK11J,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 6,CUK11I,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 6,CUK11M,Carriage Negative,,,
+NAS0628,HIV-,Week 6,CUK11N,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 6,CUK11S,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 6,CUK11R,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 6,CUK11T,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 6,CUK11U,Carriage Negative,,,
+NAS0685,HIV-,Week 6,CUK11Y,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 6,CUK11X,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 6,CUK11V,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 6,CUK11Z,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 6,CUK121,Carriage Negative,,,
+NAS0693,HIV-,Week 6,CUK122,Carriage Negative,,,
+NAS0750,HIV-,Week 6,CUK126,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 6,CUK124,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 6,CUK125,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 6,CUK129,Carriage Negative,  ,  ,
+NAS0867,HIV-,Week 6,CUK127,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 6,CUK128,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 6,CUK12E,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 6,CUK12C,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 6,CUK12F,Carriage Negative,,,
+NAS0933,PLHIV ART >1y,Week 6,CUK12J,Carriage Negative,,,
+NAS0818,HIV-,Week 6,CUK12H,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 6,CUK12K,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 6,CUK12L,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 6,CUK12N,Carriage Negative,,,
+NAS0792,HIV-,Week 6,CUK13L,Carriage Negative,,,
+NAS0800,HIV-,Week 6,CUK12Q,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 6,CUK13P,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 6,CUK13R,Carriage Negative,,,
+NAS1030,HIV-,Week 6,CUK12S,Carriage Negative,,,
+NAS1063,HIV-,Week 6,CUK12R,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 6,CUK13U,Carriage Negative,,,
+NAS1089,HIV-,Week 6,CUK13T,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 6,CUK13V,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 6,CUK12T,Carriage Negative,,,
+NAS1113,HIV-,Week 6,CUK12U,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 6,CUK12V,Carriage Negative,,,
+NAS1154,HIV-,Week 6,CUK13W,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 6,CUK12Z,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 6,CUK12X,Carriage Negative,,,
+NAS1162,HIV-,Week 6,CUK12W,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 6,CUK13Y,Carriage Negative,,,
+NAS1279,HIV-,Week 6,CUK140,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 6,CUK141,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 6,CUK142,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 6,CUK14G,Carriage Negative,,,
+NAS1345,PLHIV ART <3m,Week 6,CUK14I,Carriage Negative,,,
+NAS1352,PLHIV ART <3m,Week 6,CUK143,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 6,CUK14K,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 6,CUK144,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 6,CUK14J,Carriage Negative,,,
+NAS1394,HIV-,Week 6,CUK14L,Carriage Negative,,,
+NAS1402,HIV-,Week 6,CUK14M,Carriage Negative,,,
+NAS1410,HIV-,Week 6,CUK146,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 6,CUK14N,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 6,CUK14R,Carriage Negative,,,
+NAS1469,HIV-,Week 6,CUK14Q,Carriage Negative,,,
+NAS1485,HIV-,Week 6,CUK14T,Carriage Negative,,,
+NAS1477,HIV-,Week 6,CUK14V,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 6,CUK14P,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 6,CUK14X,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 6,CUK145,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 6,CUK14U,Carriage Negative,,,
+NAS1246,HIV-,Week 6,CUK14Y,Carriage Negative,,,
+NAS1519,PLHIV ART >1y,Week 6,CUK15M,Carriage Negative,,,
+NAS1543,HIV-,Week 6,CUK153,Carriage Negative,,,
+NAS1584,HIV-,Week 6,CUK15E,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 6,CUK158,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 6,CUK159,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 6,CUK156,Carriage Negative,,,
+NAS1642,PLHIV ART <3m,Week 6,CUK15A,Carriage Negative,,,
+NAS1675,HIV-,Week 6,CUK15B,Carriage Negative,,,
+NAS1659,HIV-,Week 6,CUK15D,Carriage Negative,,,
+NAS1634,PLHIV ART >1y,Week 6,CUK151,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 6,CUK15F,Carriage Negative,,,
+NAS1667,HIV-,Week 6,CUK15C,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 6,CUK15G,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 6,CUK15I,Carriage Negative,,,
+NAS1691,PLHIV ART >1y,Week 6,CUK15H,Carriage Negative,,,
+NAS1725,HIV-,Week 6,CUK15L,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 6,CUK131,Carriage Negative,,,
+NAS1774,HIV-,Week 6,CUK132,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 6,CUK166,Carriage Negative,,,
+NAS1816,HIV-,Week 6,CUK135,Carriage Negative,,,
+NAS1824,HIV-,Week 6,CUK13J,Carriage Negative,,,
+NAS1832,HIV-,Week 6,CUK13K,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 6,CUK136,Carriage Negative,,,
+NAS1857,HIV-,Week 6,CUK13A,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 6,CUK139,Carriage Negative,,,
+NAS1881,HIV-,Week 6,CUK137,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 6,CUK13C,Carriage Negative,,,
+NAS1758,HIV-,Week 6,CUK13B,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 6,CUK13D,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 6,CUK13H,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 6,CUK15Q,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 6,CUK15R,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 7,CUL100,Carriage Negative,,,
+NAS0032,HIV-,Week 7,CUL102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 7,CUL104,Carriage Negative,,,
+NAS0073,PLHIV ART >1y,Week 7,CUL106,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 7,CUL107,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 7,CUL105,Carriage Negative,,,
+NAS0149,HIV-,Week 7,CUL109,Carriage Negative,,,
+NAS0156,HIV-,Week 7,CUL108,Carriage Negative,,,
+NAS0164,HIV-,Week 7,CUL10B,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 7,CUL10D,Carriage Negative,,,
+NAS0206,HIV-,Week 7,CUL10L,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 7,CUL10M,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 7,CUL10E,Carriage Negative,,,
+NAS0198,HIV-,Week 7,CUL10N,Carriage Negative,,,
+NAS0172,HIV-,Week 7,CUL10Q,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 7,CUL10V,Carriage Negative,,,
+NAS0255,PLHIV ART <3m,Week 7,CUL10U,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 7,CUL10S,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 7,CUL10T,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 7,CUL10H,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 7,CUL10I,Carriage Negative,,,
+NAS0305,HIV-,Week 7,CUL10F,Carriage Negative,,,
+NAS0313,HIV-,Week 7,CUL10G,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 7,CUL10Y,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 7,CUL10J,Carriage Negative,,,
+NAS0370,HIV-,Week 7,CUL10X,Carriage Negative,,,
+NAS0388,HIV-,Week 7,CUL10K,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 7,CUL10Z,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 7,CUL111,Carriage Negative,,,
+NAS0396,PLHIV ART <3m,Week 7,CUL110,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 7,CUL11F,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 7,CUL112,Carriage Negative,,,
+NAS0453,HIV-,Week 7,CUL11A,Carriage Negative,,,
+NAS0438,HIV-,Week 7,CUL119,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 7,CUL117,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 7,CUL11B,Carriage Negative,,,
+NAS0321,HIV-,Week 7,CUL11D,Carriage Negative,,,
+NAS0487,HIV-,Week 7,CUL11E,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 7,CUL11K,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 7,CUL11I,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 7,CUL11H,Carriage Negative,,,
+NAS0537,HIV-,Week 7,CUL11G,Carriage Negative,,,
+NAS0545,HIV-,Week 7,CUL11J,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 7,CUL11L,Carriage Negative,,,
+NAS0552,HIV-,Week 7,CUL116,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 7,CUL115,Carriage Negative,,,
+NAS0560,HIV-,Week 7,CUL114,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 7,CUL113,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 7,CUL11N,Carriage Negative,,,
+NAS0628,HIV-,Week 7,CUL11M,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 7,CUL11S,Carriage Negative,,,
+NAS0610,HIV-,Week 7,CUL11R,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 7,CUL11T,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 7,CUL11U,Carriage Negative,,,
+NAS0685,HIV-,Week 7,CUL11Y,Carriage Negative,,,
+NAS0677,HIV-,Week 7,CUL11X,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 7,CUL11W,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 7,CUL11V,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 7,CUL11Z,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 7,CUL120,Carriage Negative,,,
+NAS0693,HIV-,Week 7,CUL122,Carriage Negative,,,
+NAS0750,HIV-,Week 7,CUL127,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 7,CUL123,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 7,CUL126,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 7,CUL12A,Carriage Negative,,,
+NAS0867,HIV-,Week 7,CUL128,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 7,CUL129,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 7,CUL12D,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 7,CUL12C,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 7,CUL12F,Carriage Negative,,,
+NAS0818,HIV-,Week 7,CUL12H,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 7,CUL12K,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 7,CUL131,Carriage Negative,,,
+NAS0800,HIV-,Week 7,CUL133,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 7,CUL12N,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 7,CUL12P,Carriage Negative,,,
+NAS1030,HIV-,Week 7,CUL138,Carriage Negative,,,
+NAS1055,HIV-,Week 7,CUL12Q,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 7,CUL136,Carriage Negative,,,
+NAS1063,HIV-,Week 7,CUL137,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 7,CUL12R,Carriage Negative,,,
+NAS1089,HIV-,Week 7,CUL12S,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 7,CUL12T,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 7,CUL12V,Carriage Negative,,,
+NAS1113,HIV-,Week 7,CUL12W,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 7,CUL12X,Carriage Negative,,,
+NAS1154,HIV-,Week 7,CUL13A,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 7,CUL139,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 7,CUL12Y,Carriage Negative,,,
+NAS1279,HIV-,Week 7,CUL13E,Carriage Negative,,,
+NAS1261,PLHIV ART >1y,Week 7,CUL13D,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 7,CUL13F,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 7,CUL13G,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 7,CUL13H,Carriage Negative,,,
+NAS1337,PLHIV ART <3m,Week 7,CUL13I,Carriage Negative,,,
+NAS1352,PLHIV ART <3m,Week 7,CUL13K,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 7,CUL15P,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 7,CUL15N,Carriage Negative,,,
+NAS1394,HIV-,Week 7,CUL13L,Carriage Negative,,,
+NAS1402,HIV-,Week 7,CUL15Q,Carriage Negative,,,
+NAS1410,HIV-,Week 7,CUL15T,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 7,CUL15U,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 7,CUL15W,Carriage Negative,,,
+NAS1469,HIV-,Week 7,CUL15Y,Carriage Negative,,,
+NAS1485,HIV-,Week 7,CUL15X,Carriage Negative,,,
+NAS1477,HIV-,Week 7,CUL161,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 7,CUL15V,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 7,CUL15S,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 7,CUL160,Carriage Negative,,,
+NAS1451,PLHIV ART >1y,Week 7,CUL164,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 7,CUL167,Carriage Negative,,,
+NAS1246,HIV-,Week 7,CUL166,Carriage Negative,,,
+NAS1519,PLHIV ART >1y,Week 7,CUL168,Carriage Negative,,,
+NAS1527,PLHIV ART >1y,Week 7,CUL148,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 7,CUL14A,Carriage Negative,,,
+NAS1543,HIV-,Week 7,CUL147,Carriage Negative,,,
+NAS1584,HIV-,Week 7,CUL14C,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 7,CUL14B,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 7,CUL14E,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 7,CUM140,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 7,CUL149,Carriage Negative,,,
+NAS1675,HIV-,Week 7,CUL14D,Carriage Negative,,,
+NAS1659,HIV-,Week 7,CUL13P,Carriage Negative,,,
+NAS1667,HIV-,Week 7,CUL14F,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 7,CUL14H,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 7,CUL14I,Carriage Negative,,,
+NAS1691,PLHIV ART >1y,Week 7,CUL14G,Carriage Negative,,,
+NAS1725,HIV-,Week 7,CUL14J,Carriage Negative,,,
+NAS1733,HIV-,Week 7,CUL14K,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 7,CUL14L,Carriage Negative,,,
+NAS1774,HIV-,Week 7,CUL14N,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 7,CUL14S,Carriage Negative,,,
+NAS1816,HIV-,Week 7,CUL14Q,Carriage Negative,,,
+NAS1824,HIV-,Week 7,CUL14P,Carriage Negative,,,
+NAS1832,HIV-,Week 7,CUL14R,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 7,CUL14W,Carriage Negative,,,
+NAS1857,HIV-,Week 7,CUL14X,Carriage Negative,,,
+NAS1865,HIV-,Week 7,CUL14T,Carriage Negative,,,
+NAS1881,HIV-,Week 7,CUL14U,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 7,CUL13Z,Carriage Negative,,,
+NAS1758,HIV-,Week 7,CUL14Y,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 7,CUL150,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 7,CUL13R,Carriage Negative,,,
+NAS1964,PLHIV ART >1y,Week 7,CUL13T,Carriage Negative,,,
+NAS2004,PLHIV ART <3m,Week 7,CUL146,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 7,CUL13W,Carriage Negative,,,
+NAS0032,HIV-,Week 10,CUP102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 10,CUP104,Carriage Negative,,,
+NAS0073,PLHIV ART >1y,Week 10,CUP106,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 10,CUP107,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 10,CUP105,Carriage Negative,,,
+NAS0149,HIV-,Week 10,CUP10B,Carriage Negative,,,
+NAS0156,HIV-,Week 10,CUP108,Carriage Negative,,,
+NAS0164,HIV-,Week 10,CUP10A,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 10,CUP10D,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 10,CUP10E,Carriage Negative,,,
+NAS0198,HIV-,Week 10,CUP10G,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 10,CUP10M,Carriage Negative,,,
+NAS0255,PLHIV ART <3m,Week 10,CUP10I,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 10,CUP10L,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 10,CUP10Q,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 10,CUP10R,Carriage Negative,,,
+NAS0305,HIV-,Week 10,CUP116,Carriage Negative,,,
+NAS0313,HIV-,Week 10,CUP10P,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 10,CUP10U,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 10,CUP10V,Carriage Negative,,,
+NAS0370,HIV-,Week 10,CUP10W,Carriage Negative,,,
+NAS0388,HIV-,Week 10,CUP10T,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 10,CUP10X,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 10,CUP112,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 10,CUP11V,Carriage Negative,,,
+NAS0453,HIV-,Week 10,CUP111,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 10,CUP110,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 10,CUP115,Carriage Negative,,,
+NAS0487,HIV-,Week 10,CUP11U,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 10,CUP11Z,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 10,CUP120,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 10,CUP11X,Carriage Negative,,,
+NAS0537,HIV-,Week 10,CUP11W,Carriage Negative,,,
+NAS0545,HIV-,Week 10,CUP11Y,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 10,CUP121,Carriage Negative,,,
+NAS0552,HIV-,Week 10,CUP124,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 10,CUP125,Carriage Negative,,,
+NAS0560,HIV-,Week 10,CUP123,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 10,CUP122,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 10,CUP127,Carriage Negative,,,
+NAS0628,HIV-,Week 10,CUP126,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 10,CUP12B,Carriage Negative,,,
+NAS0610,HIV-,Week 10,CUP128,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 10,CUP12C,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 10,CUP12D,Carriage Negative,,,
+NAS0685,HIV-,Week 10,CUP12H,Carriage Negative,,,
+NAS0677,HIV-,Week 10,CUP12F,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 10,CUP12G,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 10,CUP12E,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 10,CUP12I,Carriage Negative,,,
+NAS0693,HIV-,Week 10,CUP12K,Carriage Negative,,,
+NAS0750,HIV-,Week 10,CUP12R,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 10,CUP12M,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 10,CUP12N,Carriage Negative,,,
+NAS0859,HIV-,Week 10,CUP12U,Carriage Negative,,,
+NAS0867,HIV-,Week 10,CUP12S,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 10,CUP12T,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 10,CUP12Y,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 10,CUP12X,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 10,CUP12Z,Carriage Negative,,,
+NAS0818,HIV-,Week 10,CUP132,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 10,CUP134,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 10,CUP13M,Carriage Negative,,,
+NAS0800,HIV-,Week 10,CUP137,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 10,CUP139,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 10,CUP138,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 10,CUP13A,Carriage Negative,,,
+NAS1030,HIV-,Week 10,CUP13E,Carriage Negative,,,
+NAS1055,HIV-,Week 10,CUP13B,Carriage Negative,,,
+NAS1063,HIV-,Week 10,CUP13D,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 10,CUP13G,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 10,CUP13F,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 10,CUP13I,Carriage Negative,,,
+NAS1113,HIV-,Week 10,CUP13J,Carriage Negative,,,
+NAS1154,HIV-,Week 10,CUP13T,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 10,CUP13R,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 10,CUP13U,Carriage Negative,,,
+NAS1279,HIV-,Week 10,CUP13W,Carriage Negative,,,
+NAS1261,PLHIV ART >1y,Week 10,CUP13V,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 10,CUP13X,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 10,CUP14G,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 10,CUP14H,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 10,CUP151,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 10,CUP13Y,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 10,CUP13Z,Carriage Negative,,,
+NAS1394,HIV-,Week 10,CUP142,Carriage Negative,,,
+NAS1402,HIV-,Week 10,CUP141,Carriage Negative,,,
+NAS1410,HIV-,Week 10,CUP14M,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 10,CUP14K,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 10,CUP14J,Carriage Negative,,,
+NAS1469,HIV-,Week 10,CUP14Z,Carriage Negative,,,
+NAS1477,HIV-,Week 10,CUP14P,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 10,CUP14Q,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 10,CUP143,Carriage Negative,,,
+NAS1550,HIV-,Week 10,CUP14X,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 10,CUP14D,Carriage Negative,,,
+NAS1543,HIV-,Week 10,CUP147,Carriage Negative,,,
+NAS1584,HIV-,Week 10,CUP11R,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 10,CUP149,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 10,CUQ12T,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 10,CUP14F,Carriage Negative,,,
+NAS1675,HIV-,Week 10,CUP148,Carriage Negative,,,
+NAS1659,HIV-,Week 10,CUP14A,Carriage Negative,,,
+NAS1667,HIV-,Week 10,CUP14B,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 10,CUP117,Carriage Negative,,,
+NAS1725,HIV-,Week 10,CUP11N,Carriage Negative,,,
+NAS1733,HIV-,Week 10,CUP144,Carriage Negative,,,
+NAS1774,HIV-,Week 10,CUP146,Carriage Negative,,,
+NAS1824,HIV-,Week 10,CUP11K,Carriage Negative,,,
+NAS1832,HIV-,Week 10,CUP11H,Carriage Negative,,,
+NAS1857,HIV-,Week 10,CUP11E,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 10,CUP11D,Carriage Negative,,,
+NAS1881,HIV-,Week 10,CUP11G,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 10,CUP119,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 10,CUP118,Carriage Negative,,,
+NAS1931,PLHIV ART <3m,Week 10,CUP152,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 10,CUP11B,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 10,CUP11A,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 10,CUP15L,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 10,CUP15H,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 10,CUP15I,Carriage Negative,,,
+NAS0032,HIV-,Week 11,CUQ102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 11,CUQ104,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 11,CUQ106,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 11,CUQ105,Carriage Negative,,,
+NAS0149,HIV-,Week 11,CUQ109,Carriage Negative,,,
+NAS0156,HIV-,Week 11,CUQ108,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 11,CUQ10D,Carriage Negative,,,
+NAS0206,HIV-,Week 11,CUQ10F,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 11,CUQ10G,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 11,CUQ10E,Carriage Negative,,,
+NAS0198,HIV-,Week 11,CUQ10H,Carriage Negative,,,
+NAS0172,HIV-,Week 11,CUQ10J,Carriage Negative,,,
+NAS0255,PLHIV ART <3m,Week 11,CUQ10K,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 11,CUQ10N,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 11,CUQ10M,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 11,CUQ10I,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 11,CUQ10R,Carriage Negative,,,
+NAS0305,HIV-,Week 11,CUQ10Q,Carriage Negative,,,
+NAS0313,HIV-,Week 11,CUQ10P,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 11,CUQ10T,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 11,CUQ10U,Carriage Negative,,,
+NAS0370,HIV-,Week 11,CUQ10V,Carriage Negative,,,
+NAS0388,HIV-,Week 11,CUQ10S,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 11,CUQ10W,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 11,CUQ112,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 11,CUQ117,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 11,CUQ10X,Carriage Negative,,,
+NAS0453,HIV-,Week 11,CUQ111,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 11,CUQ10Z,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 11,CUQ113,Carriage Negative,,,
+NAS0487,HIV-,Week 11,CUQ116,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 11,CUQ11B,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 11,CUQ11C,Carriage Negative,,,
+NAS0537,HIV-,Week 11,CUQ11A,Carriage Negative,,,
+NAS0545,HIV-,Week 11,CUQ118,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 11,CUQ11D,Carriage Negative,,,
+NAS0552,HIV-,Week 11,CUQ11H,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 11,CUQ11G,Carriage Negative,,,
+NAS0560,HIV-,Week 11,CUQ11F,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 11,CUQ11E,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 11,CUQ11J,Carriage Negative,,,
+NAS0628,HIV-,Week 11,CUQ131,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 11,CUQ130,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 11,CUQ132,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 11,CUQ133,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 11,CUQ11L,Carriage Negative,,,
+NAS0685,HIV-,Week 11,CUQ11N,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 11,CUQ134,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 11,CUQ11K,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 11,CUQ11P,Carriage Negative,,,
+NAS0693,HIV-,Week 11,CUQ135,Carriage Negative,,,
+NAS0750,HIV-,Week 11,CUQ13B,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 11,CUQ136,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 11,CUQ139,Carriage Negative,,,
+NAS0859,HIV-,Week 11,CUQ13F,Carriage Negative,,,
+NAS0867,HIV-,Week 11,CUQ13C,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 11,CUQ13D,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 11,CUQ13H,Carriage Negative,,,
+NAS0917,HIV-,Week 11,CUQ13K,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 11,CUQ13J,Carriage Negative,,,
+NAS0933,PLHIV ART >1y,Week 11,CUQ13M,Carriage Negative,,,
+NAS0818,HIV-,Week 11,CUQ13N,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 11,CUQ147,Carriage Negative,,,
+NAS0958,HIV-,Week 11,CUQ13L,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 11,CUQ13P,Carriage Negative,,,
+NAS0800,HIV-,Week 11,CUQ13Q,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 11,CUQ13S,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 11,CUQ13U,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 11,CUQ13T,Carriage Negative,,,
+NAS1030,HIV-,Week 11,CUQ13Z,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 11,CUQ14B,Carriage Negative,,,
+NAS1113,HIV-,Week 11,CUQ14C,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 11,CUQ14D,Carriage Negative,,,
+NAS1154,HIV-,Week 11,CUQ14H,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 11,CUQ14F,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 11,CUQ14E,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 11,CUQ14I,Carriage Negative,,,
+NAS1279,HIV-,Week 11,CUQ144,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 11,CUQ146,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 11,CUQ14J,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 11,CUQ14K,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 11,CUQ14S,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 11,CUQ14N,Carriage Negative,,,
+NAS1394,HIV-,Week 11,CUQ14Q,Carriage Negative,,,
+NAS1402,HIV-,Week 11,CUQ14R,Carriage Negative,,,
+NAS1410,HIV-,Week 11,CUQ167,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 11,CUQ161,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 11,CUQ162,Carriage Negative,,,
+NAS1485,HIV-,Week 11,CUQ164,Carriage Negative,,,
+NAS1477,HIV-,Week 11,CUQ169,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 11,CUQ163,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 11,CUQ16B,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 11,CUQ160,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 11,CUQ168,Carriage Negative,,,
+NAS1253,PLHIV ART >1y,Week 11,CUQ16H,Carriage Negative,,,
+NAS1246,HIV-,Week 11,CUQ16I,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 11,CUQ12D,Carriage Negative,,,
+NAS1543,HIV-,Week 11,CUQ11V,Carriage Negative,,,
+NAS1584,HIV-,Week 11,CUQ12Y,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 11,CUQ12E,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 11,CUQ11W,Carriage Negative,,,
+NAS1659,HIV-,Week 11,CUQ12V,Carriage Negative,,,
+NAS1667,HIV-,Week 11,CUQ12W,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 11,CUQ12Q,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 11,CUQ11Z,Carriage Negative,,,
+NAS1691,PLHIV ART >1y,Week 11,CUQ11Y,Carriage Negative,,,
+NAS1725,HIV-,Week 11,CUQ12P,Carriage Negative,,,
+NAS1733,HIV-,Week 11,CUQ12F,Carriage Negative,,,
+NAS1774,HIV-,Week 11,CUQ12C,Carriage Negative,,,
+NAS1816,HIV-,Week 11,CUQ12A,Carriage Negative,,,
+NAS1857,HIV-,Week 11,CUQ129,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 11,CUQ127,Carriage Negative,,,
+NAS1881,HIV-,Week 11,CUQ121,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 11,CUQ126,Carriage Negative,,,
+NAS1758,HIV-,Week 11,CUQ122,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 11,CUQ124,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 11,CUQ125,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 11,CUQ123,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 11,CUQ12L,Carriage Negative,,,
+NAS2004,PLHIV ART <3m,Week 11,CUQ12K,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 11,CUQ15D,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 12,CUR100,Carriage Negative,,,
+NAS0032,HIV-,Week 12,CUR103,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 12,CUR104,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 12,CUR107,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 12,CUR105,Carriage Negative,,,
+NAS0149,HIV-,Week 12,CUR109,Carriage Negative,,,
+NAS0156,HIV-,Week 12,CUR108,Carriage Negative,,,
+NAS0164,HIV-,Week 12,CUR10B,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 12,CUR10D,Carriage Negative,,,
+NAS0206,HIV-,Week 12,CUR10G,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 12,CUR10F,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 12,CUR10E,Carriage Negative,,,
+NAS0198,HIV-,Week 12,CUR10H,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 12,CUR10K,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 12,CUR10M,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 12,CUR10N,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 12,CUR10R,Carriage Negative,,,
+NAS0305,HIV-,Week 12,CUR10S,Carriage Negative,,,
+NAS0313,HIV-,Week 12,CUR10Q,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 12,CUR10V,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 12,CUR10W,Carriage Negative,,,
+NAS0370,HIV-,Week 12,CUR10X,Carriage Negative,,,
+NAS0388,HIV-,Week 12,CUR10U,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 12,CUR10Y,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 12,CUR115,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 12,CUR11A,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 12,CUR10Z,Carriage Negative,,,
+NAS0453,HIV-,Week 12,CUR110,Carriage Negative,,,
+NAS0438,HIV-,Week 12,CUR111,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 12,CUR114,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 12,CUR116,Carriage Negative,,,
+NAS0321,HIV-,Week 12,CUR118,Carriage Negative,,,
+NAS0487,HIV-,Week 12,CUR119,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 12,CUR11F,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 12,CUR11C,Carriage Negative,,,
+NAS0537,HIV-,Week 12,CUR11B,Carriage Negative,,,
+NAS0545,HIV-,Week 12,CUR11D,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 12,CUR11G,Carriage Negative,,,
+NAS0552,HIV-,Week 12,CUR11K,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 12,CUR11J,Carriage Negative,,,
+NAS0560,HIV-,Week 12,CUR11I,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 12,CUR11H,Carriage Negative,,,
+NAS0578,PLHIV ART >1y,Week 12,CUR11L,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 12,CUR11M,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 12,CUR11Q,Carriage Negative,,,
+NAS0610,HIV-,Week 12,CUR11N,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 12,CUR11S,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 12,CUR131,Carriage Negative,,,
+NAS0685,HIV-,Week 12,CUR135,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 12,CUR132,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 12,CUR134,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 12,CUR137,Carriage Negative,,,
+NAS0693,HIV-,Week 12,CUR139,Carriage Negative,,,
+NAS0750,HIV-,Week 12,CUR13E,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 12,CUR13A,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 12,CUR13B,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 12,CUR13C,Carriage Negative,,,
+NAS0867,HIV-,Week 12,CUR13F,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 12,CUR13G,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 12,CUR13J,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 12,CUR13K,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 12,CUR13M,Carriage Negative,,,
+NAS0818,HIV-,Week 12,CUR13Q,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 12,CUR13R,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 12,CUR13S,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 12,CUR13U,Carriage Negative,,,
+NAS0800,HIV-,Week 12,CUR13W,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 12,CUR145,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 12,CUR13Z,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 12,CUR13Y,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 12,CUR140,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 12,CUR141,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 12,CUR14X,Carriage Negative,,,
+NAS1113,HIV-,Week 12,CUR14Y,Carriage Negative,,,
+NAS1154,HIV-,Week 12,CUR154,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 12,CUR152,Carriage Negative,,,
+NAS1162,HIV-,Week 12,CUR150,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 12,CUR155,Carriage Negative,,,
+NAS1279,HIV-,Week 12,CUR156,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 12,CUR158,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 12,CUR159,Carriage Negative,,,
+NAS1345,PLHIV ART <3m,Week 12,CUR15C,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 12,CUR149,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 12,CUR147,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 12,CUR148,Carriage Negative,,,
+NAS1394,HIV-,Week 12,CUR14B,Carriage Negative,,,
+NAS1410,HIV-,Week 12,CUR14C,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 12,CUR14E,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 12,CUR14D,Carriage Negative,,,
+NAS1469,HIV-,Week 12,CUR14G,Carriage Negative,,,
+NAS1485,HIV-,Week 12,CUR14H,Carriage Negative,,,
+NAS1477,HIV-,Week 12,CUR14K,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 12,CUR14F,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 12,CUR14M,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 12,CUR15D,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 12,CUR14J,Carriage Negative,,,
+NAS1451,PLHIV ART >1y,Week 12,CUR14N,Carriage Negative,,,
+NAS1246,HIV-,Week 12,CUR14P,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 12,CUR11T,Carriage Negative,,,
+NAS1543,HIV-,Week 12,CUR11U,Carriage Negative,,,
+NAS1584,HIV-,Week 12,CUR11Y,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 12,CUR121,Carriage Negative,,,
+NAS1576,PLHIV ART >1y,Week 12,CUS123,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 12,CUR12E,Carriage Negative,,,
+NAS1659,HIV-,Week 12,CUR11X,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 12,CUR124,Carriage Negative,,,
+NAS1667,HIV-,Week 12,CUR122,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 12,CUR126,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 12,CUR127,Carriage Negative,,,
+NAS1725,HIV-,Week 12,CUR128,Carriage Negative,,,
+NAS1733,HIV-,Week 12,CUR129,Carriage Negative,,,
+NAS1774,HIV-,Week 12,CUR12C,Carriage Negative,,,
+NAS1816,HIV-,Week 12,CUR12Y,Carriage Negative,,,
+NAS1832,HIV-,Week 12,CUR12Z,Carriage Negative,,,
+NAS1857,HIV-,Week 12,CUR12X,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 12,CUR12U,Carriage Negative,,,
+NAS1881,HIV-,Week 12,CUR12W,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 12,CUR12N,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 12,CUR12R,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 12,CUR12P,Carriage Negative,,,
+NAS2004,PLHIV ART <3m,Week 12,CUR12F,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 12,CUR12I,Carriage Negative,,,
+NAS0032,HIV-,Week 13,CUS102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 13,CUS104,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 13,CUS106,Carriage Negative,,,
+NAS0149,HIV-,Week 13,CUS109,Carriage Negative,,,
+NAS0156,HIV-,Week 13,CUS108,Carriage Negative,,,
+NAS0164,HIV-,Week 13,CUS10A,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 13,CUS10E,Carriage Negative,,,
+NAS0206,HIV-,Week 13,CUS10F,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 13,CUS10G,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 13,CUS10D,Carriage Negative,,,
+NAS0198,HIV-,Week 13,CUS10H,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 13,CUS10L,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 13,CUS10N,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 13,CUS10M,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 13,CUS10T,Carriage Negative,,,
+NAS0305,HIV-,Week 13,CUS10Q,Carriage Negative,,,
+NAS0313,HIV-,Week 13,CUS10R,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 13,CUS10W,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 13,CUS10V,Carriage Negative,,,
+NAS0388,HIV-,Week 13,CUS10U,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 13,CUS10Y,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 13,CUS115,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 13,CUS119,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 13,CUS10Z,Carriage Negative,,,
+NAS0453,HIV-,Week 13,CUS111,Carriage Negative,,,
+NAS0438,HIV-,Week 13,CUS113,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 13,CUS112,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 13,CUS116,Carriage Negative,,,
+NAS0487,HIV-,Week 13,CUS11A,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 13,CUS11F,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 13,CUS11E,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 13,CUS11D,Carriage Negative,,,
+NAS0537,HIV-,Week 13,CUS11C,Carriage Negative,,,
+NAS0545,HIV-,Week 13,CUS11B,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 13,CUS11G,Carriage Negative,,,
+NAS0552,HIV-,Week 13,CUS11J,Carriage Negative,,,
+NAS0560,HIV-,Week 13,CUS11I,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 13,CUS11H,Carriage Negative,,,
+NAS0578,PLHIV ART >1y,Week 13,CUS11L,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 13,CUS11R,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 13,CUS11Q,Carriage Negative,,,
+NAS0610,HIV-,Week 13,CUS11M,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 13,CUS11S,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 13,CUS13N,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 13,CUS13L,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 13,CUS132,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 13,CUS131,Carriage Negative,,,
+NAS0693,HIV-,Week 13,CUS13R,Carriage Negative,,,
+NAS0750,HIV-,Week 13,CUS13W,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 13,CUS13S,Carriage Negative,,,
+NAS0834,PLHIV ART >1y,Week 13,CUS13V,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 13,CUS13U,Carriage Negative,,,
+NAS0867,HIV-,Week 13,CUS13X,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 13,CUS140,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 13,CUS141,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 13,CUS142,Carriage Negative,,,
+NAS0917,HIV-,Week 13,CUS145,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 13,CUS144,Carriage Negative,,,
+NAS0818,HIV-,Week 13,CUS134,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 13,CUS135,Carriage Negative,,,
+NAS0958,HIV-,Week 13,CUS133,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 13,CUS149,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 13,CUS14C,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 13,CUS14E,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 13,CUS138,Carriage Negative,,,
+NAS1030,HIV-,Week 13,CUS136,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 13,CUS14F,Carriage Negative,,,
+NAS1063,HIV-,Week 13,CUS139,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 13,CUS15G,Carriage Negative,,,
+NAS1089,HIV-,Week 13,CUS15F,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 13,CUS15H,Carriage Negative,,,
+NAS1113,HIV-,Week 13,CUS13A,Carriage Negative,,,
+NAS1154,HIV-,Week 13,CUS13C,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 13,CUS14J,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 13,CUS14I,Carriage Negative,,,
+NAS1162,HIV-,Week 13,CUS14H,Carriage Negative,,,
+NAS1279,HIV-,Week 13,CUS14L,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 13,CUS14M,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 13,CUS15K,Carriage Negative,,,
+NAS1337,PLHIV ART <3m,Week 13,CUS15L,Carriage Negative,,,
+NAS1345,PLHIV ART <3m,Week 13,CUS13D,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 13,CUS14S,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 13,CUS14P,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 13,CUS14Q,Carriage Negative,,,
+NAS1394,HIV-,Week 13,CUS15M,Carriage Negative,,,
+NAS1402,HIV-,Week 13,CUS13E,Carriage Negative,,,
+NAS1410,HIV-,Week 13,CUS13G,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 13,CUS13J,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 13,CUS13H,Carriage Negative,,,
+NAS1469,HIV-,Week 13,CUS15P,Carriage Negative,,,
+NAS1485,HIV-,Week 13,CUS13K,Carriage Negative,,,
+NAS1477,HIV-,Week 13,CUS15S,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 13,CUS13I,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 13,CUS13F,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 13,CUS15R,Carriage Negative,,,
+NAS1246,HIV-,Week 13,CUS15U,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 13,CUS15X,Carriage Negative,,,
+NAS1543,HIV-,Week 13,CUS12D,Carriage Negative,,,
+NAS1584,HIV-,Week 13,CUS128,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 13,CUS125,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 13,CUS124,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 13,CUS129,Carriage Negative,,,
+NAS1675,HIV-,Week 13,CUS15Z,Carriage Negative,,,
+NAS1659,HIV-,Week 13,CUS15Y,Carriage Negative,,,
+NAS1667,HIV-,Week 13,CUS126,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 13,CUS120,Carriage Negative,,,
+NAS1725,HIV-,Week 13,CUS11Z,Carriage Negative,,,
+NAS1733,HIV-,Week 13,CUS11Y,Carriage Negative,,,
+NAS1774,HIV-,Week 13,CUS11V,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 13,CUS16K,Carriage Negative,,,
+NAS1816,HIV-,Week 13,CUS160,Carriage Negative,,,
+NAS1832,HIV-,Week 13,CUS11U,Carriage Negative,,,
+NAS1857,HIV-,Week 13,CUS16I,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 13,CUS16G,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 13,CUS16E,Carriage Negative,,,
+NAS1758,HIV-,Week 13,CUS16D,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 13,CUS16A,Carriage Negative,,,
+NAS1931,PLHIV ART <3m,Week 13,CUS169,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 13,CUS16C,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 13,CUS16B,Carriage Negative,,,
+NAS1964,PLHIV ART >1y,Week 13,CUS168,Carriage Negative,,,
+NAS1972,PLHIV ART <3m,Week 13,CUS164,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 13,CUS163,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 14,CUT100,Carriage Negative,,,
+NAS0032,HIV-,Week 14,CUT102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 14,CUT104,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 14,CUT107,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 14,CUT105,Carriage Negative,,,
+NAS0149,HIV-,Week 14,CUT10C,Carriage Negative,,,
+NAS0156,HIV-,Week 14,CUT108,Carriage Negative,,,
+NAS0164,HIV-,Week 14,CUT10A,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 14,CUT10D,Carriage Negative,,,
+NAS0206,HIV-,Week 14,CUT10H,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 14,CUT10F,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 14,CUT10E,Carriage Negative,,,
+NAS0198,HIV-,Week 14,CUT10G,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 14,CUT10L,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 14,CUT10N,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 14,CUT10J,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 14,CUT10T,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 14,CUT10S,Carriage Negative,,,
+NAS0305,HIV-,Week 14,CUT10Q,Carriage Negative,,,
+NAS0313,HIV-,Week 14,CUT10R,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 14,CUT10V,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 14,CUT10W,Carriage Negative,,,
+NAS0388,HIV-,Week 14,CUT10U,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 14,CUT10Y,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 14,CUT113,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 14,CUT11B,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 14,CUT10Z,Carriage Negative,,,
+NAS0453,HIV-,Week 14,CUT111,Carriage Negative,,,
+NAS0438,HIV-,Week 14,CUT115,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 14,CUT112,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 14,CUT116,Carriage Negative,,,
+NAS0487,HIV-,Week 14,CUT11A,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 14,CUT11G,Carriage Negative,,,
+NAS0537,HIV-,Week 14,CUT11D,Carriage Negative,,,
+NAS0545,HIV-,Week 14,CUT11E,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 14,CUT11H,Carriage Negative,,,
+NAS0552,HIV-,Week 14,CUT11K,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 14,CUT11L,Carriage Negative,,,
+NAS0560,HIV-,Week 14,CUT11J,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 14,CUT11I,Carriage Negative,,,
+NAS0578,PLHIV ART >1y,Week 14,CUT11M,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 14,CUT12Z,Carriage Negative,,,
+NAS0628,HIV-,Week 14,CUT131,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 14,CUT133,Carriage Negative,,,
+NAS0610,HIV-,Week 14,CUT130,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 14,CUT134,Carriage Negative,,,
+NAS0685,HIV-,Week 14,CUT138,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 14,CUT137,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 14,CUT139,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 14,CUT13C,Carriage Negative,,,
+NAS0693,HIV-,Week 14,CUT13D,Carriage Negative,,,
+NAS0750,HIV-,Week 14,CUT13I,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 14,CUT13E,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 14,CUT13F,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 14,CUT13G,Carriage Negative,,,
+NAS0859,HIV-,Week 14,CUT13K,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 14,CUT13L,Carriage Negative,,,
+NAS0867,HIV-,Week 14,CUT13J,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 14,CUT11P,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 14,CUT13N,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 14,CUT13M,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 14,CUT13Q,Carriage Negative,,,
+NAS0818,HIV-,Week 14,CUT13S,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 14,CUT13T,Carriage Negative,,,
+NAS0974,PLHIV ART >1y,Week 14,CUT13V,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 14,CUT13W,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 14,CUT160,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 14,CUT162,Carriage Negative,,,
+NAS1030,HIV-,Week 14,CUT164,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 14,CUT166,Carriage Negative,,,
+NAS1063,HIV-,Week 14,CUT163,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 14,CUT168,Carriage Negative,,,
+NAS1089,HIV-,Week 14,CUT167,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 14,CUT169,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 14,CUT13Y,Carriage Negative,,,
+NAS1113,HIV-,Week 14,CUT16A,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 14,CUT16B,Carriage Negative,,,
+NAS1154,HIV-,Week 14,CUT16E,Carriage Negative,,,
+NAS1147,PLHIV ART <3m,Week 14,CUT16C,Carriage Negative,,,
+NAS1162,HIV-,Week 14,CUT16D,Carriage Negative,,,
+NAS1279,HIV-,Week 14,CUT16H,Carriage Negative,,,
+NAS1261,PLHIV ART >1y,Week 14,CUT16G,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 14,CUT140,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 14,CUT16I,Carriage Negative,,,
+NAS1345,PLHIV ART <3m,Week 14,CUT141,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 14,CUT12D,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 14,CUT143,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 14,CUT145,Carriage Negative,,,
+NAS1394,HIV-,Week 14,CUT12F,Carriage Negative,,,
+NAS1402,HIV-,Week 14,CUT12E,Carriage Negative,,,
+NAS1410,HIV-,Week 14,CUT12R,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 14,CUT12H,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 14,CUT12J,Carriage Negative,,,
+NAS1469,HIV-,Week 14,CUT12P,Carriage Negative,,,
+NAS1477,HIV-,Week 14,CUT12Q,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 14,CUT12I,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 14,CUT12G,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 14,CUT12N,Carriage Negative,,,
+NAS1246,HIV-,Week 14,CUT12U,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 14,CUT14R,Carriage Negative,,,
+NAS1543,HIV-,Week 14,CUT14P,Carriage Negative,,,
+NAS1584,HIV-,Week 14,CUT147,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 14,CUT14I,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 14,CUT14H,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 14,CUT14L,Carriage Negative,,,
+NAS1642,PLHIV ART <3m,Week 14,CUT14J,Carriage Negative,,,
+NAS1675,HIV-,Week 14,CUT12X,Carriage Negative,,,
+NAS1659,HIV-,Week 14,CUT12Y,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 14,CUT14K,Carriage Negative,,,
+NAS1667,HIV-,Week 14,CUT148,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 14,CUT14F,Carriage Negative,,,
+NAS1725,HIV-,Week 14,CUT14E,Carriage Negative,,,
+NAS1733,HIV-,Week 14,CUT14D,Carriage Negative,,,
+NAS1774,HIV-,Week 14,CUT14B,Carriage Negative,,,
+NAS1816,HIV-,Week 14,CUT11T,Carriage Negative,,,
+NAS1832,HIV-,Week 14,CUT11S,Carriage Negative,,,
+NAS1857,HIV-,Week 14,CUT12C,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 14,CUT128,Carriage Negative,,,
+NAS1881,HIV-,Week 14,CUT127,Carriage Negative,,,
+NAS1758,HIV-,Week 14,CUT125,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 14,CUT15W,Carriage Negative,,,
+NAS1931,PLHIV ART <3m,Week 14,CUT15V,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 14,CUT15X,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 14,CUT15Y,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 14,CUT15T,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 14,CUT15Q,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 15,CUU10K,Carriage Negative,,,
+NAS0032,HIV-,Week 15,CUU10N,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 15,CUU10M,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 15,CUU10P,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 15,CUU10Q,Carriage Negative,,,
+NAS0149,HIV-,Week 15,CUU103,Carriage Negative,,,
+NAS0156,HIV-,Week 15,CUU10S,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 15,CUU10V,Carriage Negative,,,
+NAS0206,HIV-,Week 15,CUU10Y,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 15,CUU10W,Carriage Negative,,,
+NAS0198,HIV-,Week 15,CUU10X,Carriage Negative,,,
+NAS0172,HIV-,Week 15,CUU111,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 15,CUU115,Carriage Negative,,,
+NAS0255,PLHIV ART <3m,Week 15,CUU112,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 15,CUU114,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 15,CUU113,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 15,CUU10Z,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 15,CUU107,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 15,CUU105,Carriage Negative,,,
+NAS0305,HIV-,Week 15,CUU104,Carriage Negative,,,
+NAS0313,HIV-,Week 15,CUU106,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 15,CUU10A,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 15,CUU109,Carriage Negative,,,
+NAS0388,HIV-,Week 15,CUU108,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 15,CUU10C,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 15,CUU10G,Carriage Negative,,,
+NAS0396,PLHIV ART <3m,Week 15,CUU10F,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 15,CUU11B,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 15,CUU10E,Carriage Negative,,,
+NAS0453,HIV-,Week 15,CUU10D,Carriage Negative,,,
+NAS0438,HIV-,Week 15,CUU10J,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 15,CUU10H,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 15,CUU116,Carriage Negative,,,
+NAS0321,HIV-,Week 15,CUU117,Carriage Negative,,,
+NAS0487,HIV-,Week 15,CUU119,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 15,CUU11G,Carriage Negative,,,
+NAS0537,HIV-,Week 15,CUU11D,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 15,CUU11H,Carriage Negative,,,
+NAS0552,HIV-,Week 15,CUU11K,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 15,CUU11L,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 15,CUU11I,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 15,CUU11M,Carriage Negative,,,
+NAS0610,HIV-,Week 15,CUU11N,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 15,CUU130,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 15,CUU131,Carriage Negative,,,
+NAS0685,HIV-,Week 15,CUU135,Carriage Negative,,,
+NAS0677,HIV-,Week 15,CUU133,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 15,CUU132,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 15,CUU134,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 15,CUU137,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 15,CUU136,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 15,CUU138,Carriage Negative,,,
+NAS0693,HIV-,Week 15,CUU139,Carriage Negative,,,
+NAS0750,HIV-,Week 15,CUU13E,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 15,CUU13A,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 15,CUU13B,Carriage Negative,,,
+NAS0834,PLHIV ART >1y,Week 15,CUU13D,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 15,CUU13C,Carriage Negative,,,
+NAS0867,HIV-,Week 15,CUU13G,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 15,CUU13H,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 15,CUU13K,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 15,CUU13M,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 15,CUU13S,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 15,CUU13T,Carriage Negative,,,
+NAS0974,PLHIV ART >1y,Week 15,CUU13U,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 15,CUU13V,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 15,CUU14T,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 15,CUU13X,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 15,CUU14V,Carriage Negative,,,
+NAS1030,HIV-,Week 15,CUU14X,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 15,CUU13Z,Carriage Negative,,,
+NAS1063,HIV-,Week 15,CUU13Y,Carriage Negative,,,
+NAS1089,HIV-,Week 15,CUU140,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 15,CUU142,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 15,CUU14Y,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 15,CUU150,Carriage Negative,,,
+NAS1162,HIV-,Week 15,CUU145,Carriage Negative,,,
+NAS1279,HIV-,Week 15,CUU154,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 15,CUU155,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 15,CUU156,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 15,CUU15A,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 15,CUU159,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 15,CUU15C,Carriage Negative,,,
+NAS1394,HIV-,Week 15,CUU147,Carriage Negative,,,
+NAS1402,HIV-,Week 15,CUU146,Carriage Negative,,,
+NAS1410,HIV-,Week 15,CUU148,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 15,CUU14A,Carriage Negative,,,
+NAS1469,HIV-,Week 15,CUU14N,Carriage Negative,,,
+NAS1477,HIV-,Week 15,CUU14L,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 15,CUU14C,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 15,CUU149,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 15,CUU14M,Carriage Negative,,,
+NAS1451,PLHIV ART >1y,Week 15,CUU14D,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 15,CUU14F,Carriage Negative,,,
+NAS1246,HIV-,Week 15,CUU14E,Carriage Negative,,,
+NAS1550,HIV-,Week 15,CUU15X,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 15,CUU14G,Carriage Negative,,,
+NAS1543,HIV-,Week 15,CUU15Y,Carriage Negative,,,
+NAS1584,HIV-,Week 15,CUU15T,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 15,CUU15R,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 15,CUU15W,Carriage Negative,,,
+NAS1675,HIV-,Week 15,CUU14I,Carriage Negative,,,
+NAS1659,HIV-,Week 15,CUU14H,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 15,CUU15V,Carriage Negative,,,
+NAS1667,HIV-,Week 15,CUU11S,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 15,CUU16J,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 15,CUU15Q,Carriage Negative,,,
+NAS1725,HIV-,Week 15,CUU15P,Carriage Negative,,,
+NAS1733,HIV-,Week 15,CUU15M,Carriage Negative,,,
+NAS1774,HIV-,Week 15,CUU15K,Carriage Negative,,,
+NAS1816,HIV-,Week 15,CUU15G,Carriage Negative,,,
+NAS1832,HIV-,Week 15,CUU15H,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 15,CUU16I,Carriage Negative,,,
+NAS1857,HIV-,Week 15,CUU16H,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 15,CUU15F,Carriage Negative,,,
+NAS1881,HIV-,Week 15,CUU15E,Carriage Negative,,,
+NAS1758,HIV-,Week 15,CUU16E,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 15,CUU16B,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 15,CUU16D,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 15,CUU16C,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 15,CUU155,Carriage Negative,,,
+NAS0032,HIV-,Week 16,CUV10M,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 16,CUV10N,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 16,CUV10S,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 16,CUV10Q,Carriage Negative,,,
+NAS0156,HIV-,Week 16,CUV10T,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 16,CUV10Y,Carriage Negative,,,
+NAS0206,HIV-,Week 16,CUV10Z,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 16,CUV100,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 16,CUV10X,Carriage Negative,,,
+NAS0198,HIV-,Week 16,CUV101,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 16,CUV102,Carriage Negative,,,
+NAS0255,PLHIV ART <3m,Week 16,CUV114,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 16,CUV113,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 16,CUV115,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 16,CUV111,Carriage Negative,,,
+NAS0271,PLHIV ART >1y,Week 16,CUV110,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 16,CUV106,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 16,CUV103,Carriage Negative,,,
+NAS0305,HIV-,Week 16,CUV104,Carriage Negative,,,
+NAS0313,HIV-,Week 16,CUV105,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 16,CUV109,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 16,CUV10A,Carriage Negative,,,
+NAS0388,HIV-,Week 16,CUV107,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 16,CUV10B,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 16,CUV10G,Carriage Negative,,,
+NAS0396,PLHIV ART <3m,Week 16,CUV10E,Carriage Negative,,,
+NAS0412,PLHIV ART <3m,Week 16,CUV10I,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 16,CUV10C,Carriage Negative,,,
+NAS0453,HIV-,Week 16,CUV10D,Carriage Negative,,,
+NAS0438,HIV-,Week 16,CUV10F,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 16,CUV10H,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 16,CUV10J,Carriage Negative,,,
+NAS0321,HIV-,Week 16,CUV116,Carriage Negative,,,
+NAS0487,HIV-,Week 16,CUV119,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 16,CUV11E,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 16,CUV11A,Carriage Negative,,,
+NAS0537,HIV-,Week 16,CUV11C,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 16,CUV11F,Carriage Negative,,,
+NAS0552,HIV-,Week 16,CUV11J,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 16,CUV11K,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 16,CUV11L,Carriage Negative,,,
+NAS0628,HIV-,Week 16,CUV11P,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 16,CUV11Q,Carriage Negative,,,
+NAS0610,HIV-,Week 16,CUV11M,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 16,CUV12Z,Carriage Negative,,,
+NAS0677,HIV-,Week 16,CUV133,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 16,CUV131,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 16,CUV132,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 16,CUV135,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 16,CUV134,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 16,CUV136,Carriage Negative,,,
+NAS0693,HIV-,Week 16,CUV137,Carriage Negative,,,
+NAS0750,HIV-,Week 16,CUV13C,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 16,CUV138,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 16,CUV139,Carriage Negative,,,
+NAS0834,PLHIV ART >1y,Week 16,CUV13B,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 16,CUV13A,Carriage Negative,,,
+NAS0859,HIV-,Week 16,CUV13F,Carriage Negative,,,
+NAS0842,PLHIV ART <3m,Week 16,CUV13H,Carriage Negative,,,
+NAS0867,HIV-,Week 16,CUV13D,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 16,CUV13E,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 16,CUV13J,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 16,CUV13G,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 16,CUV13L,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 16,CUV13Q,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 16,CUV13S,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 16,CUV13U,Carriage Negative,,,
+NAS0792,HIV-,Week 16,CUV13W,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 16,CUV13Y,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 16,CUV13Z,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 16,CUV141,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 16,CUV15D,Carriage Negative,,,
+NAS1063,HIV-,Week 16,CUV143,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 16,CUV15E,Carriage Negative,,,
+NAS1089,HIV-,Week 16,CUV145,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 16,CUV15F,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 16,CUV15G,Carriage Negative,,,
+NAS1113,HIV-,Week 16,CUV15H,Carriage Negative,,,
+NAS1162,HIV-,Week 16,CUV15J,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 16,CUV15M,Carriage Negative,,,
+NAS1279,HIV-,Week 16,CUV15P,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 16,CUV15Q,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 16,CUV15R,Carriage Negative,,,
+NAS1337,PLHIV ART <3m,Week 16,CUV15T,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 16,CUV15X,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 16,CUV15U,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 16,CUV15W,Carriage Negative,,,
+NAS1394,HIV-,Week 16,CUV146,Carriage Negative,,,
+NAS1402,HIV-,Week 16,CUV15Y,Carriage Negative,,,
+NAS1410,HIV-,Week 16,CUV14Q,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 16,CUV14I,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 16,CUV14P,Carriage Negative,,,
+NAS1469,HIV-,Week 16,CUV14K,Carriage Negative,,,
+NAS1493,PLHIV ART >1y,Week 16,CUV14J,Carriage Negative,,,
+NAS1477,HIV-,Week 16,CUV14H,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 16,CUV147,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 16,CUV14N,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 16,CUV14R,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 16,CUV14L,Carriage Negative,,,
+NAS1253,PLHIV ART >1y,Week 16,CUV148,Carriage Negative,,,
+NAS1246,HIV-,Week 16,CUV12C,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 16,CUV149,Carriage Negative,,,
+NAS1584,HIV-,Week 16,CUV12H,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 16,CUV15C,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 16,CUV14A,Carriage Negative,,,
+NAS1675,HIV-,Week 16,CUV14C,Carriage Negative,,,
+NAS1659,HIV-,Week 16,CUV12D,Carriage Negative,,,
+NAS1683,PLHIV ART >1y,Week 16,CUV12G,Carriage Negative,,,
+NAS1667,HIV-,Week 16,CUV12F,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 16,CUV12I,Carriage Negative,,,
+NAS1691,PLHIV ART >1y,Week 16,CUV129,Carriage Negative,,,
+NAS1725,HIV-,Week 16,CUV12X,Carriage Negative,,,
+NAS1774,HIV-,Week 16,CUV12J,Carriage Negative,,,
+NAS1816,HIV-,Week 16,CUV12U,Carriage Negative,,,
+NAS1832,HIV-,Week 16,CUV12V,Carriage Negative,,,
+NAS1857,HIV-,Week 16,CUV12T,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 16,CUV12R,Carriage Negative,,,
+NAS1881,HIV-,Week 16,CUV12S,Carriage Negative,,,
+NAS1758,HIV-,Week 16,CUV12L,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 16,CUV12N,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 16,CUV12P,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 16,CUV12M,Carriage Negative,,,
+NAS2004,PLHIV ART <3m,Week 16,CUV156,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 17,CUW10K,Carriage Negative,,,
+NAS0032,HIV-,Week 17,CUW10P,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 17,CUW10N,Carriage Negative,,,
+NAS0073,PLHIV ART >1y,Week 17,CUW10R,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 17,CUW10S,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 17,CUW10Q,Carriage Negative,,,
+NAS0149,HIV-,Week 17,CUW100,Carriage Negative,,,
+NAS0156,HIV-,Week 17,CUW10T,Carriage Negative,,,
+NAS0164,HIV-,Week 17,CUW10V,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 17,CUW103,Carriage Negative,,,
+NAS0206,HIV-,Week 17,CUW105,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 17,CUW106,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 17,CUW102,Carriage Negative,,,
+NAS0198,HIV-,Week 17,CUW104,Carriage Negative,,,
+NAS0172,HIV-,Week 17,CUW108,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 17,CUW10C,Carriage Negative,,,
+NAS0255,PLHIV ART <3m,Week 17,CUW10A,Carriage Negative,,,
+NAS0180,PLHIV ART <3m,Week 17,CUW10B,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 17,CUW10D,Carriage Negative,,,
+NAS0263,PLHIV ART >1y,Week 17,CUW109,Carriage Negative,,,
+NAS0271,PLHIV ART >1y,Week 17,CUW107,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 17,CUW10H,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 17,CUW10F,Carriage Negative,,,
+NAS0305,HIV-,Week 17,CUW10E,Carriage Negative,,,
+NAS0313,HIV-,Week 17,CUW10G,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 17,CUW10J,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 17,CUW10X,Carriage Negative,,,
+NAS0388,HIV-,Week 17,CUW10W,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 17,CUW10Z,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 17,CUW112,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 17,CUW133,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 17,CUW10Y,Carriage Negative,,,
+NAS0453,HIV-,Week 17,CUW110,Carriage Negative,,,
+NAS0438,HIV-,Week 17,CUW114,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 17,CUW113,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 17,CUW12Z,Carriage Negative,,,
+NAS0479,PLHIV ART >1y,Week 17,CUW130,Carriage Negative,,,
+NAS0321,HIV-,Week 17,CUW131,Carriage Negative,,,
+NAS0487,HIV-,Week 17,CUW132,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 17,CUW138,Carriage Negative,,,
+NAS0537,HIV-,Week 17,CUW134,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 17,CUW139,Carriage Negative,,,
+NAS0552,HIV-,Week 17,CUW13C,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 17,CUW13D,Carriage Negative,,,
+NAS0560,HIV-,Week 17,CUW13B,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 17,CUW116,Carriage Negative,,,
+NAS0628,HIV-,Week 17,CUW11A,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 17,CUW13F,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 17,CUW13E,Carriage Negative,,,
+NAS0610,HIV-,Week 17,CUW119,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 17,CUW11B,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 17,CUW13G,Carriage Negative,,,
+NAS0685,HIV-,Week 17,CUW11E,Carriage Negative,,,
+NAS0677,HIV-,Week 17,CUW11D,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 17,CUW11C,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 17,CUW11F,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 17,CUW11H,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 17,CUW11G,Carriage Negative,,,
+NAS0727,PLHIV ART >1y,Week 17,CUW11I,Carriage Negative,,,
+NAS0693,HIV-,Week 17,CUW11K,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 17,CUW11L,Carriage Negative,,,
+NAS0834,PLHIV ART >1y,Week 17,CUW11M,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 17,CUW13H,Carriage Negative,,,
+NAS0859,HIV-,Week 17,CUW13J,Carriage Negative,,,
+NAS0867,HIV-,Week 17,CUW13I,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 17,CUW11N,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 17,CUW11Q,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 17,CUW11S,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 17,CUW11R,Carriage Negative,,,
+NAS0917,HIV-,Week 17,CUW11U,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 17,CUW11T,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 17,CUW11Y,Carriage Negative,,,
+NAS0958,HIV-,Week 17,CUW11W,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 17,CUW11Z,Carriage Negative,,,
+NAS0974,PLHIV ART >1y,Week 17,CUW120,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 17,CUW125,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 17,CUW125,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 17,CUW128,Carriage Negative,,,
+NAS1030,HIV-,Week 17,CUW12B,Carriage Negative,,,
+NAS1055,HIV-,Week 17,CUW129,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 17,CUW12C,Carriage Negative,,,
+NAS1063,HIV-,Week 17,CUW12A,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 17,CUW161,Carriage Negative,,,
+NAS1089,PLHIV ART >1y,Week 17,CUW15Z,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 17,CUW160,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 17,CUW162,Carriage Negative,,,
+NAS1113,HIV-,Week 17,CUW163,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 17,CUW166,Carriage Negative,,,
+NAS1162,HIV-,Week 17,CUW165,Carriage Negative,,,
+NAS1196,PLHIV ART >1y,Week 17,CUW169,Carriage Negative,,,
+NAS1279,HIV-,Week 17,CUW16A,Carriage Negative,,,
+NAS1261,PLHIV ART >1y,Week 17,CUW16B,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 17,CUW16C,Carriage Negative,,,
+NAS1337,PLHIV ART <3m,Week 17,CUW16F,Carriage Negative,,,
+NAS1352,PLHIV ART <3m,Week 17,CUW16I,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 17,CUW16H,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 17,CUW16G,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 17,CUW16J,Carriage Negative,,,
+NAS1394,HIV-,Week 17,CUW13K,Carriage Negative,,,
+NAS1402,HIV-,Week 17,CUW12Y,Carriage Negative,,,
+NAS1410,HIV-,Week 17,CUW143,Carriage Negative,,,
+NAS1469,HIV-,Week 17,CUW140,Carriage Negative,,,
+NAS1485,HIV-,Week 17,CUW13M,Carriage Negative,,,
+NAS1477,HIV-,Week 17,CUW13Q,Carriage Negative,,,
+NAS1212,PLHIV ART <3m,Week 17,CUW12X,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 17,CUW144,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 17,CUW13P,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 17,CUW13Y,Carriage Negative,,,
+NAS1246,HIV-,Week 17,CUW13W,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 17,CUW14M,Carriage Negative,,,
+NAS1543,HIV-,Week 17,CUW12E,Carriage Negative,,,
+NAS1584,HIV-,Week 17,CUW14N,Carriage Negative,,,
+NAS1592,PLHIV ART >1y,Week 17,CUW14K,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 17,CUW12D,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 17,CUW13S,Carriage Negative,,,
+NAS1675,HIV-,Week 17,CUW13U,Carriage Negative,,,
+NAS1659,HIV-,Week 17,CUW13T,Carriage Negative,,,
+NAS1667,HIV-,Week 17,CUW14R,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 17,CUW14J,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 17,CUW14H,Carriage Negative,,,
+NAS1725,HIV-,Week 17,CUW14G,Carriage Negative,,,
+NAS1733,HIV-,Week 17,CUW14F,Carriage Negative,,,
+NAS1774,HIV-,Week 17,CUW14C,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 17,CUW14B,Carriage Negative,,,
+NAS1816,HIV-,Week 17,CUW14A,Carriage Negative,,,
+NAS1832,HIV-,Week 17,CUW149,Carriage Negative,,,
+NAS1857,HIV-,Week 17,CUW148,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 17,CUW15C,Carriage Negative,,,
+NAS1881,HIV-,Week 17,CUW147,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 17,CUW159,Carriage Negative,,,
+NAS1964,PLHIV ART >1y,Week 17,CUW156,Carriage Negative,,,
+NAS1998,PLHIV ART >1y,Week 17,CUW155,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 17,CUW151,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 8,CUM100,Carriage Negative,,,
+NAS0032,HIV-,Week 8,CUM102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 8,CUM104,Carriage Negative,,,
+NAS0073,PLHIV ART >1y,Week 8,CUM107,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 8,CUM106,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 8,CUM105,Carriage Negative,,,
+NAS0149,HIV-,Week 8,CUM108,Carriage Negative,,,
+NAS0156,HIV-,Week 8,CUM109,Carriage Negative,,,
+NAS0164,HIV-,Week 8,CUM10B,Carriage Negative,,,
+NAS0115,PLHIV ART >1y,Week 8,CUM10C,Carriage Negative, , ,
+NAS0214,PLHIV ART <3m,Week 8,CUM10D,Carriage Negative,,,
+NAS0206,HIV-,Week 8,CUM10G,Carriage Negative,,,
+NAS0222,PLHIV ART <3m,Week 8,CUM10F,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 8,CUM10E,Carriage Negative,,,
+NAS0172,HIV-,Week 8,CUM10J,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 8,CUM10P,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 8,CUM10L,Carriage Negative,,,
+NAS0271,PLHIV ART >1y,Week 8,CUM10K,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 8,CUM10S,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 8,CUM10Q,Carriage Negative,,,
+NAS0305,HIV-,Week 8,CUM10R,Carriage Negative,,,
+NAS0313,HIV-,Week 8,CUM10T,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 8,CUM10W,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 8,CUM10X,Carriage Negative,,,
+NAS0370,HIV-,Week 8,CUM10V,Carriage Negative,,,
+NAS0388,HIV-,Week 8,CUM10U,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 8,CUM10Y,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 8,CUM110,Carriage Negative,,,
+NAS0396,PLHIV ART <3m,Week 8,CUM10Z,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 8,CUM11W,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 8,CUM115,Carriage Negative,,,
+NAS0453,HIV-,Week 8,CUM111,Carriage Negative,,,
+NAS0438,HIV-,Week 8,CUM114,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 8,CUM113,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 8,CUM116,Carriage Negative,,,
+NAS0321,HIV-,Week 8,CUM11U,Carriage Negative,,,
+NAS0487,HIV-,Week 8,CUM11V,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 8,CUM11B,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 8,CUM11A,Carriage Negative,,,
+NAS0511,PLHIV ART >1y,Week 8,CUM118,Carriage Negative,,,
+NAS0537,HIV-,Week 8,CUM117,Carriage Negative,,,
+NAS0545,HIV-,Week 8,CUM119,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 8,CUM11C,Carriage Negative,,,
+NAS0552,HIV-,Week 8,CUM11F,Carriage Negative,,,
+NAS0560,HIV-,Week 8,CUM11E,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 8,CUM11D,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 8,CUM11H,Carriage Negative,,,
+NAS0628,HIV-,Week 8,CUM11I,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 8,CUM11M,Carriage Negative,,,
+NAS0644,PLHIV ART <3m,Week 8,CUM11L,Carriage Negative,,,
+NAS0610,HIV-,Week 8,CUM11K,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 8,CUM11N,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 8,CUM11P,Carriage Negative,,,
+NAS0685,HIV-,Week 8,CUM11X,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 8,CUM11R,Carriage Negative,,,
+NAS0735,PLHIV ART >1y,Week 8,CUM11Z,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 8,CUM11Y,Carriage Negative,,,
+NAS0693,HIV-,Week 8,CUM121,Carriage Negative,,,
+NAS0750,HIV-,Week 8,CUM126,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 8,CUM122,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 8,CUM123,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 8,CUM125,Carriage Negative,,,
+NAS0859,HIV-,Week 8,CUM129,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 8,CUM127,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 8,CUM12A,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 8,CUM128,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 8,CUM12D,Carriage Negative,,,
+NAS0818,HIV-,Week 8,CUM12F,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 8,CUM12H,Carriage Negative,,,
+NAS0966,PLHIV ART <3m,Week 8,CUM12I,Carriage Negative,,,
+NAS0800,HIV-,Week 8,CUM12N,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 8,CUM12S,Carriage Negative,,,
+NAS1030,HIV-,Week 8,CUM12X,Carriage Negative,,,
+NAS1055,HIV-,Week 8,CUM12T,Carriage Negative,,,
+NAS1022,PLHIV ART >1y,Week 8,CUM12V,Carriage Negative,,,
+NAS1063,HIV-,Week 8,CUM12W,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 8,CUM147,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 8,CUM148,Carriage Negative,,,
+NAS1113,HIV-,Week 8,CUM149,Carriage Negative,,,
+NAS1121,PLHIV ART <3m,Week 8,CUM14A,Carriage Negative,,,
+NAS1154,HIV-,Week 8,CUM14E,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 8,CUM14D,Carriage Negative,,,
+NAS1279,HIV-,Week 8,CUM14H,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 8,CUM14J,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 8,CUM14K,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 8,CUM14L,Carriage Negative,,,
+NAS1352,PLHIV ART <3m,Week 8,CUM14Q,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 8,CUM14S,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 8,CUM14R,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 8,CUM14P,Carriage Negative,,,
+NAS1394,HIV-,Week 8,CUM14U,Carriage Negative,,,
+NAS1402,HIV-,Week 8,CUM14T,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 8,CUM150,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 8,CUM14W,Carriage Negative,,,
+NAS1469,HIV-,Week 8,CUM14Z,Carriage Negative,,,
+NAS1485,HIV-,Week 8,CUM14X,Carriage Negative,,,
+NAS1477,HIV-,Week 8,CUM13N,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 8,CUM14V,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 8,CUM13L,Carriage Negative,,,
+NAS1451,PLHIV ART >1y,Week 8,CUM13S,Carriage Negative,,,
+NAS1444,PLHIV ART >1y,Week 8,CUM13T,Carriage Negative,,,
+NAS1246,HIV-,Week 8,CUM13Q,Carriage Negative,,,
+NAS1519,PLHIV ART >1y,Week 8,CUM13U,Carriage Negative,,,
+NAS1550,HIV-,Week 8,CUM13V,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 8,CUM13X,Carriage Negative,,,
+NAS1543,HIV-,Week 8, CUM13Z,Carriage Negative,,,
+NAS1584,HIV-,Week 8,CUM141,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 8,CUM143,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 8,CUM13Y,Carriage Negative,,,
+NAS1667,HIV-,Week 8,CUM145,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 8,CUM15R,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 8,CUM15T,Carriage Negative,,,
+NAS1691,PLHIV ART >1y,Week 8,CUM15Q,Carriage Negative,,,
+NAS1725,HIV-,Week 8,CUM15S,Carriage Negative,,,
+NAS1733,HIV-,Week 8,CUM15U,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 8,CUM15V,Carriage Negative,,,
+NAS1774,HIV-,Week 8,CUM15X,Carriage Negative,,,
+NAS1808,PLHIV ART <3m,Week 8,CUM15W,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 8,CUM160,Carriage Negative,,,
+NAS1832,HIV-,Week 8,CUM15Y,Carriage Negative,,,
+NAS1840,PLHIV ART <3m,Week 8,CUM163,Carriage Negative,,,
+NAS1857,HIV-,Week 8,CUM161,Carriage Negative,,,
+NAS1865,HIV-,Week 8,CUM162,Carriage Negative,,,
+NAS1881,HIV-,Week 8,CUM165,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 8,CUM167,Carriage Negative,,,
+NAS1758,HIV-,Week 8,CUM166,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 8,CUM130,Carriage Negative,,,
+NAS1931,PLHIV ART <3m,Week 8,CUM131,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 8,CUM168,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 8,CUM13K,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 8,CUM13I,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 8,CUM13F,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 9,CUN100,Carriage Negative,,,
+NAS0032,HIV-,Week 9,CUN102,Carriage Negative,,,
+NAS0065,PLHIV ART <3m,Week 9,CUN104,Carriage Negative,,,
+NAS0073,PLHIV ART >1y,Week 9,CUN106,Carriage Negative,,,
+NAS0081,PLHIV ART >1y,Week 9,CUN107,Carriage Negative,,,
+NAS0099,PLHIV ART <3m,Week 9,CUN105,Carriage Negative,,,
+NAS0149,HIV-,Week 9,CUN109,Carriage Negative,,,
+NAS0156,HIV-,Week 9,CUN108,Carriage Negative,,,
+NAS0164,HIV-,Week 9,CUN10B,Carriage Negative,,,
+NAS0214,PLHIV ART <3m,Week 9,CUN10D,Carriage Negative,,,
+NAS0206,HIV-,Week 9,CUN10F,Carriage Negative,,,
+NAS0230,PLHIV ART >1y,Week 9,CUN10E,Carriage Negative,,,
+NAS0198,HIV-,Week 9,CUN10H,Carriage Negative,,,
+NAS0248,PLHIV ART <3m,Week 9,CUN10J,Carriage Negative,,,
+NAS0131,PLHIV ART <3m,Week 9,CUN10M,Carriage Negative,,,
+NAS0289,PLHIV ART >1y,Week 9,CUN10S,Carriage Negative,,,
+NAS0297,PLHIV ART >1y,Week 9,CUN10T,Carriage Negative,,,
+NAS0305,HIV-,Week 9,CUN10Q,Carriage Negative,,,
+NAS0313,HIV-,Week 9,CUN10R,Carriage Negative,,,
+NAS0339,PLHIV ART >1y,Week 9,CUN10X,Carriage Negative,,,
+NAS0347,PLHIV ART >1y,Week 9,CUN10W,Carriage Negative,,,
+NAS0370,HIV-,Week 9,CUN10V,Carriage Negative,,,
+NAS0388,HIV-,Week 9,CUN10U,Carriage Negative,,,
+NAS0354,PLHIV ART >1y,Week 9,CUN10Y,Carriage Negative,,,
+NAS0362,PLHIV ART >1y,Week 9,CUN112,Carriage Negative,,,
+NAS0396,PLHIV ART <3m,Week 9,CUN110,Carriage Negative,,,
+NAS0404,PLHIV ART <3m,Week 9,CUN11W,Carriage Negative,,,
+NAS0420,PLHIV ART <3m,Week 9,CUN10Z,Carriage Negative,,,
+NAS0453,HIV-,Week 9,CUN114,Carriage Negative,,,
+NAS0461,PLHIV ART <3m,Week 9,CUN113,Carriage Negative,,,
+NAS0446,PLHIV ART >1y,Week 9,CUN11T,Carriage Negative,,,
+NAS0487,HIV-,Week 9,CUN11U,Carriage Negative,,,
+NAS0495,PLHIV ART <3m,Week 9,CUN122,Carriage Negative,,,
+NAS0503,PLHIV ART <3m,Week 9,CUN121,Carriage Negative,,,
+NAS0537,HIV-,Week 9,CUN120,Carriage Negative,,,
+NAS0545,HIV-,Week 9,CUN11Z,Carriage Negative,,,
+NAS0529,PLHIV ART >1y,Week 9,CUN123,Carriage Negative,,,
+NAS0552,HIV-,Week 9,CUN126,Carriage Negative,,,
+NAS0594,PLHIV ART >1y,Week 9,CUN12E,Carriage Negative,,,
+NAS0560,HIV-,Week 9,CUN125,Carriage Negative,,,
+NAS0602,PLHIV ART <3m,Week 9,CUN124,Carriage Negative,,,
+NAS0586,PLHIV ART >1y,Week 9,CUN127,Carriage Negative,,,
+NAS0628,HIV-,Week 9,CUN128,Carriage Negative,,,
+NAS0636,PLHIV ART <3m,Week 9,CUN12B,Carriage Negative,,,
+NAS0651,PLHIV ART >1y,Week 9,CUN12G,Carriage Negative,,,
+NAS0669,PLHIV ART >1y,Week 9,CUN12H,Carriage Negative,,,
+NAS0685,HIV-,Week 9,CUN12L,Carriage Negative,,,
+NAS0719,PLHIV ART <3m,Week 9,CUN12J,Carriage Negative,,,
+NAS0701,PLHIV ART <3m,Week 9,CUN12I,Carriage Negative,,,
+NAS0743,PLHIV ART >1y,Week 9,CUN12M,Carriage Negative,,,
+NAS0693,HIV-,Week 9,CUN12Q,Carriage Negative,,,
+NAS0750,HIV-,Week 9,CUN12V,Carriage Negative,,,
+NAS0768,PLHIV ART <3m,Week 9,CUN12R,Carriage Negative,,,
+NAS0776,PLHIV ART <3m,Week 9,CUN12S,Carriage Negative,,,
+NAS0834,PLHIV ART >1y,Week 9,CUN12T,Carriage Negative,,,
+NAS0826,PLHIV ART >1y,Week 9,CUN12U,Carriage Negative,,,
+NAS0867,HIV-,Week 9,CUN12W,Carriage Negative,,,
+NAS0875,PLHIV ART <3m,Week 9,CUN12X,Carriage Negative,,,
+NAS0883,PLHIV ART <3m,Week 9,CUN130,Carriage Negative,,,
+NAS0909,PLHIV ART <3m,Week 9,CUN131,Carriage Negative,,,
+NAS0891,PLHIV ART <3m,Week 9,CUN12D,Carriage Negative,,,
+NAS0925,PLHIV ART >1y,Week 9,CUN132,Carriage Negative,,,
+NAS0933,PLHIV ART >1y,Week 9,CUN134,Carriage Negative,,,
+NAS0818,HIV-,Week 9,CUN13M,Carriage Negative,,,
+NAS0941,PLHIV ART >1y,Week 9,CUN13N,Carriage Negative,,,
+NAS0958,HIV-,Week 9,CUN13L,Carriage Negative,,,
+NAS0982,PLHIV ART <3m,Week 9,CUN13R,Carriage Negative,,,
+NAS0792,HIV-,Week 9,CUN13T,Carriage Negative,,,
+NAS0800,HIV-,Week 9,CUN13S,Carriage Negative,,,
+NAS1006,PLHIV ART >1y,Week 9,CUN136,Carriage Negative,,,
+NAS1014,PLHIV ART <3m,Week 9,CUN138,Carriage Negative,,,
+NAS0784,PLHIV ART <3m,Week 9,CUN137,Carriage Negative,,,
+NAS1048,PLHIV ART >1y,Week 9,CUN139,Carriage Negative,,,
+NAS1055,HIV-,Week 9,CUN13A,Carriage Negative,,,
+NAS1063,HIV-,Week 9,CUN13C,Carriage Negative,,,
+NAS1071,PLHIV ART <3m,Week 9,CUN13F,Carriage Negative,,,
+NAS1089,HIV-,Week 9,CUN13E,Carriage Negative,,,
+NAS1097,PLHIV ART >1y,Week 9,CUN13G,Carriage Negative,,,
+NAS1105,PLHIV ART >1y,Week 9,CUN13H,Carriage Negative,,,
+NAS1113,HIV-,Week 9,CUN13I,Carriage Negative,,,
+NAS1154,HIV-,Week 9,CUN13W,Carriage Negative,,,
+NAS1139,PLHIV ART >1y,Week 9,CUN13V,Carriage Negative,,,
+NAS1287,PLHIV ART <3m,Week 9,CUN15Q,Carriage Negative,,,
+NAS1295,PLHIV ART <3m,Week 9,CUN15R,Carriage Negative,,,
+NAS1329,PLHIV ART <3m,Week 9,CUN155,Carriage Negative,,,
+NAS1337,PLHIV ART <3m,Week 9,CUN140,Carriage Negative,,,
+NAS1360,PLHIV ART >1y,Week 9,CUN144,Carriage Negative,,,
+NAS1378,PLHIV ART >1y,Week 9,CUN142,Carriage Negative,,,
+NAS1386,PLHIV ART <3m,Week 9,CUN15T,Carriage Negative,,,
+NAS1394,HIV-,Week 9,CUN145,Carriage Negative,,,
+NAS1402,HIV-,Week 9,CUN146,Carriage Negative,,,
+NAS1410,HIV-,Week 9,CUN15V,Carriage Negative,,,
+NAS1436,PLHIV ART >1y,Week 9,CUN15W,Carriage Negative,,,
+NAS1428,PLHIV ART >1y,Week 9,CUN15X,Carriage Negative,,,
+NAS1469,HIV-,Week 9,CUN161,Carriage Negative,,,
+NAS1485,HIV-,Week 9,CUN160,Carriage Negative,,,
+NAS1204,PLHIV ART <3m,Week 9,CUN15Y,Carriage Negative,,,
+NAS1501,PLHIV ART >1y,Week 9,CUN15U,Carriage Negative,,,
+NAS1220,PLHIV ART >1y,Week 9,CUN147,Carriage Negative,,,
+NAS1253,PLHIV ART >1y,Week 9,CUN162,Carriage Negative,,,
+NAS1246,HIV-,Week 9,CUN163,Carriage Negative,,,
+NAS1519,PLHIV ART >1y,Week 9,CUN165,Carriage Negative,,,
+NAS1550,HIV-,Week 9,CUN167,Carriage Negative,,,
+NAS1568,PLHIV ART >1y,Week 9,CUN14C,Carriage Negative,,,
+NAS1543,HIV-,Week 9,CUN14B,Carriage Negative,,,
+NAS1584,HIV-,Week 9,CUN119,Carriage Negative,,,
+NAS1600,PLHIV ART >1y,Week 9,CUN11A,Carriage Negative,,,
+NAS1618,PLHIV ART <3m,Week 9,CUN168,Carriage Negative,,,
+NAS1675,HIV-,Week 9,CUN14E,Carriage Negative,,,
+NAS1659,HIV-,Week 9,CUN118,Carriage Negative,,,
+NAS1667,HIV-,Week 9,CUN14D,Carriage Negative,,,
+NAS1717,PLHIV ART <3m,Week 9,CUN11D,Carriage Negative,,,
+NAS1709,PLHIV ART <3m,Week 9,CUN11E,Carriage Negative,,,
+NAS1691,PLHIV ART >1y,Week 9,CUN11C,Carriage Negative,,,
+NAS1725,HIV-,Week 9,CUN11F,Carriage Negative,,,
+NAS1733,HIV-,Week 9,CUN11G,Carriage Negative,,,
+NAS1741,PLHIV ART <3m,Week 9,CUN11H,Carriage Negative,,,
+NAS1774,HIV-,Week 9,CUN11J,Carriage Negative,,,
+NAS1766,PLHIV ART <3m,Week 9,CUN11K,Carriage Negative,,,
+NAS1824,HIV-,Week 9,CUN11L,Carriage Negative,,,
+NAS1832,HIV-,Week 9,CUN11M,Carriage Negative,,,
+NAS1857,HIV-,Week 9,CUN11Q,Carriage Negative,,,
+NAS1873,PLHIV ART <3m,Week 9,CUN11G,Carriage Negative,,,
+NAS1881,HIV-,Week 9,CUN11R,Carriage Negative,,,
+NAS1907,PLHIV ART <3m,Week 9,CUN14I,Carriage Negative,,,
+NAS1758,HIV-,Week 9,CUN14H,Carriage Negative,,,
+NAS1923,PLHIV ART <3m,Week 9,CUN14J,Carriage Negative,,,
+NAS1931,PLHIV ART <3m,Week 9,CUN14Z,Carriage Negative,,,
+NAS1949,PLHIV ART <3m,Week 9,CUN151,Carriage Negative,,,
+NAS1782,PLHIV ART <3m,Week 9,CUN150,Carriage Negative,,,
+NAS1964,PLHIV ART >1y,Week 9,CUN14Y,Carriage Negative,,,
+NAS1980,PLHIV ART <3m,Week 9,CUN14X,Carriage Negative,,,
+NAS2012,PLHIV ART <3m,Week 9,CUN14U,Carriage Negative,,,
+NAS0016,PLHIV ART >1y,Week 1,CUF100,Carriage Positive,NVT[G+],NVT[G+],"31,825"
+NAS0024,PLHIV ART >1y,Week 1,CUF101,Carriage Positive,NVT[H+],NVT[H+],"12,060"
+NAS0040,HIV-,Week 1,CUF10B,Carriage Positive,NVT[H+],NVT[H+],"4,858"
+NAS0073,PLHIV ART >1y,Week 1,CUF103,Carriage Positive,NVT[H+],NVT[H+],"9,548"
+NAS0057,PLHIV ART <3m,Week 1,CUF106,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"3,685"
+NAS0115,PLHIV ART >1y,Week 1,CUF108,Carriage Positive,9[D+R+](g-),9A/L/N,268
+NAS0198,HIV-,Week 1,CUF10I,Carriage Positive,NVT,NVT,771
+NAS0172,HIV-,Week 1,CUF10J,Carriage Positive,NVT[D+],NVT[D+],"77,050"
+NAS0255,PLHIV ART <3m,Week 1,CUF10W,Carriage Positive,NVT[H+],NVT[H+],"2,345"
+NAS0263,PLHIV ART >1y,Week 1,CUF10Z,Carriage Positive,NVT[G+],NVT[G+],34
+NAS0289,PLHIV ART >1y,Week 1,CUF111,Carriage Positive,23[H+Q+](b-),23A/B,34
+NAS0339,PLHIV ART >1y,Week 1,CUF113,Carriage Positive,1[A+P+],1,"68,675"
+NAS0388,HIV-,Week 1,CUF10N,Carriage Positive,NVT[G+],NVT[G+],"40,200"
+NAS0354,PLHIV ART >1y,Week 1,CUF115,Carriage Positive,NVT[I+],NVT[I+],670
+NAS0396,PLHIV ART <3m,Week 1,CUF10P,Carriage Positive,NVT[H+],NVT[H+],"502,500"
+NAS0404,PLHIV ART <3m,Week 1,CUF10Q,Carriage Positive,19F[B+P+](b+c-),19F,"2,513"
+NAS0412,PLHIV ART <3m,Week 1,CUF10R,Carriage Positive,NVT,NVT,"36,850"
+NAS0479,PLHIV ART >1y,Week 1,CUF122,Carriage Positive,7[C+P+](b-),7A/B/C,"485,750"
+NAS0321,HIV-,Week 1,CUF123,Carriage Positive,11[D+T+],11A/B/C/D/F,"2,177"
+NAS0511,PLHIV ART >1y,Week 1,CUF125,Carriage Positive,23F[H+Q+](b+),23F,"1,189,250"
+NAS0552,HIV-,Week 1,CUF128,Carriage Positive,NVT[H+],NVT[H+],"1,005"
+NAS0578,PLHIV ART >1y,Week 1,CUF14N,Carriage Positive,NVT[G+],NVT[G+],335
+NAS0610,HIV-,Week 1,CUF12N,Carriage Positive,NVT,NVT,"5,695"
+NAS0834,PLHIV ART >1y,Week 1,CUF138,Carriage Positive,NVT[G+],NVT[G+],"110,550"
+NAS0909,PLHIV ART <3m,Week 1,CUF13F,Carriage Positive,3[B+R+],3,"318,250"
+NAS0917,HIV-,Week 1,CUF13G,Carriage Positive,NVT[G+],NVT[G+],"82,075"
+NAS0933,PLHIV ART >1y,Week 1,CUF12Y,Carriage Positive,NVT[I+],NVT[I+],"2,345"
+NAS0958,HIV-,Week 1,CUF131,Carriage Positive,3[B+R+],3,"26,800,000"
+NAS0966,PLHIV ART <3m,Week 1,CUF132,Carriage Positive,23[H+Q+](b-),23A/B,67
+NAS0974,PLHIV ART >1y,Week 1,CUF133,Carriage Positive,19[B+P+](b-c-),19B/C,"6,365"
+NAS0982,PLHIV ART <3m,Week 1,CUF134,Carriage Positive,9[D+R+](g-),9A/L/N,"686,750"
+NAS0990,PLHIV ART >1y,Week 1,CUF135,Carriage Positive,10[E+S+],10A/B/C/F,"33,500"
+NAS0792,HIV-,Week 1,CUF137,Carriage Positive,NVT,NVT,"10,720"
+NAS0800,HIV-,Week 1,CUF136,Carriage Positive,NVT,NVT,67
+NAS1006,PLHIV ART >1y,Week 1,CUF13I,Carriage Positive,1[A+P+],1,670
+NAS1014,PLHIV ART <3m,Week 1,CUF13J,Carriage Positive,10[E+S+],10A/B/C/F,"26,800"
+NAS1048,PLHIV ART >1y,Week 1,CUF13L,Carriage Positive,NVT[H+],NVT[H+],"67,000"
+NAS1055,HIV-,Week 1,CUF13N,Carriage Positive,3[B+R+],3,"12,395,000"
+NAS1022,PLHIV ART >1y,Week 1,CUF13M,Carriage Positive,17[F+S+],17A/F,"101,650"
+NAS1071,PLHIV ART <3m,Week 1,CUF13R,Carriage Positive,NVT[H+],NVT[H+],"787,250"
+NAS1089,HIV-,Week 1,CUF13S,Carriage Positive,4[A+R+],4,"1,474,000"
+NAS1170,PLHIV ART >1y,Week 1,CUF14B,Carriage Positive,6A[B+Q+](b+c-d-),6A,"3,685,000"
+NAS1196,PLHIV ART >1y,Week 1,CUF14D,Carriage Positive,23[H+Q+](b-),23A/B,"9,121,500"
+NAS1261,PLHIV ART >1y,Week 1,CUF14E,Carriage Positive,7[C+P+](b-),7A/B/C,369
+NAS1345,PLHIV ART <3m,Week 1,CUF161,Carriage Positive,19[B+P+](b-c-),19B/C,"1,005"
+NAS1360,PLHIV ART >1y,Week 1,CUF14K,Carriage Positive,9[D+R+](g-),9A/L/N,134
+NAS1212,PLHIV ART <3m,Week 1,CUF13Y,Carriage Positive,20[C+T+],20,"16,750"
+NAS1253,PLHIV ART >1y,Week 1,CUF11R,Carriage Positive,3[B+R+],3,"40,200"
+NAS1527,PLHIV ART >1y,Week 1,CUF11V,Carriage Positive,23[H+Q+](b-),23A/B,"13,400"
+NAS1550,HIV-,Week 1,CUF169,Carriage Positive,23[H+Q+](b-),23A/B,"3,183"
+NAS1642,PLHIV ART <3m,Week 1,CUF16H,Carriage Positive,11[D+T+],11A/B/C/D/F,"4,355"
+NAS1691,PLHIV ART >1y,Week 1,CUF16J,Carriage Positive,20[C+T+],20,"20,100"
+NAS1733,HIV-,Week 1,CUF16N,Carriage Positive,NVT[G+],NVT[G+],"351,750"
+NAS1808,PLHIV ART <3m,Week 1,CUF14X,Carriage Positive,NVT[G+],NVT[G+],"9,045"
+NAS1873,PLHIV ART <3m,Week 1,CUF11K,Carriage Positive,23[H+Q+](b-),23A/B,670
+NAS1865,HIV-,Week 1,CUF14Z,Carriage Positive,22[F+T+],22A/F,335
+NAS1931,PLHIV ART <3m,Week 1,CUF16S,Carriage Positive,23[H+Q+](b-),23A/B,"10,050"
+NAS1782,PLHIV ART <3m,Week 1,CUF153,Carriage Positive,15[H+S+],15A/B/C/F,"318,250"
+NAS1964,PLHIV ART >1y,Week 1,CUF16U,Carriage Positive,7[C+P+](b-),7A/B/C,302
+NAS1998,PLHIV ART >1y,Week 1,CUF16X,Carriage Positive,23[H+Q+](b-),23A/B,"36,850"
+NAS2004,PLHIV ART <3m,Week 1,CUF16Y,Carriage Positive,NVT[D+],NVT[D+],335
+NAS0016,PLHIV ART >1y,Week 2,CUG100,Carriage Positive,NVT[G+],NVT[G+],670
+NAS0024,PLHIV ART >1y,Week 2,CUG101,Carriage Positive,NVT[H+],NVT[H+],168
+NAS0073,PLHIV ART >1y,Week 2,CUG107,Carriage Positive,NVT[H+],NVT[H+],"43,550"
+NAS0099,PLHIV ART <3m,Week 2,CUG105,Carriage Positive,NVT,NVT,34
+NAS0107,PLHIV ART <3m,Week 2,CUG10A,Carriage Positive,6D[B+Q+](b-c+d+),6D,"15,410"
+NAS0172,HIV-,Week 2,CUG10X,Carriage Positive,NVT[D+],NVT[D+],"2,848"
+NAS0255,PLHIV ART <3m,Week 2,CUG10V,Carriage Positive,NVT,NVT,34
+NAS0263,PLHIV ART >1y,Week 2,CUG10H,Carriage Positive,NVT[G+],NVT[G+],"787,250"
+NAS0347,PLHIV ART >1y,Week 2,CUG116,Carriage Positive,NVT,NVT,335
+NAS0388,HIV-,Week 2,CUG113,Carriage Positive,NVT[G+],NVT[G+],"45,225"
+NAS0354,PLHIV ART >1y,Week 2,CUG118,Carriage Positive,NVT,NVT,34
+NAS0396,PLHIV ART <3m,Week 2,CUG119,Carriage Positive,NVT[H+],NVT[H+],"3,015"
+NAS0404,PLHIV ART <3m,Week 2,CUG11A,Carriage Positive,19F[B+P+](b+c-),19F,"10,050"
+NAS0412,PLHIV ART <3m,Week 2,CUG11C,Carriage Positive,NVT,NVT,"16,750"
+NAS0438,HIV-,Week 2,CUG11E,Carriage Positive,NVT,NVT,"2,345"
+NAS0479,PLHIV ART >1y,Week 2,CUG11G,Carriage Positive,7[C+P+](b-),7A/B/C,"123,950"
+NAS0321,HIV-,Week 2,CUG11I,Carriage Positive,11[D+T+],11A/B/C/D/F,168
+NAS0511,PLHIV ART >1y,Week 2,CUG11L,Carriage Positive,NVT[H+],NVT[H+],"46,900"
+NAS0578,PLHIV ART >1y,Week 2,CUG10P,Carriage Positive,NVT[G+],NVT[G+],"3,015"
+NAS0610,HIV-,Week 2,CUG10S,Carriage Positive,NVT,NVT,"70,350"
+NAS0677,HIV-,Week 2,CUG11V,Carriage Positive,11[D+T+],11A/B/C/D/F,670
+NAS0701,PLHIV ART <3m,Week 2,CUG11W,Carriage Positive,17[F+S+],17A/F,"9,212,500"
+NAS0834,PLHIV ART >1y,Week 2,CUG125,Carriage Positive,NVT[G+],NVT[G+],"1,340"
+NAS0917,HIV-,Week 2,CUG12D,Carriage Positive,NVT[G+],NVT[G+],"58,625"
+NAS0933,PLHIV ART >1y,Week 2,CUG12M,Carriage Positive,NVT[I+],NVT[I+],"201,000"
+NAS0958,HIV-,Week 2,CUG12N,Carriage Positive,3[B+R+],3,"519,250"
+NAS0982,PLHIV ART <3m,Week 2,CUG12T,Carriage Positive,9[D+R+](g-),9A/L/N,"67,000"
+NAS0990,PLHIV ART >1y,Week 2,CUG12U,Carriage Positive,15[H+S+],15A/B/C/F,436
+NAS0792,HIV-,Week 2,CUG12F,Carriage Positive,19F[B+P+](b+c-),19F,"36,850"
+NAS0800,HIV-,Week 2,CUG12V,Carriage Positive,NVT,NVT,"3,015"
+NAS1006,PLHIV ART >1y,Week 2,CUG12G,Carriage Positive,1[A+P+],1,"55,275"
+NAS1048,PLHIV ART >1y,Week 2,CUG12X,Carriage Positive,NVT[H+],NVT[H+],"234,500"
+NAS1055,HIV-,Week 2,CUG12W,Carriage Positive,3[B+R+],3,"20,100,000"
+NAS1022,PLHIV ART >1y,Week 2,CUG12J,Carriage Positive,17[F+S+],17A/F,"20,100"
+NAS1089,HIV-,Week 2,CUG12Z,Carriage Positive,4[A+R+],4,"8,207,500"
+NAS1097,PLHIV ART >1y,Week 2,CUG14H,Carriage Positive,NVT,NVT,34
+NAS1113,HIV-,Week 2,CUG132,Carriage Positive,3[B+R+],3,"10,050,000"
+NAS1170,PLHIV ART >1y,Week 2,CUG155,Carriage Positive,NVT,NVT,"17,755,000"
+NAS1196,PLHIV ART >1y,Week 2,CUG14I,Carriage Positive,23[H+Q+](b-),23A/B,"17,420"
+NAS1261,PLHIV ART >1y,Week 2,CUG14K,Carriage Positive,7[C+P+](b-),7A/B/C,"2,010"
+NAS1337,PLHIV ART <3m,Week 2,CUG14Q,Carriage Positive,NVT,NVT,"68,675"
+NAS1345,PLHIV ART <3m,Week 2,CUG14R,Carriage Positive,19[B+P+](b-c-),19B/C,"4,355,000"
+NAS1212,PLHIV ART <3m,Week 2,CUG151,Carriage Positive,20[C+T+],20,168
+NAS1253,PLHIV ART >1y,Week 2,CUG15W,Carriage Positive,3[B+R+],3,670
+NAS1451,PLHIV ART >1y,Week 2,CUG15X,Carriage Positive,11[D+T+],11A/B/C/D/F,268
+NAS1519,PLHIV ART >1y,Week 2,CUG15T,Carriage Positive,15[H+S+],15A/B/C/F,"31,825"
+NAS1527,PLHIV ART >1y,Week 2,CUG138,Carriage Positive,23[H+Q+](b-),23A/B,"2,010"
+NAS1592,PLHIV ART >1y,Week 2,CUG139,Carriage Positive,3[B+R+],3,"20,100"
+NAS1642,PLHIV ART <3m,Week 2,CUG15S,Carriage Positive,11[D+T+],11A/B/C/D/F,"65,650"
+NAS1659,HIV-,Week 2,CUG15R,Carriage Positive,NVT,NVT,"1,675"
+NAS1691,PLHIV ART >1y,Week 2,CUG16K,Carriage Positive,20[C+T+],20,"61,975"
+NAS1816,HIV-,Week 2,CUG15C,Carriage Positive,8[B+S+],8,"30,150"
+NAS1873,PLHIV ART <3m,Week 2,CUG16N,Carriage Positive,23[H+Q+](b-),23A/B,"1,005,000"
+NAS1865,HIV-,Week 2,CUG15D,Carriage Positive,22[F+T+],22A/F,"3,015"
+NAS1899,PLHIV ART >1y,Week 2,CUG16Q,Carriage Positive,15[H+S+],15A/B/C/F,"418,750"
+NAS1907,PLHIV ART <3m,Week 2,CUG16R,Carriage Positive,19F[B+P+](b+c-),19F,670
+NAS1964,PLHIV ART >1y,Week 2,CUG16W,Carriage Positive,7[C+P+](b-),7A/B/C,335
+NAS2004,PLHIV ART <3m,Week 2,CUG170,Carriage Positive,NVT[D+],NVT[D+],"268,000"
+NAS0016,PLHIV ART >1y,Week 3,CUH100,Carriage Positive,NVT[G+],NVT[G+],67
+NAS0024,PLHIV ART >1y,Week 3,CUH101,Carriage Positive,NVT[H+],NVT[H+],"1,792,250"
+NAS0040,HIV-,Week 3,CUH104,Carriage Positive,NVT[H+],NVT[H+],335
+NAS0073,PLHIV ART >1y,Week 3,CUH107,Carriage Positive,NVT[H+],NVT[H+],"28,475"
+NAS0198,HIV-,Week 3,CUH10F,Carriage Positive,NVT,NVT,670
+NAS0255,PLHIV ART <3m,Week 3,CUH10K,Carriage Positive,15[H+S+],15A/B/C/F,"7,203"
+NAS0271,PLHIV ART >1y,Week 3,CUH10N,Carriage Positive,NVT,NVT,"73,700"
+NAS0388,HIV-,Week 3,CUH10W,Carriage Positive,NVT[G+],NVT[G+],"4,355,000"
+NAS0396,PLHIV ART <3m,Week 3,CUH110,Carriage Positive,NVT[H+],NVT[H+],"8,375,000"
+NAS0412,PLHIV ART <3m,Week 3,CUH112,Carriage Positive,NVT[C+],NVT[C+],"5,192,500"
+NAS0438,HIV-,Week 3,CUH113,Carriage Positive,19A[B+P+](b-c+),19A,"8,710"
+NAS0479,PLHIV ART >1y,Week 3,CUH115,Carriage Positive,7[C+P+](b-),7A/B/C,"2,847,500"
+NAS0321,HIV-,Week 3,CUH117,Carriage Positive,11[D+T+],11A/B/C/D/F,"6,700"
+NAS0529,PLHIV ART >1y,Week 3,CUH11C,Carriage Positive,NVT,NVT,436
+NAS0578,PLHIV ART >1y,Week 3,CUH11J,Carriage Positive,NVT[G+],NVT[G+],"1,005"
+NAS0628,HIV-,Week 3,CUH11K,Carriage Positive,NVT[H+],NVT[H+],704
+NAS0677,HIV-,Week 3,CUH11T,Carriage Positive,11[D+T+],11A/B/C/D/F,"1,675"
+NAS0701,PLHIV ART <3m,Week 3,CUH11S,Carriage Positive,17[F+S+],17A/F,"368,500"
+NAS0834,PLHIV ART >1y,Week 3,CUH124,Carriage Positive,NVT[G+],NVT[G+],"5,862,500"
+NAS0859,HIV-,Week 3,CUH127,Carriage Positive,NVT,NVT,34
+NAS0883,PLHIV ART <3m,Week 3,CUH129,Carriage Positive,18C[A+Q+](c+f-),18C,"4,020"
+NAS0933,PLHIV ART >1y,Week 3,CUH13L,Carriage Positive,NVT[I+],NVT[I+],"134,000"
+NAS0958,HIV-,Week 3,CUH13M,Carriage Positive,3[B+R+],3,"502,500"
+NAS0982,PLHIV ART <3m,Week 3,CUH12G,Carriage Positive,9[D+R+](g-),9A/L/N,"4,355,000"
+NAS0990,PLHIV ART >1y,Week 3,CUH12H,Carriage Positive,15[H+S+],15A/B/C/F,335
+NAS0792,HIV-,Week 3,CUH12I,Carriage Positive,NVT,NVT,67
+NAS1014,PLHIV ART <3m,Week 3,CUH12L,Carriage Positive,17[F+S+],17A/F,"5,528"
+NAS0784,PLHIV ART <3m,Week 3,CUH12M,Carriage Positive,17[F+S+],17A/F,"4,020,000"
+NAS1048,PLHIV ART >1y,Week 3,CUH12N,Carriage Positive,NVT[H+],NVT[H+],"301,500"
+NAS1030,HIV-,Week 3,CUH12Q,Carriage Positive,17[F+S+],17A/F,67
+NAS1022,PLHIV ART >1y,Week 3,CUH12R,Carriage Positive,17[F+S+],17A/F,"6,700,000"
+NAS1089,HIV-,Week 3,CUH12T,Carriage Positive,4[A+R+],4,"30,150"
+NAS1097,PLHIV ART >1y,Week 3,CUH12V,Carriage Positive,NVT[D+],NVT[D+],34
+NAS1113,HIV-,Week 3,CUH12X,Carriage Positive,3[B+R+],3,"4,355,000"
+NAS1170,PLHIV ART >1y,Week 3,CUH14M,Carriage Positive,6A[B+Q+](b+c-d-),6A,5863
+NAS1337,PLHIV ART <3m,Week 3,CUH156,Carriage Positive,NVT,NVT,670
+NAS1345,PLHIV ART <3m,Week 3,CUH14T,Carriage Positive,19[B+P+](b-c-),19B/C,"20,100,000"
+NAS1212,PLHIV ART <3m,Week 3,CUH150,Carriage Positive,20[C+T+],20,134
+NAS1253,PLHIV ART >1y,Week 3,CUH152,Carriage Positive,3[B+R+],3,"87,100"
+NAS1451,PLHIV ART >1y,Week 3,CUH15I,Carriage Positive,11[D+T+],11A/B/C/D/F,101
+NAS1519,PLHIV ART >1y,Week 3,CUH15K,Carriage Positive,15[H+S+],15A/B/C/F,"1,005,000"
+NAS1527,PLHIV ART >1y,Week 3,CUH15M,Carriage Positive,23[H+Q+](b-),23A/B,"3,015"
+NAS1642,PLHIV ART <3m,Week 3,CUH140,Carriage Positive,11[D+T+],11A/B/C/D/F,"2,345,000"
+NAS1634,PLHIV ART >1y,Week 3,CUH15T,Carriage Positive,15[H+S+],15A/B/C/F,"636,500"
+NAS1683,PLHIV ART >1y,Week 3,CUH15Y,Carriage Positive,NVT[G+],NVT[G+],"552,750"
+NAS1717,PLHIV ART <3m,Week 3,CUH149,Carriage Positive,NVT,NVT,"3,015"
+NAS1691,PLHIV ART >1y,Week 3,CUH161,Carriage Positive,19F[B+P+](b+c-),19F,"1,005"
+NAS1808,PLHIV ART <3m,Week 3,CUH14F,Carriage Positive,NVT[G+],NVT[G+],"10,050"
+NAS1766,PLHIV ART <3m,Week 3,CUH14G,Carriage Positive,NVT[G+],NVT[G+],"2,345,000"
+NAS1816,HIV-,Week 3,CUH167,Carriage Positive,8[B+S+],8,670
+NAS1873,PLHIV ART <3m,Week 3,CUH14H,Carriage Positive,23[H+Q+](b-),23A/B,"3,015"
+NAS1865,HIV-,Week 3,CUH169,Carriage Positive,22[F+T+],22A/F,335
+NAS1899,PLHIV ART >1y,Week 3,CUH16D,Carriage Positive,15[H+S+],15A/B/C/F,"23,450"
+NAS1980,PLHIV ART <3m,Week 3,CUH16L,Carriage Positive,10[E+S+],10A/B/C/F,335
+NAS2004,PLHIV ART <3m,Week 3,CUH16P,Carriage Positive,NVT[D+],NVT[D+],"954,750"
+NAS0016,PLHIV ART >1y,Week 4,CUI100,Carriage Positive,NVT,NVT,"28,475,000"
+NAS0024,PLHIV ART >1y,Week 4,CUI101,Carriage Positive,NVT[H+],NVT[H+],"61,975"
+NAS0065,PLHIV ART <3m,Week 4,CUI104,Carriage Positive,6C[B+Q+](b-c-d+),6C,"3,015,000"
+NAS0040,HIV-,Week 4,CUI103,Carriage Positive,NVT[H+],NVT[H+],"13,400"
+NAS0073,PLHIV ART >1y,Week 4,CUI106,Carriage Positive,NVT[H+],NVT[H+],"30,150"
+NAS0107,PLHIV ART <3m,Week 4,CUI10A,Carriage Positive,6C[B+Q+](b-c-d+),6C,"7,203"
+NAS0115,PLHIV ART >1y,Week 4,CUI10C,Carriage Positive,NVT,NVT,335
+NAS0222,PLHIV ART <3m,Week 4,CUI10H,Carriage Positive,NVT,NVT,"1,005"
+NAS0198,HIV-,Week 4,CUI10F,Carriage Positive,NVT,NVT,"1,340"
+NAS0172,HIV-,Week 4,CUI10I,Carriage Positive,NVT[D+],NVT[D+],"9,380"
+NAS0255,PLHIV ART <3m,Week 4,CUI10J,Carriage Positive,15[H+S+],15A/B/C/F,67
+NAS0131,PLHIV ART <3m,Week 4,CUI10M,Carriage Positive,4[A+R+],4,"2,345,000"
+NAS0263,PLHIV ART >1y,Week 4,CUI10N,Carriage Positive,NVT[G+],NVT[G+],"653,250"
+NAS0271,PLHIV ART >1y,Week 4,CUI10L,Carriage Positive,NVT,NVT,"10,050"
+NAS0339,PLHIV ART >1y,Week 4,CUI10X,Carriage Positive,1[A+P+],1,"38,525"
+NAS0388,HIV-,Week 4,CUI10V,Carriage Positive,NVT[G+],NVT[G+],"301,500"
+NAS0404,PLHIV ART <3m,Week 4,CUI115,Carriage Positive,19F[B+P+](b+c-),19F,"18,425"
+NAS0412,PLHIV ART <3m,Week 4,CUI116,Carriage Positive,NVT[C+],NVT[C+],"10,385"
+NAS0438,HIV-,Week 4,CUI112,Carriage Positive,19[B+P+](b-c-),19B/C,"1,005"
+NAS0479,PLHIV ART >1y,Week 4,CUI118,Carriage Positive,7[C+P+](b-),7A/B/C,"16,750"
+NAS0321,HIV-,Week 4,CUI119,Carriage Positive,11[D+T+],11A/B/C/D/F,"144,050"
+NAS0552,HIV-,Week 4,CUI11J,Carriage Positive,NVT,NVT,"5,025"
+NAS0628,HIV-,Week 4,CUI11K,Carriage Positive,NVT[H+],NVT[H+],302
+NAS0610,HIV-,Week 4,CUI11N,Carriage Positive,NVT,NVT,268
+NAS0677,HIV-,Week 4,CUI11T,Carriage Positive,11[D+T+],11A/B/C/D/F,"43,550"
+NAS0735,PLHIV ART >1y,Week 4,CUI11Y,Carriage Positive,NVT,NVT,34
+NAS0768,PLHIV ART <3m,Week 4,CUI121,Carriage Positive,1[A+P+],1,"4,690,000"
+NAS0834,PLHIV ART >1y,Week 4,CUI125,Carriage Positive,NVT[G+],NVT[G+],"10,553"
+NAS0883,PLHIV ART <3m,Week 4,CUI12A,Carriage Positive,18C[A+Q+](c+f-),18C,"368,500"
+NAS0917,HIV-,Week 4,CUI12E,Carriage Positive,NVT[G+],NVT[G+],"67,000"
+NAS0958,HIV-,Week 4,CUI12F,Carriage Positive,3[B+R+],3,"2,345,000"
+NAS0974,PLHIV ART >1y,Week 4,CUI12K,Carriage Positive,NVT,NVT,34
+NAS0982,PLHIV ART <3m,Week 4,CUI12L,Carriage Positive,9[D+R+](g-),9A/L/N,"4,020"
+NAS0990,PLHIV ART >1y,Week 4,CUI12M,Carriage Positive,NVT,NVT,67
+NAS0792,HIV-,Week 4,CUI12N,Carriage Positive,NVT,NVT,"1,006"
+NAS1006,PLHIV ART >1y,Week 4,CUI12Q,Carriage Positive,1[A+P+],1,536
+NAS0784,PLHIV ART <3m,Week 4,CUI12R,Carriage Positive,10[E+S+],10A/B/C/F,"16,750,000"
+NAS1048,PLHIV ART >1y,Week 4,CUI12T,Carriage Positive,NVT[H+],NVT[H+],"18,319"
+NAS1030,HIV-,Week 4,CUI12X,Carriage Positive,17[F+S+],17A/F,"100,500,000"
+NAS1022,PLHIV ART >1y,Week 4,CUI12V,Carriage Positive,17[F+S+],17A/F,335
+NAS1105,PLHIV ART >1y,Week 4,CUI132,Carriage Positive,NVT,NVT,168
+NAS1170,PLHIV ART >1y,Week 4,CUI139,Carriage Positive,6[B+Q+]b-c-d-),6[B+Q+]b-c-d-),"11,725"
+NAS1196,PLHIV ART >1y,Week 4,CUI13A,Carriage Positive,23[H+Q+](b-),23A/B,"53,600"
+NAS1261,PLHIV ART >1y,Week 4,CUI15M,Carriage Positive,3[B+R+],3,"33,500"
+NAS1337,PLHIV ART <3m,Week 4,CUI13G,Carriage Positive,NVT,NVT,"10,050"
+NAS1345,PLHIV ART <3m,Week 4,CUI13H,Carriage Positive,23[H+Q+](b-),23A/B,"20,100"
+NAS1352,PLHIV ART <3m,Week 4,CUI13I,Carriage Positive,NVT[G+],NVT[G+],"1,005"
+NAS1360,PLHIV ART >1y,Week 4,CUI13J,Carriage Positive,9[D+R+](g-),9A/L/N,"80,400"
+NAS1212,PLHIV ART <3m,Week 4,CUI160,Carriage Positive,20[C+T+],20,"5,528"
+NAS1253,PLHIV ART >1y,Week 4,CUI166,Carriage Positive,3[B+R+],3,335
+NAS1519,PLHIV ART >1y,Week 4,CUI13K,Carriage Positive,15[H+S+],15A/B/C/F,"134,000"
+NAS1527,PLHIV ART >1y,Week 4,CUI13N,Carriage Positive,23[H+Q+](b-),23A/B,"3,015"
+NAS1592,PLHIV ART >1y,Week 4,CUI13S,Carriage Positive,3[B+R+],3,"1,005"
+NAS1634,PLHIV ART >1y,Week 4,CUI13U,Carriage Positive,15[H+S+],15A/B/C/F,"3,183"
+NAS1683,PLHIV ART >1y,Week 4,CUI13W,Carriage Positive,NVT[G+],NVT[G+],"2,680"
+NAS1717,PLHIV ART <3m,Week 4,CUI142,Carriage Positive,NVT,NVT,"23,450"
+NAS1691,PLHIV ART >1y,Week 4,CUI141,Carriage Positive,20[C+T+],20,335
+NAS1733,HIV-,Week 4,CUI145,Carriage Positive,NVT[G+],NVT[G+],134
+NAS1808,PLHIV ART <3m,Week 4,CUI14C,Carriage Positive,NVT[G+],NVT[G+],"268,000"
+NAS1766,PLHIV ART <3m,Week 4,CUI14B,Carriage Positive,NVT[G+],NVT[G+],"301,500"
+NAS1873,PLHIV ART <3m,Week 4,CUI153,Carriage Positive,23[H+Q+](b-),23A/B,"45,225"
+NAS1865,HIV-,Week 4,CUI147,Carriage Positive,22[F+T+],22A/F,"2,680"
+NAS1899,PLHIV ART >1y,Week 4,CUI154,Carriage Positive,15[H+S+],15A/B/C/F,"10,050"
+NAS1907,PLHIV ART <3m,Week 4,CUI156,Carriage Positive,19F[B+P+](b+c-),19F,335
+NAS1931,PLHIV ART <3m,Week 4,CUI158,Carriage Positive,23[H+Q+](b-),23A/B,"268,000"
+NAS1964,PLHIV ART >1y,Week 4,CUI15B,Carriage Positive,7[C+P+](b-),7A/B/C,"469,000"
+NAS2004,PLHIV ART <3m,Week 4,CUI15F,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"3,015,000"
+NAS2012,PLHIV ART <3m,Week 4,CUI15G,Carriage Positive,9[D+R+(g-),9A/L/N,"134,000"
+NAS0016,PLHIV ART >1y,Week 5,CUJ10W,Carriage Positive,NVT[G+],NVT[G+],"3,685"
+NAS0024,PLHIV ART >1y,Week 5,CUJ10X,Carriage Positive,NVT,NVT,"1,474"
+NAS0040,HIV-,Week 5,CUJ110,Carriage Positive,NVT,NVT,"11,390"
+NAS0107,PLHIV ART <3m,Week 5,CUJ10L,Carriage Positive,6C[B+Q+](b-c-d+),6C,"251,250"
+NAS0115,PLHIV ART >1y,Week 5,CUJ10N,Carriage Positive,NVT,NVT,"50,250"
+NAS0255,PLHIV ART <3m,Week 5,CUJ116,Carriage Positive,NVT[H+],NVT[H+],"268,000"
+NAS0131,PLHIV ART <3m,Week 5,CUJ118,Carriage Positive,4[A+R+],4,"30,150"
+NAS0263,PLHIV ART >1y,Week 5,CUJ119,Carriage Positive,NVT[G+],NVT[G+],"8,207,500"
+NAS0271,PLHIV ART >1y,Week 5,CUJ117,Carriage Positive,NVT,NVT,"44,053"
+NAS0339,PLHIV ART >1y,Week 5,CUJ11G,Carriage Positive,1[A+P+],1,670
+NAS0388,HIV-,Week 5,CUJ11H,Carriage Positive,NVT[G+],NVT[G+],"3,685"
+NAS0354,PLHIV ART >1y,Week 5,CUJ11K,Carriage Positive,NVT[I+],NVT[I+],"1,675"
+NAS0396,PLHIV ART <3m,Week 5,CUJ11L,Carriage Positive,NVT[H+],NVT[H+],"65,325"
+NAS0412,PLHIV ART <3m,Week 5,CUJ11P,Carriage Positive,NVT[C+],NVT[C+],"653,250"
+NAS0438,HIV-,Week 5,CUJ11N,Carriage Positive,19[B+P+](b-c-),19B/C,"1,005"
+NAS0479,PLHIV ART >1y,Week 5,CUJ11T,Carriage Positive,7[C+P+](b-),7A/B/C,"1,005,000"
+NAS0578,PLHIV ART >1y,Week 5,CUJ126,Carriage Positive,NVT[G+],NVT[G+],"3,183"
+NAS0768,PLHIV ART <3m,Week 5,CUJ12M,Carriage Positive,1[A+P+],1,"1,340"
+NAS0834,PLHIV ART >1y,Week 5,CUJ12Q,Carriage Positive,NVT[G+],NVT[G+],"1,005"
+NAS0883,PLHIV ART <3m,Week 5,CUJ12V,Carriage Positive,18C[A+Q+](c+f-),18C,"2,340"
+NAS0917,HIV-,Week 5,CUJ12Y,Carriage Positive,NVT[G+],NVT[G+],"469,000"
+NAS0958,HIV-,Week 5,CUJ130,Carriage Positive,3[B+R+],3,"1,675,000"
+NAS0966,PLHIV ART <3m,Week 5,CUJ134,Carriage Positive,NVT[H+],NVT[H+],34
+NAS0974,PLHIV ART >1y,Week 5,CUJ135,Carriage Positive,17[F+S+],17A/F,"1,340"
+NAS0982,PLHIV ART <3m,Week 5,CUJ136,Carriage Positive,9[D+R+](g-),9A/L/N,"7,705,000"
+NAS0990,PLHIV ART >1y,Week 5,CUJ137,Carriage Positive,10[E+S+],10A/B/C/F,"4,523"
+NAS0792,HIV-,Week 5,CUJ138,Carriage Positive,NVT,NVT,"10,720"
+NAS0800,HIV-,Week 5,CUJ13X,Carriage Positive,NVT,NVT,"3,015"
+NAS1006,PLHIV ART >1y,Week 5,CUJ13Y,Carriage Positive,19[B+P+](b-c-),19B/C,335
+NAS1089,HIV-,Week 5,CUJ13Z,Carriage Positive,4[A+R+],4,"26,800"
+NAS1162,HIV-,Week 5,CUJ144,Carriage Positive,NVT[G+],NVT[G+],"2,178"
+NAS1170,PLHIV ART >1y,Week 5,CUJ147,Carriage Positive,6A[B+Q+](b+c-d-),6A,"1,764,333"
+NAS1261,PLHIV ART >1y,Week 5,CUJ14A,Carriage Positive,3[B+R+],3,"167,500"
+NAS1337,PLHIV ART <3m,Week 5,CUJ14F,Carriage Positive,NVT,NVT,"5,695"
+NAS1352,PLHIV ART <3m,Week 5,CUJ14H,Carriage Positive,NVT[G+],NVT[G+],"3,335"
+NAS1360,PLHIV ART >1y,Week 5,CUJ14U,Carriage Positive,9[D+R+](g-),9A/L/N,101
+NAS1238,PLHIV ART <3m,Week 5,CUJ157,Carriage Positive,23F[H+Q+](b+),23F,"100,500"
+NAS1212,PLHIV ART <3m,Week 5,CUJ155,Carriage Positive,20[C+T+],20,"20,100"
+NAS1253,PLHIV ART >1y,Week 5,CUJ159,Carriage Positive,3[B+R+],3,"3,350"
+NAS1451,PLHIV ART >1y,Week 5,CUJ158,Carriage Positive,1[A+P+]  and 11[D+T],1 and 11A/B/C/D/F,"1,005"
+NAS1444,PLHIV ART >1y,Week 5,CUJ15A,Carriage Positive,3[B+R+],3,"2,680"
+NAS1527,PLHIV ART >1y,Week 5,CUJ14J,Carriage Positive,23[H+Q+](b-),23A/B,"13,400"
+NAS1550,HIV-,Week 5,CUJ15C,Carriage Positive,23[H+Q+](b-),23A/B,670
+NAS1592,PLHIV ART >1y,Week 5,CUJ14N,Carriage Positive,3[B+R+],3,"2,345"
+NAS1600,PLHIV ART >1y,Week 5,CUJ13L,Carriage Positive,NVT,NVT,67
+NAS1733,HIV-,Week 5,CUJ13R,Carriage Positive,NVT[G+],NVT[G+],34
+NAS1808,PLHIV ART <3m,Week 5,CUJ15E,Carriage Positive,NVT[G+],NVT[G+],235
+NAS1766,PLHIV ART <3m,Week 5,CUJ15G,Carriage Positive,NVT[G+],NVT[G+],"55,275"
+NAS1816,HIV-,Week 5,CUJ15J,Carriage Positive,8[B+S+],8,"134,000"
+NAS1873,PLHIV ART <3m,Week 5,CUJ15P,Carriage Positive,23[H+Q+](b-),23A/B,"1,005,000"
+NAS1865,HIV-,Week 5,CUJ15K,Carriage Positive,22[F+T+],22A/F,"3,685"
+NAS1881,HIV-,Week 5,CUJ15N,Carriage Positive,19F[B+P+](b+c-),19F,34
+NAS1931,PLHIV ART <3m,Week 5,CUJ15T,Carriage Positive,3[B+R+],3,"268,000"
+NAS1964,PLHIV ART >1y,Week 5,CUJ15W,Carriage Positive,7[C+P+](b-),7A/B/C,"26,800"
+NAS1980,PLHIV ART <3m,Week 5,CUJ13W,Carriage Positive,10[E+S+],10A/B/C/F,"201,000"
+NAS1998,PLHIV ART >1y,Week 5,CUJ13V,Carriage Positive,8[B+S+],8,"30,150"
+NAS2004,PLHIV ART <3m,Week 5,CUJ15X,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,34
+NAS2012,PLHIV ART <3m,Week 5,CUJ13U,Carriage Positive,9[D+R+(g-),9A/L/N,335
+NAS0024,PLHIV ART >1y,Week 6,CUK101,Carriage Positive,NVT[H+],NVT[H+],"2,848"
+NAS0040,HIV-,Week 6,CUK103,Carriage Positive,NVT,NVT,"48,575"
+NAS0107,PLHIV ART <3m,Week 6,CUK10A,Carriage Positive,NVT,NVT,67
+NAS0115,PLHIV ART >1y,Week 6,CUK10C,Carriage Positive,NVT,NVT,"1,005"
+NAS0198,HIV-,Week 6,CUK10F,Carriage Positive,NVT,NVT,201
+NAS0172,HIV-,Week 6,CUK10I,Carriage Positive,NVT[D+],NVT[D+],"1,340"
+NAS0255,PLHIV ART <3m,Week 6,CUK10J,Carriage Positive,15[H+S+],15A/B/C/F,670
+NAS0271,PLHIV ART >1y,Week 6,CUK10P,Carriage Positive,NVT[H+],NVT[H+],"2,680"
+NAS0396,PLHIV ART <3m,Week 6,CUK10Y,Carriage Positive,NVT[H+],NVT[H+],"134,000"
+NAS0412,PLHIV ART <3m,Week 6,CUK111,Carriage Positive,NVT[C+],NVT[C+],"23,450"
+NAS0438,HIV-,Week 6,CUK113,Carriage Positive,19[B+P+](b-c-),19B/C,"3,015"
+NAS0479,PLHIV ART >1y,Week 6,CUK118,Carriage Positive,7[C+P+](b-),7A/B/C,"36,850"
+NAS0321,HIV-,Week 6,CUK119,Carriage Positive,11[D+T+],11A/B/C/D/F,"318,250"
+NAS0560,HIV-,Week 6,CUK11K,Carriage Positive,6C[B+Q+](b-c-d+),6C,101
+NAS0578,PLHIV ART >1y,Week 6,CUK11P,Carriage Positive,15[H+S+],15A/B/C/F,"201,000"
+NAS0610,HIV-,Week 6,CUK11Q,Carriage Positive,NVT,NVT,"13,400"
+NAS0677,HIV-,Week 6,CUK11W,Carriage Positive,11[D+T+],11A/B/C/D/F,"1,005"
+NAS0735,PLHIV ART >1y,Week 6,CUK120,Carriage Positive,NVT,NVT,34
+NAS0768,PLHIV ART <3m,Week 6,CUK123,Carriage Positive,NVT[D+],NVT[D+],34
+NAS0859,HIV-,Week 6,CUK12B,Carriage Positive,NVT,NVT,"7,370"
+NAS0883,PLHIV ART <3m,Week 6,CUK12D,Carriage Positive,18C[A+Q+](c+f-),18C,"1,340"
+NAS0917,HIV-,Week 6,CUK12G,Carriage Positive,NVT[G+],NVT[G+],201
+NAS0958,HIV-,Week 6,CUK12I,Carriage Positive,3[B+R+],3,"586,250"
+NAS0974,PLHIV ART >1y,Week 6,CUK12M,Carriage Positive,NVT,NVT,335
+NAS0990,PLHIV ART >1y,Week 6,CUK12P,Carriage Positive,10[E+S+],10A/B/C/F,"10,050"
+NAS1006,PLHIV ART >1y,Week 6,CUK13M,Carriage Positive,19[B+P+](b-c-),19B/C,"435,500"
+NAS0784,PLHIV ART <3m,Week 6,CUK13N,Carriage Positive,10[E+S+],10A/B/C/F,"134,000"
+NAS1055,HIV-,Week 6,CUK13Q,Carriage Positive,3[B+R+],3,"2,680,000"
+NAS1022,PLHIV ART >1y,Week 6,CUK13S,Carriage Positive,17[F+S+],17A/F,"134,000"
+NAS1170,PLHIV ART >1y,Week 6,CUK13X,Carriage Positive,6A[B+Q+](b+c-d-),6A,670
+NAS1261,PLHIV ART >1y,Week 6,CUK13Z,Carriage Positive,3[B+R+],3,"2,010"
+NAS1337,PLHIV ART <3m,Week 6,CUK14H,Carriage Positive,NVT,NVT,"33,500"
+NAS1493,PLHIV ART >1y,Week 6,CUK14S,Carriage Positive,7[C+P+](b-),7A/B/C,335
+NAS1238,PLHIV ART <3m,Week 6,CUK14W,Carriage Positive,23F[H+Q+](b+),23F,670
+NAS1253,PLHIV ART >1y,Week 6,CUK150,Carriage Positive,3[B+R+],3,"1,340"
+NAS1451,PLHIV ART >1y,Week 6,CUK14Z,Carriage Positive,11[D+T+],11A/B/C/D/F,"134,000"
+NAS1444,PLHIV ART >1y,Week 6,CUK152,Carriage Positive,3[B+R+],3,"1,005"
+NAS1527,PLHIV ART >1y,Week 6,CUK154,Carriage Positive,23[H+Q+](b-),23A/B,"51,925"
+NAS1550,HIV-,Week 6,CUK155,Carriage Positive,23[H+Q+](b-),23A/B,"167,500"
+NAS1600,PLHIV ART >1y,Week 6,CUK157,Carriage Positive,NVT,NVT,201
+NAS1733,HIV-,Week 6,CUK130,Carriage Positive,7[C+P+](b-),7A/B/C,"1,675,000"
+NAS1808,PLHIV ART <3m,Week 6,CUK133,Carriage Positive,NVT[G+],NVT[G+],201
+NAS1865,HIV-,Week 6,CUK138,Carriage Positive,20[C+T+],20,134
+NAS1931,PLHIV ART <3m,Week 6,CUK13I,Carriage Positive,3[B+R+],3,"10,050"
+NAS1949,PLHIV ART <3m,Week 6,CUK13F,Carriage Positive,33[E+T+],33A/B/C/D/F,101
+NAS1782,PLHIV ART <3m,Week 6,CUK13E,Carriage Positive,15[H+S+],15A/B/C/F,"36,850"
+NAS1964,PLHIV ART >1y,Week 6,CUK13G,Carriage Positive,7[C+P+](b-),7A/B/C,670
+NAS1998,PLHIV ART >1y,Week 6,CUK15N,Carriage Positive,4[A+R+],4,"63,650"
+NAS2004,PLHIV ART <3m,Week 6,CUK15P,Carriage Positive,NVT,NVT,"55,275"
+NAS0024,PLHIV ART >1y,Week 7,CUL101,Carriage Positive,NVT,NVT,"23,450"
+NAS0040,HIV-,Week 7,CUL103,Carriage Positive,NVT,NVT,"552,750"
+NAS0107,PLHIV ART <3m,Week 7,CUL10A,Carriage Positive,6C[B+Q+](b-c-d+),6C,"971,500"
+NAS0115,PLHIV ART >1y,Week 7,CUL10C,Carriage Positive,NVT[I+],NVT[I+],"10,720"
+NAS0263,PLHIV ART >1y,Week 7,CUL10P,Carriage Positive,NVT[G+],NVT[G+],"93,800"
+NAS0271,PLHIV ART >1y,Week 7,CUL10R,Carriage Positive,NVT,NVT,"13,400"
+NAS0412,PLHIV ART <3m,Week 7,CUL118,Carriage Positive,NVT[C+],NVT[C+],"28,475"
+NAS0479,PLHIV ART >1y,Week 7,CUL11C,Carriage Positive,7[C+P+](b-),7A/B/C,"385,250"
+NAS0578,PLHIV ART >1y,Week 7,CUL11P,Carriage Positive,15[H+S+],15A/B/C/F,"2,345"
+NAS0636,PLHIV ART <3m,Week 7,CUL11Q,Carriage Positive,NVT[G+],NVT[G+],"2,345"
+NAS0727,PLHIV ART >1y,Week 7,CUL121,Carriage Positive,33[E+T+],33A/B/C/D/F,"6,700,000"
+NAS0776,PLHIV ART <3m,Week 7,CUL124,Carriage Positive,NVT[G+],NVT[G+],"5,360"
+NAS0834,PLHIV ART >1y,Week 7,CUL125,Carriage Positive,NVT,NVT,"3,350"
+NAS0859,HIV-,Week 7,CUL12B,Carriage Positive,19F[B+P+](b+c-),19F,"686,750"
+NAS0909,PLHIV ART <3m,Week 7,CUL12E,Carriage Positive,12[E+R+],12A/B/F,"11,055,000"
+NAS0917,HIV-,Week 7,CUL12G,Carriage Positive,NVT[G+],NVT[G+],"670,000"
+NAS0933,PLHIV ART >1y,Week 7,CUL12I,Carriage Positive,NVT[I+],NVT[I+],"703,500"
+NAS0958,HIV-,Week 7,CUL12J,Carriage Positive,3[B+R+],3,"6,365,000"
+NAS0966,PLHIV ART <3m,Week 7,CUL12L,Carriage Positive,23[H+Q+](b-),23A/B,469
+NAS0974,PLHIV ART >1y,Week 7,CUL130,Carriage Positive,NVT,NVT,"1,340"
+NAS0990,PLHIV ART >1y,Week 7,CUL132,Carriage Positive,10[E+S+],10A/B/C/F,"6,700"
+NAS0792,HIV-,Week 7,CUL134,Carriage Positive,19F[B+P+](b+c-),19F,"108,875"
+NAS1006,PLHIV ART >1y,Week 7,CUL12M,Carriage Positive,19[B+P+](b-c-),19B/C,"201,000"
+NAS1048,PLHIV ART >1y,Week 7,CUL135,Carriage Positive,23[H+Q+](b-),23A/B,"3,350"
+NAS1162,HIV-,Week 7,CUL12Z,Carriage Positive,NVT,NVT,"7,203"
+NAS1170,PLHIV ART >1y,Week 7,CUL13B,Carriage Positive,6A[B+Q+](b+c-d-),6A,"4,020"
+NAS1196,PLHIV ART >1y,Week 7,CUL13C,Carriage Positive,23[H+Q+](b-),23A/B,"234,500"
+NAS1345,PLHIV ART <3m,Week 7,CUL13J,Carriage Positive,23[H+Q+](b-),23A/B,"51,925"
+NAS1360,PLHIV ART >1y,Week 7,CUL15R,Carriage Positive,9[D+R+](g-),9A/L/N,"50,250"
+NAS1493,PLHIV ART >1y,Week 7,CUL15Z,Carriage Positive,7[C+P+](b-),7A/B/C,"167,500"
+NAS1238,PLHIV ART <3m,Week 7,CUL163,Carriage Positive,17[F+S+],17A/F,"502,500"
+NAS1212,PLHIV ART <3m,Week 7,CUL162,Carriage Positive,20[C+T+],20,"30,150"
+NAS1253,PLHIV ART >1y,Week 7,CUL165,Carriage Positive,3[B+R+],3,335
+NAS1550,HIV-,Week 7,CUL13M,Carriage Positive,NVT[H+],NVT[H+],34
+NAS1642,PLHIV ART <3m,Week 7,CUL13Q,Carriage Positive,19A[B+P+](b-c+),19A,"100,500"
+NAS1683,PLHIV ART >1y,Week 7,CUL13N,Carriage Positive,NVT[G+],NVT[G+],67
+NAS1808,PLHIV ART <3m,Week 7,CUL14M,Carriage Positive,NVT[G+],NVT[G+],235
+NAS1873,PLHIV ART <3m,Week 7,CUL14V,Carriage Positive,23[H+Q+](b-),23A/B,34
+NAS1931,PLHIV ART <3m,Week 7,CUL13S,Carriage Positive,3[B+R+],3,"67,000"
+NAS1949,PLHIV ART <3m,Week 7,CUL151,Carriage Positive,33[E+T+],33A/B/C/D/F,134
+NAS1980,PLHIV ART <3m,Week 7,CUL13U,Carriage Positive,10[E+S+],10A/B/C/F,"90,450"
+NAS1972,PLHIV ART <3m,Week 7,CUL145,Carriage Positive,15[H+S+],15A/B/C/F,"20,100,000"
+NAS1998,PLHIV ART >1y,Week 7,CUL13V,Carriage Positive,4[A+R+],4,"6,700"
+NAS0016,PLHIV ART >1y,Week 10,CUP100,Carriage Positive,NVT[G+],NVT[G+],34
+NAS0024,PLHIV ART >1y,Week 10,CUP101,Carriage Positive,NVT[G+],NVT[G+],"78,725"
+NAS0040,HIV-,Week 10,CUP103,Carriage Positive,23F[H+Q+](b+),23F,"46,900"
+NAS0107,PLHIV ART <3m,Week 10,CUP109,Carriage Positive,6C[B+Q+](b-c-d+),6C,"13,400,000"
+NAS0115,PLHIV ART >1y,Week 10,CUP10C,Carriage Positive,NVT,NVT,"1,340"
+NAS0222,PLHIV ART <3m,Week 10,CUP10F,Carriage Positive,NVT[C+],NVT[C+],"35,175"
+NAS0172,HIV-,Week 10,CUP10J,Carriage Positive,NVT[D+],NVT[D+],"87,100"
+NAS0180,PLHIV ART <3m,Week 10,CUP10N,Carriage Positive,6D[B+Q+](b-c+d+),6D,"87,100"
+NAS0263,PLHIV ART >1y,Week 10,CUP10H,Carriage Positive,NVT[G+],NVT[G+],"3,350,000"
+NAS0271,PLHIV ART >1y,Week 10,CUP10K,Carriage Positive,NVT,NVT,"737,000"
+NAS0396,PLHIV ART <3m,Week 10,CUP10Y,Carriage Positive,NVT[H+],NVT[H+],"268,000"
+NAS0412,PLHIV ART <3m,Week 10,CUP10Z,Carriage Positive,NVT[C+],NVT[C+],"5,192,500"
+NAS0438,HIV-,Week 10,CUP113,Carriage Positive,NVT,NVT,101
+NAS0479,PLHIV ART >1y,Week 10,CUP114,Carriage Positive,7[C+P+](b-),7A/B/C,"536,000"
+NAS0321,HIV-,Week 10,CUP11T,Carriage Positive,11[D+T+],11A/B/C/D/F,"603,000"
+NAS0578,PLHIV ART >1y,Week 10,CUP129,Carriage Positive,10[E+S+],10A/B/C/F,"2,345"
+NAS0644,PLHIV ART <3m,Week 10,CUP12A,Carriage Positive,NVT[G+],NVT[G+],"28,475"
+NAS0735,PLHIV ART >1y,Week 10,CUP12L,Carriage Positive,19F[B+P+](b+c-),19F,"3,685"
+NAS0727,PLHIV ART >1y,Week 10,CUP12J,Carriage Positive,33[E+T+],33A/B/C/D/F,"4,020,000"
+NAS0834,PLHIV ART >1y,Week 10,CUP12Q,Carriage Positive,NVT,NVT,670
+NAS0826,PLHIV ART >1y,Week 10,CUP12P,Carriage Positive,6A[B+Q+](b+c-d-),6A,603
+NAS0842,PLHIV ART <3m,Week 10,CUP12V,Carriage Positive,NVT[I+],NVT[I+],670
+NAS0883,PLHIV ART <3m,Week 10,CUP12W,Carriage Positive,18C[A+Q+](c+f-),18C,"50,250"
+NAS0917,HIV-,Week 10,CUP130,Carriage Positive,NVT[G+],NVT[G+],"3,350,000"
+NAS0933,PLHIV ART >1y,Week 10,CUP133,Carriage Positive,NVT[I+],NVT[I+],"268,000"
+NAS0958,HIV-,Week 10,CUP131,Carriage Positive,3[B+R+],3,"2,177,500"
+NAS0966,PLHIV ART <3m,Week 10,CUP135,Carriage Positive,NVT[H+],NVT[H+],201
+NAS0974,PLHIV ART >1y,Week 10,CUP13L,Carriage Positive,17[F+S+],17A/F,"2,680"
+NAS0990,PLHIV ART >1y,Week 10,CUP13N,Carriage Positive,10[E+S+],10A/B/C/F,"30,150"
+NAS0792,HIV-,Week 10,CUP136,Carriage Positive,NVT[H+],NVT[H+],"6,700"
+NAS1022,PLHIV ART >1y,Week 10,CUP13C,Carriage Positive,17[F+S+],17A/F,"4,020"
+NAS1089,HIV-,Week 10,CUP13H,Carriage Positive,NVT,NVT,"4,355"
+NAS1121,PLHIV ART <3m,Week 10,CUP13K,Carriage Positive,7[C+P+](b-),7A/B/C,"2,848"
+NAS1147,PLHIV ART <3m,Week 10,CUP13Q,Carriage Positive,11[D+T+],11A/B/C/D/F,"636,500"
+NAS1162,HIV-,Week 10,CUP13P,Carriage Positive,NVT,NVT,"1,675"
+NAS1170,PLHIV ART >1y,Week 10,CUP13S,Carriage Positive,6A[B+Q+](b+c-d-),6[B+Q+](b+c-d+),"53,600"
+NAS1337,PLHIV ART <3m,Week 10,CUP14I,Carriage Positive,NVT,NVT,670
+NAS1352,PLHIV ART <3m,Week 10,CUP140,Carriage Positive,NVT[G+],NVT[G+],"2,345,000"
+NAS1493,PLHIV ART >1y,Week 10,CUP14L,Carriage Positive,7[C+P+](b-),7A/B/C,"3,685"
+NAS1238,PLHIV ART <3m,Week 10,CUP14R,Carriage Positive,17[F+S+],17A/F,"351,750"
+NAS1204,PLHIV ART <3m,Week 10,CUP150,Carriage Positive,NVT,NVT,201
+NAS1253,PLHIV ART >1y,Week 10,CUP14S,Carriage Positive,3[B+R+],3,"670,000"
+NAS1451,PLHIV ART >1y,Week 10,CUP14T,Carriage Positive,11[D+T+],11A/B/C/D/F,"23,450"
+NAS1444,PLHIV ART >1y,Week 10,CUP14U,Carriage Positive,NVT[G+],NVT[G+],"61,975"
+NAS1519,PLHIV ART >1y,Week 10,CUP14V,Carriage Positive,15[H+S+],15A/B/C/F,34
+NAS1527,PLHIV ART >1y,Week 10,CUP14E,Carriage Positive,23[H+Q+](b-),23A/B,"10,050"
+NAS1592,PLHIV ART >1y,Week 10,CUP14C,Carriage Positive,3[B+R+],3,"36,850"
+NAS1642,PLHIV ART <3m,Week 10,CUP11S,Carriage Positive,19A[B+P+](b-c+),19A,"23,450"
+NAS1683,PLHIV ART >1y,Week 10,CUP14W,Carriage Positive,NVT[D+],NVT[D+],67
+NAS1717,PLHIV ART <3m,Week 10,CUP11Q,Carriage Positive,NVT,NVT,"167,500"
+NAS1691,PLHIV ART >1y,Week 10,CUP11P,Carriage Positive,NVT,NVT,335
+NAS1741,PLHIV ART <3m,Week 10,CUP145,Carriage Positive,15[H+S+],15A/B/C/F,67
+NAS1808,PLHIV ART <3m,Week 10,CUP11M,Carriage Positive,NVT[G+],NVT[G+],"16,750"
+NAS1766,PLHIV ART <3m,Week 10,CUP11L,Carriage Positive,NVT[G+],NVT[G+],"35,175"
+NAS1816,HIV-,Week 10,CUP11J,Carriage Positive,8[B+S+],8,"1,340"
+NAS1840,PLHIV ART <3m,Week 10,CUP11I,Carriage Positive,9V[D+R+](g+),9V,"2,680,000"
+NAS1865,HIV-,Week 10,CUP11F,Carriage Positive,22[F+T+],22A/F,"3,350"
+NAS1758,HIV-,Week 10,CUP11C,Carriage Positive,23[H+Q+](b-),23A/B,"1,340,000"
+NAS1964,PLHIV ART >1y,Week 10,CUP15M,Carriage Positive,7[C+P+](b-),7A/B/C,"167,500"
+NAS1998,PLHIV ART >1y,Week 10,CUP15K,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"40,200"
+NAS2004,PLHIV ART <3m,Week 10,CUP15J,Carriage Positive,NVT,NVT,"6,700"
+NAS0016,PLHIV ART >1y,Week 11,CUQ100,Carriage Positive,NVT[G+],NVT[G+],34
+NAS0024,PLHIV ART >1y,Week 11,CUQ101,Carriage Positive,NVT[G+],NVT[G+],"23,450"
+NAS0040,HIV-,Week 11,CUQ103,Carriage Positive,NVT[H+],NVT[H+],"100,500"
+NAS0073,PLHIV ART >1y,Week 11,CUQ107,Carriage Positive,NVT,NVT,"38,525"
+NAS0107,PLHIV ART <3m,Week 11,CUQ10A,Carriage Positive,6C[B+Q+](b-c-d+),6C,"5,527,500"
+NAS0164,HIV-,Week 11,CUQ10B,Carriage Positive,7[C+P+](b-),7A/B/C,"18,425"
+NAS0115,PLHIV ART >1y,Week 11,CUQ10C,Carriage Positive,NVT,NVT,"4,355"
+NAS0271,PLHIV ART >1y,Week 11,CUQ10L,Carriage Positive,NVT,NVT,"107,200"
+NAS0396,PLHIV ART <3m,Week 11,CUQ10Y,Carriage Positive,NVT[H+],NVT[H+],"10,385"
+NAS0412,PLHIV ART <3m,Week 11,CUQ110,Carriage Positive,NVT[C+],NVT[C+],"215,517"
+NAS0479,PLHIV ART >1y,Week 11,CUQ114,Carriage Positive,7[C+P+](b-),7A/B/C,"737,000"
+NAS0321,HIV-,Week 11,CUQ115,Carriage Positive,11[D+T+],11A/B/C/D/F,"11,725"
+NAS0511,PLHIV ART >1y,Week 11,CUQ119,Carriage Positive,12[E+R+],12A/B/F,"221,100"
+NAS0578,PLHIV ART >1y,Week 11,CUQ11I,Carriage Positive,15[H+S+],15A/B/C/F,34
+NAS0677,HIV-,Week 11,CUQ11M,Carriage Positive,11[D+T+],11A/B/C/D/F,"3,685"
+NAS0735,PLHIV ART >1y,Week 11,CUQ11Q,Carriage Positive,19F[B+P+](b+c-),19F,34
+NAS0727,PLHIV ART >1y,Week 11,CUQ11S,Carriage Positive,33[E+T+],33A/B/C/D/F,"569,500"
+NAS0776,PLHIV ART <3m,Week 11,CUQ137,Carriage Positive,NVT,NVT,101
+NAS0834,PLHIV ART >1y,Week 11,CUQ13A,Carriage Positive,19F[B+P+](b+c-),19F,"4,523"
+NAS0842,PLHIV ART <3m,Week 11,CUQ13E,Carriage Positive,NVT[I+],NVT[I+],"33,500"
+NAS0883,PLHIV ART <3m,Week 11,CUQ13G,Carriage Positive,18C[A+Q+](c+f-),18C,"301,500"
+NAS0909,PLHIV ART <3m,Week 11,CUQ13I,Carriage Positive,33[E+T+],33A/B/C/D/F,"1,675,000"
+NAS0966,PLHIV ART <3m,Week 11,CUQ148,Carriage Positive,23[H+Q+](b-),23A/B,"3,015"
+NAS0974,PLHIV ART >1y,Week 11,CUQ149,Carriage Positive,NVT[G+],NVT[G+],"1,005"
+NAS0990,PLHIV ART >1y,Week 11,CUQ14A,Carriage Positive,10[E+S+],10A/B/C/F,"70,350"
+NAS0792,HIV-,Week 11,CUQ13R,Carriage Positive,NVT[H+],NVT[H+],"1,340"
+NAS1048,PLHIV ART >1y,Week 11,CUQ13V,Carriage Positive,23[H+Q+](b-),23A/B,335
+NAS1055,HIV-,Week 11,CUQ13W,Carriage Positive,3[B+R+],3,"11,893"
+NAS1022,PLHIV ART >1y,Week 11,CUQ13X,Carriage Positive,17[F+S+],17A/F,335
+NAS1063,HIV-,Week 11,CUQ13Y,Carriage Positive,20[C+T+],20,"45,225"
+NAS1071,PLHIV ART <3m,Week 11,CUQ141,Carriage Positive,19F[B+P+](b+c-),19F,"4,188"
+NAS1089,HIV-,Week 11,CUQ142,Carriage Positive,NVT,NVT,721
+NAS1097,PLHIV ART >1y,Week 11,CUQ140,Carriage Positive,NVT[D+],NVT[D+],838
+NAS1162,HIV-,Week 11,CUQ143,Carriage Positive,NVT,NVT,"1,675"
+NAS1170,PLHIV ART >1y,Week 11,CUQ14G,Carriage Positive,6A[B+Q+](b+c-d-),6A,"149,075"
+NAS1261,PLHIV ART >1y,Week 11,CUQ145,Carriage Positive,23F[H+Q+](b+),23F,"586,250"
+NAS1337,PLHIV ART <3m,Week 11,CUQ14L,Carriage Positive,NVT,NVT,"1,675"
+NAS1352,PLHIV ART <3m,Week 11,CUQ14M,Carriage Positive,NVT[G+],NVT[G+],"23,450"
+NAS1378,PLHIV ART >1y,Week 11,CUQ14P,Carriage Positive,NVT,NVT,268
+NAS1469,HIV-,Week 11,CUQ166,Carriage Positive,NVT,NVT,302
+NAS1493,PLHIV ART >1y,Week 11,CUQ165,Carriage Positive,7[C+P+](b-),7A/B/C,"234,500"
+NAS1238,PLHIV ART <3m,Week 11,CUQ16A,Carriage Positive,17[F+S+],17A/F,"670,000"
+NAS1451,PLHIV ART >1y,Week 11,CUQ16G,Carriage Positive,11[D+T+],11A/B/C/D/F,"30,150"
+NAS1444,PLHIV ART >1y,Week 11,CUQ16J,Carriage Positive,NVT[G+],NVT[G+],168
+NAS1519,PLHIV ART >1y,Week 11,CUQ11T,Carriage Positive,15[H+S+],15A/B/C/F,"167,500"
+NAS1527,PLHIV ART >1y,Week 11,CUQ11X,Carriage Positive,NVT[G+],NVT[G+],"6,365"
+NAS1550,HIV-,Week 11,CUQ11U,Carriage Positive,20[C+T+],20,"3,015"
+NAS1600,PLHIV ART >1y,Week 11,CUQ12R,Carriage Positive,6C[B+Q+](b-c-d+),6C,"3,350"
+NAS1642,PLHIV ART <3m,Week 11,CUQ12X,Carriage Positive,19A[B+P+](b-c+),19A,"134,000"
+NAS1675,HIV-,Week 11,CUQ12S,Carriage Positive,11[D+T+],11A/B/C/D/F,"3,183"
+NAS1683,PLHIV ART >1y,Week 11,CUQ12Z,Carriage Positive,NVT[D+],NVT[D+],34
+NAS1741,PLHIV ART <3m,Week 11,CUQ12G,Carriage Positive,15[H+S+],15A/B/C/F,"20,100"
+NAS1808,PLHIV ART <3m,Week 11,CUQ120,Carriage Positive,NVT[G+],NVT[G+],34
+NAS1766,PLHIV ART <3m,Week 11,CUQ12N,Carriage Positive,NVT[G+],NVT[G+],"3,350"
+NAS1832,HIV-,Week 11,CUQ12B,Carriage Positive,10[E+S+],10A/B/C/F,"6,700"
+NAS1840,PLHIV ART <3m,Week 11,CUQ12H,Carriage Positive,9V[D+R+](g+),9V,"3,015,000"
+NAS1865,HIV-,Week 11,CUQ128,Carriage Positive,,,34
+NAS1931,PLHIV ART <3m,Week 11,CUQ12I,Carriage Positive,20[C+T+],20,"1,005"
+NAS1964,PLHIV ART >1y,Week 11,CUQ12M,Carriage Positive,7[C+P+](b-),7A/B/C,"335,000"
+NAS1972,PLHIV ART <3m,Week 11,CUQ15C,Carriage Positive,15[H+S+],15A/B/C/F,335
+NAS1998,PLHIV ART >1y,Week 11,CUQ12J,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"20,100"
+NAS0024,PLHIV ART >1y,Week 12,CUR101,Carriage Positive,NVT[H+],NVT[H+],"33,500"
+NAS0040,HIV-,Week 12,CUR102,Carriage Positive,23F[H+Q+](b+),23F,"1,038,500"
+NAS0073,PLHIV ART >1y,Week 12,CUR106,Carriage Positive,NVT,NVT,"80,400"
+NAS0107,PLHIV ART <3m,Week 12,CUR10A,Carriage Positive,6C[B+Q+](b-c-d+),6C,"56,950,000"
+NAS0115,PLHIV ART >1y,Week 12,CUR10C,Carriage Positive,NVT,NVT,"157,450"
+NAS0172,HIV-,Week 12,CUR10L,Carriage Positive,NVT[D+],NVT[D+],"63,650"
+NAS0255,PLHIV ART <3m,Week 12,CUR10J,Carriage Positive,NVT,NVT,"1,005"
+NAS0180,PLHIV ART <3m,Week 12,CUR10P,Carriage Positive,6C[B+Q+](b-c-d+),6C,34
+NAS0271,PLHIV ART >1y,Week 12,CUR10I,Carriage Positive,NVT,NVT,"10,720,000"
+NAS0396,PLHIV ART <3m,Week 12,CUR112,Carriage Positive,NVT[H+],NVT[H+],"107,200"
+NAS0412,PLHIV ART <3m,Week 12,CUR113,Carriage Positive,NVT[C+],NVT[C+],"787,250"
+NAS0479,PLHIV ART >1y,Week 12,CUR117,Carriage Positive,7[C+P+](b-),7A/B/C,"351,750"
+NAS0503,PLHIV ART <3m,Week 12,CUR11E,Carriage Positive,19F[B+P+](b+c-),19F,"887,750"
+NAS0628,HIV-,Week 12,CUR11R,Carriage Positive,NVT[H+],NVT[H+],"2,680,000"
+NAS0644,PLHIV ART <3m,Week 12,CUR11P,Carriage Positive,NVT[G+],NVT[G+],"335,000"
+NAS0677,HIV-,Week 12,CUR133,Carriage Positive,11[D+T+],11A/B/C/D/F,34
+NAS0743,PLHIV ART >1y,Week 12,CUR136,Carriage Positive,NVT,NVT,268
+NAS0727,PLHIV ART >1y,Week 12,CUR138,Carriage Positive,33[E+T+],33A/B/C/D/F,67
+NAS0834,PLHIV ART >1y,Week 12,CUR13D,Carriage Positive,19F[B+P+](b+c-),19F,670
+NAS0859,HIV-,Week 12,CUR13H,Carriage Positive,NVT,NVT,"2,345"
+NAS0842,PLHIV ART <3m,Week 12,CUR13I,Carriage Positive,NVT,NVT,"113,900"
+NAS0909,PLHIV ART <3m,Week 12,CUR146,Carriage Positive,33[E+T+],33A/B/C/D/F,"335,000"
+NAS0917,HIV-,Week 12,CUR13L,Carriage Positive,NVT[G+],NVT[G+],"8,040"
+NAS0933,PLHIV ART >1y,Week 12,CUR13P,Carriage Positive,NVT,NVT,"335,000"
+NAS0974,PLHIV ART >1y,Week 12,CUR13T,Carriage Positive,17[F+S+],17A/F,369
+NAS0990,PLHIV ART >1y,Week 12,CUR13V,Carriage Positive,10[E+S+],10A/B/C/F,"1,006"
+NAS0792,HIV-,Week 12,CUR13X,Carriage Positive,NVT[H+],NVT[H+],"12,228"
+NAS1030,HIV-,Week 12,CUR142,Carriage Positive,NVT[C+],NVT[C+],"8,208"
+NAS1055,HIV-,Week 12,CUR143,Carriage Positive,3[B+R+],3,168
+NAS1063,HIV-,Week 12,CUR14T,Carriage Positive,20[C+T+],20,"1,675"
+NAS1071,PLHIV ART <3m,Week 12,CUR14V,Carriage Positive,19F[B+P+](b+c-),19F,"1,675"
+NAS1089,HIV-,Week 12,CUR14U,Carriage Positive,NVT,NVT,486
+NAS1097,PLHIV ART >1y,Week 12,CUR14W,Carriage Positive,NVT[D+],NVT[D+],"1,943"
+NAS1121,PLHIV ART <3m,Week 12,CUR14Z,Carriage Positive,7[C+P+](b-),7A/B/C,453
+NAS1147,PLHIV ART <3m,Week 12,CUR151,Carriage Positive,11[D+T+],11A/B/C/D/F,"971,500"
+NAS1170,PLHIV ART >1y,Week 12,CUR153,Carriage Positive,6A[B+Q+](b+c-d-),6[B+Q+](b+c-d+),"28,475"
+NAS1261,PLHIV ART >1y,Week 12,CUR157,Carriage Positive,23F[H+Q+](b+),23F,"301,500"
+NAS1329,PLHIV ART <3m,Week 12,CUR15A,Carriage Positive,17[F+S+],17A/F,"318,250"
+NAS1337,PLHIV ART <3m,Week 12,CUR15B,Carriage Positive,NVT,NVT,335
+NAS1352,PLHIV ART <3m,Week 12,CUR149,Carriage Positive,NVT[G+],NVT[G+],34
+NAS1493,PLHIV ART >1y,Week 12,CUR14I,Carriage Positive,7[C+P+](b-),7A/B/C,"3,685"
+NAS1238,PLHIV ART <3m,Week 12,CUR14L,Carriage Positive,17[F+S+],17A/F,"167,500"
+NAS1253,PLHIV ART >1y,Week 12,CUR14Q,Carriage Positive,3[B+R+],3,"3,182,500"
+NAS1519,PLHIV ART >1y,Week 12,CUR14S,Carriage Positive,15[H+S+],15A/B/C/F,"33,500"
+NAS1527,PLHIV ART >1y,Week 12,CUR11W,Carriage Positive,NVT[D+],NVT[D+],"2,345,000"
+NAS1550,HIV-,Week 12,CUR11V,Carriage Positive,NVT[C+],NVT[C+],"1,675"
+NAS1592,PLHIV ART >1y,Week 12,CUR123,Carriage Positive,NVT[G+],NVT[G+],"5,360"
+NAS1642,PLHIV ART <3m,Week 12,CUR120,Carriage Positive,19A[B+P+](b-c+),19A,"770,500"
+NAS1675,HIV-,Week 12,CUR11Z,Carriage Positive,11[D+T+],11A/B/C/D/F,"4,020"
+NAS1691,PLHIV ART >1y,Week 12,CUR125,Carriage Positive,NVT,NVT,67
+NAS1741,PLHIV ART <3m,Week 12,CUR12A,Carriage Positive,15[H+S+],15A/B/C/F,"65,325"
+NAS1808,PLHIV ART <3m,Week 12,CUR12B,Carriage Positive,NVT[G+],NVT[G+],"26,800"
+NAS1766,PLHIV ART <3m,Week 12,CUR12D,Carriage Positive,NVT[G+],NVT[G+],"2,010"
+NAS1840,PLHIV ART <3m,Week 12,CUR12V,Carriage Positive,9V[D+R+](g+),9V,"61,975"
+NAS1865,HIV-,Week 12,CUR12T,Carriage Positive,22[F+T+],22A/F,268
+NAS1907,PLHIV ART <3m,Week 12,CUR12Q,Carriage Positive,7[C+P+](b-),7A/B/C,168
+NAS1758,HIV-,Week 12,CUR12S,Carriage Positive,NVT,NVT,34
+NAS1931,PLHIV ART <3m,Week 12,CUR12M,Carriage Positive,20[C+T+],20,"68,675"
+NAS1964,PLHIV ART >1y,Week 12,CUR12L,Carriage Positive,7[C+P+](b-),7A/B/C,"20,100"
+NAS1980,PLHIV ART <3m,Week 12,CUR12K,Carriage Positive,10[E+S+],10A/B/C/F,"3,350,000"
+NAS1998,PLHIV ART >1y,Week 12,CUR12J,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"335,000"
+NAS0016,PLHIV ART >1y,Week 13,CUS100,Carriage Positive,NVT,NVT,670
+NAS0024,PLHIV ART >1y,Week 13,CUS101,Carriage Positive,NVT[H+],NVT[H+],"8,375"
+NAS0040,HIV-,Week 13,CUS103,Carriage Positive,NVT[H+],NVT[H+],"35,175"
+NAS0073,PLHIV ART >1y,Week 13,CUS107,Carriage Positive,NVT,NVT,"167,500"
+NAS0099,PLHIV ART <3m,Week 13,CUS105,Carriage Positive,NVT,NVT,637
+NAS0107,PLHIV ART <3m,Week 13,CUS10B,Carriage Positive,6C[B+Q+](b-c-d+),6C,"45,225"
+NAS0115,PLHIV ART >1y,Week 13,CUS10C,Carriage Positive,NVT[H+],NVT[H+],"30,150"
+NAS0172,HIV-,Week 13,CUS10K,Carriage Positive,NVT[D+],NVT[D+],"127,300"
+NAS0255,PLHIV ART <3m,Week 13,CUS10J,Carriage Positive,12[E+R+],12A/B/F,"4,690,000"
+NAS0180,PLHIV ART <3m,Week 13,CUS10P,Carriage Positive,6C[B+Q+](b-c-d+),6C,"51,925"
+NAS0271,PLHIV ART >1y,Week 13,CUS10I,Carriage Positive,NVT,NVT,"2,847,500"
+NAS0370,HIV-,Week 13,CUS10X,Carriage Positive,NVT,NVT,"61,975"
+NAS0396,PLHIV ART <3m,Week 13,CUS110,Carriage Positive,NVT[H+],NVT[H+],"15,075"
+NAS0412,PLHIV ART <3m,Week 13,CUS114,Carriage Positive,NVT[C+],NVT[C+],"229,475"
+NAS0479,PLHIV ART >1y,Week 13,CUS118,Carriage Positive,7[C+P+](b-),7A/B/C,"16,750"
+NAS0321,HIV-,Week 13,CUS117,Carriage Positive,11[D+T+],11A/B/C/D/F,536
+NAS0594,PLHIV ART >1y,Week 13,CUS11K,Carriage Positive,15[H+S+],15A/B/C/F,34
+NAS0586,PLHIV ART >1y,Week 13,CUS11N,Carriage Positive,15[H+S+],15A/B/C/F,"2,680"
+NAS0628,HIV-,Week 13,CUS11P,Carriage Positive,NVT[H+],NVT[H+],"167,500"
+NAS0669,PLHIV ART >1y,Week 13,CUS130,Carriage Positive,NVT[G+],NVT[G+],"268,000"
+NAS0685,HIV-,Week 13,CUS13P,Carriage Positive,NVT,NVT,34
+NAS0677,HIV-,Week 13,CUS13M,Carriage Positive,11[D+T+],11A/B/C/D/F,"3,350,000"
+NAS0727,PLHIV ART >1y,Week 13,CUS13Q,Carriage Positive,33[E+T+],33A/B/C/D/F,"167,500"
+NAS0776,PLHIV ART <3m,Week 13,CUS13T,Carriage Positive,NVT,NVT,"3,518"
+NAS0859,HIV-,Week 13,CUS13Y,Carriage Positive,NVT,NVT,168
+NAS0842,PLHIV ART <3m,Week 13,CUS13Z,Carriage Positive,NVT[I+],NVT[I+],"33,500"
+NAS0909,PLHIV ART <3m,Week 13,CUS143,Carriage Positive,12[E+R+],12A/B/F,"68,675"
+NAS0933,PLHIV ART >1y,Week 13,CUS146,Carriage Positive,NVT,NVT,101
+NAS0966,PLHIV ART <3m,Week 13,CUS147,Carriage Positive,NVT[H+],NVT[H+],"222,775"
+NAS0974,PLHIV ART >1y,Week 13,CUS148,Carriage Positive,17[F+S+],17A/F,"1,006"
+NAS0990,PLHIV ART >1y,Week 13,CUS14A,Carriage Positive,10[E+S+],10A/B/C/F,"16,750"
+NAS0792,HIV-,Week 13,CUS14B,Carriage Positive,NVT[H+],NVT[H+],"53,600"
+NAS0784,PLHIV ART <3m,Week 13,CUS14D,Carriage Positive,10[E+S+],10A/B/C/F,486
+NAS1055,HIV-,Week 13,CUS137,Carriage Positive,3[B+R+] and 11[D+T+],3 and 11A/B/C/D/F,"20,100,000"
+NAS1097,PLHIV ART >1y,Week 13,CUS15E,Carriage Positive,NVT[D+],NVT[D+],"1,340"
+NAS1121,PLHIV ART <3m,Week 13,CUS14G,Carriage Positive,7[C+P+](b-),7A/B/C,"1,005"
+NAS1170,PLHIV ART >1y,Week 13,CUS13B,Carriage Positive,6A[B+Q+](b+c-d-),6A,"92,125"
+NAS1196,PLHIV ART >1y,Week 13,CUS14K,Carriage Positive,23[H+Q+](b-),23A/B,335
+NAS1261,PLHIV ART >1y,Week 13,CUS15J,Carriage Positive,NVT,NVT,670
+NAS1329,PLHIV ART <3m,Week 13,CUS14N,Carriage Positive,17[F+S+],17A/F,"2,010"
+NAS1352,PLHIV ART <3m,Week 13,CUS14R,Carriage Positive,19A[B+P+](b+c-),19A,402
+NAS1493,PLHIV ART >1y,Week 13,CUS15Q,Carriage Positive,7[C+P+](b-),7A/B/C,"134,000"
+NAS1238,PLHIV ART <3m,Week 13,CUS15N,Carriage Positive,17[F+S+],17A/F,"318,250"
+NAS1253,PLHIV ART >1y,Week 13,CUS15V,Carriage Positive,3[B+R+],3,"67,000"
+NAS1451,PLHIV ART >1y,Week 13,CUS15T,Carriage Positive,11[D+T+],11A/B/C/D/F,"4,020"
+NAS1444,PLHIV ART >1y,Week 13,CUS15W,Carriage Positive,NVT[G+],NVT[G+],"4,690"
+NAS1519,PLHIV ART >1y,Week 13,CUS11T,Carriage Positive,15[H+S+],15A/B/C/F,"13,400,000"
+NAS1527,PLHIV ART >1y,Week 13,CUS12A,Carriage Positive,NVT[D+],NVT[D+],"68,675"
+NAS1550,HIV-,Week 13,CUS12C,Carriage Positive,23[H+Q+](b-),23A/B,"13,400"
+NAS1642,PLHIV ART <3m,Week 13,CUS127,Carriage Positive,19A[B+P+](b-c+),19A,"268,000"
+NAS1683,PLHIV ART >1y,Week 13,CUS12B,Carriage Positive,NVT[D+],NVT[D+],"55,275"
+NAS1717,PLHIV ART <3m,Week 13,CUS121,Carriage Positive,NVT,NVT,"5,360"
+NAS1691,PLHIV ART >1y,Week 13,CUS122,Carriage Positive,NVT,NVT,"1,005"
+NAS1741,PLHIV ART <3m,Week 13,CUS11X,Carriage Positive,15[H+S+],15A/B/C/F,"536,000"
+NAS1808,PLHIV ART <3m,Week 13,CUS11W,Carriage Positive,NVT[G+],NVT[G+],67
+NAS1840,PLHIV ART <3m,Week 13,CUS16J,Carriage Positive,9V[D+R+](g+),9V,"97,150"
+NAS1865,HIV-,Week 13,CUS16F,Carriage Positive,22[F+T+],22A/F,201
+NAS1881,HIV-,Week 13,CUS16H,Carriage Positive,19F[B+P+](b+c-),19F,469
+NAS1980,PLHIV ART <3m,Week 13,CUS167,Carriage Positive,10[E+S+],10A/B/C/F,"134,000"
+NAS1998,PLHIV ART >1y,Week 13,CUS166,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"351,750"
+NAS2004,PLHIV ART <3m,Week 13,CUS165,Carriage Positive,11[D+T+],11A/B/C/D/F,"46,900,000"
+NAS0024,PLHIV ART >1y,Week 14,CUT101,Carriage Positive,NVT[G+],NVT[G+],"87,100"
+NAS0040,HIV-,Week 14,CUT103,Carriage Positive,NVT,NVT,"3,685"
+NAS0073,PLHIV ART >1y,Week 14,CUT106,Carriage Positive,12[E+R+],12A/B/F,"218,867"
+NAS0107,PLHIV ART <3m,Week 14,CUT109,Carriage Positive,6C[B+Q+](b-c-d+),6C,"33,500"
+NAS0115,PLHIV ART >1y,Week 14,CUT10B,Carriage Positive,NVT,NVT,"2,848"
+NAS0172,HIV-,Week 14,CUT10M,Carriage Positive,NVT[D+],NVT[D+],"1,675"
+NAS0255,PLHIV ART <3m,Week 14,CUT10K,Carriage Positive,NVT,NVT,"6,868"
+NAS0180,PLHIV ART <3m,Week 14,CUT10P,Carriage Positive,6C[B+Q+](b-c-d+),6C,"167,500"
+NAS0271,PLHIV ART >1y,Week 14,CUT10I,Carriage Positive,NVT,NVT,"21,217"
+NAS0370,HIV-,Week 14,CUT10X,Carriage Positive,NVT,NVT,"11,725"
+NAS0396,PLHIV ART <3m,Week 14,CUT110,Carriage Positive,NVT[H+],NVT[H+],"20,882"
+NAS0412,PLHIV ART <3m,Week 14,CUT114,Carriage Positive,20[C+T+],20,"65,325"
+NAS0479,PLHIV ART >1y,Week 14,CUT119,Carriage Positive,7[C+P+](b-),7A/B/C,"6,700"
+NAS0321,HIV-,Week 14,CUT118,Carriage Positive,11[D+T+],11A/B/C/D/F,536
+NAS0503,PLHIV ART <3m,Week 14,CUT11F,Carriage Positive,19F[B+P+](b+c-),19F,"469,000"
+NAS0511,PLHIV ART >1y,Week 14,CUT11C,Carriage Positive,NVT[C+],NVT[C+],"234,500"
+NAS0644,PLHIV ART <3m,Week 14,CUT132,Carriage Positive,NVT[G+],NVT[G+],"26,800,000"
+NAS0669,PLHIV ART >1y,Week 14,CUT135,Carriage Positive,NVT[G+],NVT[G+],"5,695,000,000"
+NAS0677,HIV-,Week 14,CUT136,Carriage Positive,11[D+T+],11A/B/C/D/F,"9,380"
+NAS0743,PLHIV ART >1y,Week 14,CUT13A,Carriage Positive,NVT,NVT,268
+NAS0727,PLHIV ART >1y,Week 14,CUT13B,Carriage Positive,33[E+T+],33A/B/C/D/F,"502,500"
+NAS0834,PLHIV ART >1y,Week 14,CUT13H,Carriage Positive,NVT,NVT,101
+NAS0909,PLHIV ART <3m,Week 14,CUT13P,Carriage Positive,NVT[F+],NVT[F+],"1,005"
+NAS0917,HIV-,Week 14,CUT13R,Carriage Positive,NVT[G+],NVT[G+],"1,172,500"
+NAS0933,PLHIV ART >1y,Week 14,CUT11Q,Carriage Positive,NVT[I+],NVT[I+],"41,875"
+NAS0958,HIV-,Week 14,CUT11R,Carriage Positive,3[B+R+],3,"435,500"
+NAS0966,PLHIV ART <3m,Week 14,CUT13U,Carriage Positive,14[H+P+],14,101
+NAS0990,PLHIV ART >1y,Week 14,CUT13X,Carriage Positive,NVT,NVT,"7,370"
+NAS0792,HIV-,Week 14,CUT15Z,Carriage Positive,NVT[H+],NVT[H+],"72,025"
+NAS0784,PLHIV ART <3m,Week 14,CUT161,Carriage Positive,NVT,NVT,"65,325"
+NAS1055,HIV-,Week 14,CUT165,Carriage Positive,11[D+T+],11A/B/C/D/F,"586,250"
+NAS1170,PLHIV ART >1y,Week 14,CUT16F,Carriage Positive,6A[B+Q+](b+c-d-),6A,"653,250"
+NAS1196,PLHIV ART >1y,Week 14,CUT13Z,Carriage Positive,23[H+Q+](b-),23A/B,"1,005"
+NAS1329,PLHIV ART <3m,Week 14,CUT16J,Carriage Positive,17[F+S+],17A/F,"3,350"
+NAS1337,PLHIV ART <3m,Week 14,CUT142,Carriage Positive,15[H+S+],15A/B/C/F,"6,700"
+NAS1352,PLHIV ART <3m,Week 14,CUT144,Carriage Positive,19A[B+P+](b+c-),19A,"385,000"
+NAS1485,HIV-,Week 14,CUT12L,Carriage Positive,NVT,NVT,235
+NAS1493,PLHIV ART >1y,Week 14,CUT12M,Carriage Positive,7[C+P+](b-),7A/B/C,"20,100"
+NAS1238,PLHIV ART <3m,Week 14,CUT12S,Carriage Positive,17[F+S+],17A/F,"100,500"
+NAS1204,PLHIV ART <3m,Week 14,CUT12K,Carriage Positive,7[C+P+](b-),7A/B/C,"30,150"
+NAS1253,PLHIV ART >1y,Week 14,CUT12V,Carriage Positive,3[B+R+],3,"6,533"
+NAS1451,PLHIV ART >1y,Week 14,CUT12T,Carriage Positive,11[D+T+],11A/B/C/D/F,134
+NAS1444,PLHIV ART >1y,Week 14,CUT12W,Carriage Positive,NVT[G+],NVT[G+],"167,500"
+NAS1519,PLHIV ART >1y,Week 14,CUT146,Carriage Positive,15[H+S+],15A/B/C/F,"51,925"
+NAS1527,PLHIV ART >1y,Week 14,CUT14M,Carriage Positive,NVT[D+],NVT[D+],"6,700"
+NAS1550,HIV-,Week 14,CUT14Q,Carriage Positive,9[D+R+](g-),9A/L/N,"26,800"
+NAS1717,PLHIV ART <3m,Week 14,CUT14G,Carriage Positive,NVT,NVT,101
+NAS1741,PLHIV ART <3m,Week 14,CUT14C,Carriage Positive,15[H+S+],15A/B/C/F,"3,350,000"
+NAS1808,PLHIV ART <3m,Week 14,CUT14A,Carriage Positive,NVT[G+],NVT[G+],"3,685,000"
+NAS1766,PLHIV ART <3m,Week 14,CUT149,Carriage Positive,NVT[G+],NVT[G+],670
+NAS1840,PLHIV ART <3m,Week 14,CUT12B,Carriage Positive,9V[D+R+](g+),9V,"6,700"
+NAS1865,HIV-,Week 14,CUT12A,Carriage Positive,20[C+T+],20,"3,350,000"
+NAS1907,PLHIV ART <3m,Week 14,CUT126,Carriage Positive,4[A+R+],4,"1,675"
+NAS1964,PLHIV ART >1y,Week 14,CUT15U,Carriage Positive,NVT,NVT,"1,005"
+NAS1998,PLHIV ART >1y,Week 14,CUT15S,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"1,340"
+NAS2004,PLHIV ART <3m,Week 14,CUT15R,Carriage Positive,11[D+T+],11A/B/C/D/F,"167,500"
+NAS0024,PLHIV ART >1y,Week 15,CUU100,Carriage Positive,NVT[H+],NVT[H+],"30,150"
+NAS0040,HIV-,Week 15,CUU10L,Carriage Positive,NVT[H+],NVT[H+],"1,340"
+NAS0073,PLHIV ART >1y,Week 15,CUU10R,Carriage Positive,12[E+R+],12A/B/F,"46,900"
+NAS0107,PLHIV ART <3m,Week 15,CUU10T,Carriage Positive,15[H+S+],15A/B/C/F,"11,557,500"
+NAS0164,HIV-,Week 15,CUU101,Carriage Positive,7[C+P+](b-),7A/B/C,335
+NAS0115,PLHIV ART >1y,Week 15,CUU10U,Carriage Positive,NVT,NVT,"90,450"
+NAS0230,PLHIV ART >1y,Week 15,CUU102,Carriage Positive,NVT,NVT,335
+NAS0271,PLHIV ART >1y,Week 15,CUU110,Carriage Positive,NVT,NVT,101
+NAS0370,HIV-,Week 15,CUU10B,Carriage Positive,NVT,NVT,503
+NAS0412,PLHIV ART <3m,Week 15,CUU10I,Carriage Positive,20[C+T+],20,"100,500"
+NAS0479,PLHIV ART >1y,Week 15,CUU118,Carriage Positive,7[C+P+](b-),7A/B/C,"23,785"
+NAS0503,PLHIV ART <3m,Week 15,CUU11F,Carriage Positive,19F[B+P+](b+c-),19F,"351,750"
+NAS0511,PLHIV ART >1y,Week 15,CUU11C,Carriage Positive,12[E+R+],12A/B/F,"38,525"
+NAS0545,HIV-,Week 15,CUU11E,Carriage Positive,19F[B+P+](b+c-),19F,134
+NAS0560,HIV-,Week 15,CUU11J,Carriage Positive,19A[B+P+](b-c+),19A,"45,225"
+NAS0578,PLHIV ART >1y,Week 15,CUU11P,Carriage Positive,15[H+S+],15A/B/C/F,168
+NAS0628,HIV-,Week 15,CUU11Q,Carriage Positive,NVT[H+],NVT[H+],302
+NAS0636,PLHIV ART <3m,Week 15,CUU11R,Carriage Positive,NVT[G+],NVT[G+],"4,187,500"
+NAS0644,PLHIV ART <3m,Week 15,CUU12Z,Carriage Positive,NVT[G+],NVT[G+],"2,848"
+NAS0859,HIV-,Week 15,CUU13F,Carriage Positive,NVT,NVT,"284,750"
+NAS0842,PLHIV ART <3m,Week 15,CUU13I,Carriage Positive,NVT,NVT,"435,500"
+NAS0883,PLHIV ART <3m,Week 15,CUU13J,Carriage Positive,18C[A+Q+](c+f-),18C,"3,015"
+NAS0909,PLHIV ART <3m,Week 15,CUU13L,Carriage Positive,33[E+T+],33A/B/C/D/F,"1,340"
+NAS0917,HIV-,Week 15,CUU13N,Carriage Positive,NVT[G+],NVT[G+],"20,100"
+NAS0933,PLHIV ART >1y,Week 15,CUU13Q,Carriage Positive,NVT[I+],NVT[I+],"5,695,000"
+NAS0818,HIV-,Week 15,CUU13R,Carriage Positive,15[H+S+],15A/B/C/F,"45,225"
+NAS0958,HIV-,Week 15,CUU13P,Carriage Positive,3[B+R+],3,"67,000"
+NAS0990,PLHIV ART >1y,Week 15,CUU13W,Carriage Positive,NVT,NVT,34
+NAS0792,HIV-,Week 15,CUU14S,Carriage Positive,NVT[H+],NVT[H+],"30,150"
+NAS0784,PLHIV ART <3m,Week 15,CUU14U,Carriage Positive,NVT,NVT,"1,001"
+NAS1055,HIV-,Week 15,CUU14W,Carriage Positive,11[D+T+],11A/B/C/D/F,67
+NAS1071,PLHIV ART <3m,Week 15,CUU141,Carriage Positive,19F[B+P+](b+c-) and NVT[H+],19F and NVT[H+],"78,725"
+NAS1113,HIV-,Week 15,CUU143,Carriage Positive,3[B+R+],3,"5,360"
+NAS1121,PLHIV ART <3m,Week 15,CUU144,Carriage Positive,7[C+P+](b-),7A/B/C,"1,675"
+NAS1147,PLHIV ART <3m,Week 15,CUU14Z,Carriage Positive,11[D+T+],11A/B/C/D/F,"1,340,000"
+NAS1170,PLHIV ART >1y,Week 15,CUU151,Carriage Positive,6A[B+Q+](b+c-d-),6A,67
+NAS1196,PLHIV ART >1y,Week 15,CUU152,Carriage Positive,23[H+Q+](b-),23A/B,335
+NAS1261,PLHIV ART >1y,Week 15,CUU153,Carriage Positive,NVT,NVT,"2,345"
+NAS1337,PLHIV ART <3m,Week 15,CUU158,Carriage Positive,15[H+S+],15A/B/C/F,335
+NAS1345,PLHIV ART <3m,Week 15,CUU157,Carriage Positive,15[H+S+],15A/B/C/F,"670,000"
+NAS1352,PLHIV ART <3m,Week 15,CUU15B,Carriage Positive,NVT[C+],NVT[C+],"2,345"
+NAS1428,PLHIV ART >1y,Week 15,CUU14B,Carriage Positive,NVT,NVT,469
+NAS1485,HIV-,Week 15,CUU14P,Carriage Positive,NVT,NVT,302
+NAS1493,PLHIV ART >1y,Week 15,CUU14Q,Carriage Positive,7[C+P+](b-),7A/B/C,67
+NAS1238,PLHIV ART <3m,Week 15,CUU14K,Carriage Positive,17[F+S+],17A/F,"1,340,000"
+NAS1204,PLHIV ART <3m,Week 15,CUU14R,Carriage Positive,NVT[C+],NVT[C+],34
+NAS1253,PLHIV ART >1y,Week 15,CUU14J,Carriage Positive,3[B+R+],3,"4,355"
+NAS1519,PLHIV ART >1y,Week 15,CUU15D,Carriage Positive,15[H+S+],15A/B/C/F,"50,250"
+NAS1527,PLHIV ART >1y,Week 15,CUU15U,Carriage Positive,NVT[D+],NVT[D+],"20,100,000"
+NAS1592,PLHIV ART >1y,Week 15,CUU12C,Carriage Positive,3[B+R+],3,670
+NAS1642,PLHIV ART <3m,Week 15,CUU15S,Carriage Positive,19A[B+P+](b-c+),19A,"1,675"
+NAS1691,PLHIV ART >1y,Week 15,CUU15N,Carriage Positive,NVT,NVT,"234,500"
+NAS1741,PLHIV ART <3m,Week 15,CUU12B,Carriage Positive,15[H+S+],15A/B/C/F,"402,000"
+NAS1808,PLHIV ART <3m,Week 15,CUU15L,Carriage Positive,NVT[G+],NVT[G+],"40,200"
+NAS1766,PLHIV ART <3m,Week 15,CUU15J,Carriage Positive,NVT[G+],NVT[G+],402
+NAS1865,HIV-,Week 15,CUU16G,Carriage Positive,22[F+T+],22A/F,"58,625"
+NAS1907,PLHIV ART <3m,Week 15,CUU16F,Carriage Positive,4[A+R+],4,"13,400"
+NAS1931,PLHIV ART <3m,Week 15,CUU16A,Carriage Positive,20[C+T+],20,670
+NAS1964,PLHIV ART >1y,Week 15,CUU169,Carriage Positive,7[C+P+](b-),7A/B/C,"1,340,000"
+NAS1980,PLHIV ART <3m,Week 15,CUU168,Carriage Positive,10[E+S+],10A/B/C/F,"26,800"
+NAS1998,PLHIV ART >1y,Week 15,CUU167,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,67
+NAS2004,PLHIV ART <3m,Week 15,CUU166,Carriage Positive,11[D+T+],11A/B/C/D/F,"134,000"
+NAS0016,PLHIV ART >1y,Week 16,CUV10K,Carriage Positive,NVT[G+],NVT[G+],"56,950"
+NAS0024,PLHIV ART >1y,Week 16,CUV10L,Carriage Positive,NVT,NVT,"10,552,500"
+NAS0040,HIV-,Week 16,CUV10P,Carriage Positive,NVT,NVT,"85,425"
+NAS0073,PLHIV ART >1y,Week 16,CUV10R,Carriage Positive,NVT,NVT,67
+NAS0107,PLHIV ART <3m,Week 16,CUV10V,Carriage Positive,6C[B+Q+](b-c-d+),6C,"144,050,000"
+NAS0164,HIV-,Week 16,CUV10U,Carriage Positive,7[C+P+](b-),7A/B/C,"2,848"
+NAS0115,PLHIV ART >1y,Week 16,CUV10W,Carriage Positive,NVT[H+],NVT[H+],101
+NAS0172,HIV-,Week 16,CUV112,Carriage Positive,NVT[D+],NVT[D+],"1,005"
+NAS0370,HIV-,Week 16,CUV108,Carriage Positive,NVT,NVT,"3,350"
+NAS0404,PLHIV ART <3m,Week 16,CUV118,Carriage Positive,NVT[G+],NVT[G+],"15,075"
+NAS0479,PLHIV ART >1y,Week 16,CUV117,Carriage Positive,7[C+P+](b-),7A/B/C,"12,898"
+NAS0503,PLHIV ART <3m,Week 16,CUV11D,Carriage Positive,19F[B+P+](b+c-),19F,"56,950"
+NAS0545,HIV-,Week 16,CUV11B,Carriage Positive,19F[B+P+](b+c-),19F,"53,600"
+NAS0560,HIV-,Week 16,CUV11I,Carriage Positive,19[B+P+](b-c-),19B/C,"108,875"
+NAS0602,PLHIV ART <3m,Week 16,CUV11H,Carriage Positive,NVT[G+],NVT[G+],"1,340,000"
+NAS0578,PLHIV ART >1y,Week 16,CUV11N,Carriage Positive,15[H+S+],15A/B/C/F,"1,675"
+NAS0644,PLHIV ART <3m,Week 16,CUV11R,Carriage Positive,NVT[G+],NVT[G+],"737,000"
+NAS0669,PLHIV ART >1y,Week 16,CUV130,Carriage Positive,NVT[G+],NVT[G+],"13,400"
+NAS0883,PLHIV ART <3m,Week 16,CUV13I,Carriage Positive,18C[A+Q+](c+f-),18C,"30,150"
+NAS0917,HIV-,Week 16,CUV13K,Carriage Positive,NVT[G+],NVT[G+],"201,000"
+NAS0933,PLHIV ART >1y,Week 16,CUV13M,Carriage Positive,NVT[I+],NVT[I+],"536,000"
+NAS0818,HIV-,Week 16,CUV13N,Carriage Positive,15[H+S+],15A/B/C/F,670
+NAS0958,HIV-,Week 16,CUV13P,Carriage Positive,3[B+R+],3,"87,100"
+NAS0974,PLHIV ART >1y,Week 16,CUV13T,Carriage Positive,17[F+S+],17A/F,670
+NAS0990,PLHIV ART >1y,Week 16,CUV13V,Carriage Positive,10[E+S+],10A/B/C/F,"234,500"
+NAS0800,HIV-,Week 16,CUV13X,Carriage Positive,10[E+S+],10A/B/C/F,"234,500"
+NAS1014,PLHIV ART <3m,Week 16,CUV140,Carriage Positive,6C[B+Q+](b-c-d+),6C,"3,350,000"
+NAS1030,HIV-,Week 16,CUV142,Carriage Positive,NVT[G+],NVT[G+],"301,500"
+NAS1055,HIV-,Week 16,CUV144,Carriage Positive,3[B+R+],3,"33,500"
+NAS1121,PLHIV ART <3m,Week 16,CUV15I,Carriage Positive,7[C+P+](b-),7A/B/C,"2,680"
+NAS1147,PLHIV ART <3m,Week 16,CUV15L,Carriage Positive,11[D+T+],11A/B/C/D/F,"3,182,500"
+NAS1170,PLHIV ART >1y,Week 16,CUV15K,Carriage Positive,6A[B+Q+](b+c-d-),6A,"16,750"
+NAS1261,PLHIV ART >1y,Week 16,CUV15N,Carriage Positive,7[C+P+](b-),7A/B/C,34
+NAS1345,PLHIV ART <3m,Week 16,CUV15S,Carriage Positive,15[H+S+],15A/B/C/F,"3,015"
+NAS1352,PLHIV ART <3m,Week 16,CUV15V,Carriage Positive,NVT[C+],NVT[C+],"33,500"
+NAS1485,HIV-,Week 16,CUV14M,Carriage Positive,15[H+S+],15A/B/C/F,"3,015"
+NAS1238,PLHIV ART <3m,Week 16,CUV14G,Carriage Positive,17[F+S+],17A/F,"6,700"
+NAS1451,PLHIV ART >1y,Week 16,CUV14F,Carriage Positive,11[D+T+],11A/B/C/D/F,"335,000"
+NAS1444,PLHIV ART >1y,Week 16,CUV12B,Carriage Positive,NVT[G+],NVT[G+],34
+NAS1519,PLHIV ART >1y,Week 16,CUV14B,Carriage Positive,15[H+S+],15A/B/C/F,"3,350,000"
+NAS1527,PLHIV ART >1y,Week 16,CUV14D,Carriage Positive,NVT[D+],NVT[D+],"35,175"
+NAS1550,HIV-,Week 16,CUV14E,Carriage Positive,9[D+R+](g-),9A/L/N,"670,000"
+NAS1592,PLHIV ART >1y,Week 16,CUV12A,Carriage Positive,3[B+R+],3,"13,400"
+NAS1642,PLHIV ART <3m,Week 16,CUV12E,Carriage Positive,19A[B+P+](b-c+),19A,"13,400,000"
+NAS1717,PLHIV ART <3m,Week 16,CUV12Y,Carriage Positive,NVT,NVT,335
+NAS1733,HIV-,Week 16,CUV128,Carriage Positive,19F[B+P+](b+c-),19F,"670,000"
+NAS1741,PLHIV ART <3m,Week 16,CUV127,Carriage Positive,15[H+S+],15A/B/C/F,"167,500"
+NAS1808,PLHIV ART <3m,Week 16,CUV12W,Carriage Positive,NVT[G+],NVT[G+],"1,340"
+NAS1766,PLHIV ART <3m,Week 16,CUV126,Carriage Positive,NVT[G+],NVT[G+],"6,700"
+NAS1865,HIV-,Week 16,CUV12Q,Carriage Positive,22[F+T+],22A/F,"3,518"
+NAS1907,PLHIV ART <3m,Week 16,CUV12K,Carriage Positive,4[A+R+],4,"33,500"
+NAS1931,PLHIV ART <3m,Week 16,CUV15B,Carriage Positive,7[C+P+](b-),7A/B/C,"1,675"
+NAS1964,PLHIV ART >1y,Week 16,CUV15A,Carriage Positive,7[C+P+](b-),7A/B/C,"1,005"
+NAS1980,PLHIV ART <3m,Week 16,CUV159,Carriage Positive,10[E+S+],10A/B/C/F,"3,852"
+NAS1972,PLHIV ART <3m,Week 16,CUV157,Carriage Positive,20[C+T+],20,"41,850"
+NAS1998,PLHIV ART >1y,Week 16,CUV158,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"201,000"
+NAS2012,PLHIV ART <3m,Week 16,CUV155,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"7,035"
+NAS0024,PLHIV ART >1y,Week 17,CUW10L,Carriage Positive,NVT[G+],NVT[G+],"139,025"
+NAS0040,HIV-,Week 17,CUW10M,Carriage Positive,23F[H+Q+](b+),23F,"552,750"
+NAS0107,PLHIV ART <3m,Week 17,CUW10U,Carriage Positive,6C[B+Q+](b-c-d+),6C,"160,800,000"
+NAS0115,PLHIV ART >1y,Week 17,CUW101,Carriage Positive,NVT,NVT,"88,775"
+NAS0370,HIV-,Week 17,CUW10I,Carriage Positive,NVT,NVT,"117,250"
+NAS0396,PLHIV ART <3m,Week 17,CUW111,Carriage Positive,NVT[H+],NVT[H+],"105,525"
+NAS0412,PLHIV ART <3m,Week 17,CUW115,Carriage Positive,20[C+T+],20,"92,125"
+NAS0503,PLHIV ART <3m,Week 17,CUW137,Carriage Positive,19F[B+P+](b+c-),19F,"301,500"
+NAS0511,PLHIV ART >1y,Week 17,CUW135,Carriage Positive,NVT,NVT,721
+NAS0545,HIV-,Week 17,CUW136,Carriage Positive,19F[B+P+](b+c-),19F,201
+NAS0602,PLHIV ART <3m,Week 17,CUW13A,Carriage Positive,NVT[G+],NVT[G+],"854,250"
+NAS0578,PLHIV ART >1y,Week 17,CUW118,Carriage Positive,15[H+S+],15A/B/C/F,"301,500"
+NAS0768,PLHIV ART <3m,Week 17,CUW11J,Carriage Positive,1[A+P+],1,268
+NAS0842,PLHIV ART <3m,Week 17,CUW11P,Carriage Positive,NVT,NVT,"13,735"
+NAS0933,PLHIV ART >1y,Week 17,CUW11V,Carriage Positive,NVT[I+],NVT[I+],637
+NAS0818,HIV-,Week 17,CUW11X,Carriage Positive,15[H+S+],15A/B/C/F,"569,502"
+NAS0982,PLHIV ART <3m,Week 17,CUW121,Carriage Positive,NVT,NVT,"1,005"
+NAS0990,PLHIV ART >1y,Week 17,CUW122,Carriage Positive,NVT,NVT,34
+NAS0792,HIV-,Week 17,CUW123,Carriage Positive,NVT[H+],NVT[H+],"1,005"
+NAS0800,HIV-,Week 17,CUW124,Carriage Positive,NVT,NVT,34
+NAS1014,PLHIV ART <3m,Week 17,CUW127,Carriage Positive,6C[B+Q+](b-c-d+),6C,"619,750"
+NAS1121,PLHIV ART <3m,Week 17,CUW164,Carriage Positive,7[C+P+](b-),7A/B/C,"2,345"
+NAS1147,PLHIV ART <3m,Week 17,CUW167,Carriage Positive,11[D+T+],11A/B/C/D/F,"1,005,000"
+NAS1170,PLHIV ART >1y,Week 17,CUW168,Carriage Positive,6A[B+Q+](b+c-d-),6A,"1,340"
+NAS1329,PLHIV ART <3m,Week 17,CUW16D,Carriage Positive,17[F+S+],17A/F,"2,345"
+NAS1345,PLHIV ART <3m,Week 17,CUW16E,Carriage Positive,15[H+S+],15A/B/C/F,"318,250"
+NAS1436,PLHIV ART >1y,Week 17,CUW12W,Carriage Positive,23[H+Q+](b-),23A/B,"1,340,000"
+NAS1493,PLHIV ART >1y,Week 17,CUW13N,Carriage Positive,7[C+P+](b-),7A/B/C,"20,100"
+NAS1238,PLHIV ART <3m,Week 17,CUW13Z,Carriage Positive,17[F+S+],17A/F,"368,500"
+NAS1204,PLHIV ART <3m,Week 17,CUW141,Carriage Positive,NVT[C+],NVT[C+],34
+NAS1519,PLHIV ART >1y,Week 17,CUW13V,Carriage Positive,15[H+S+],15A/B/C/F,"670,000"
+NAS1527,PLHIV ART >1y,Week 17,CUW13R,Carriage Positive,NVT[D+],NVT[D+],34
+NAS1550,HIV-,Week 17,CUW14P,Carriage Positive,9[D+R+](g-),9A/L/N,670
+NAS1642,PLHIV ART <3m,Week 17,CUW14L,Carriage Positive,NVT,NVT,"5,025,000"
+NAS1683,PLHIV ART >1y,Week 17,CUW14Q,Carriage Positive,NVT[D+],NVT[D+],67
+NAS1691,PLHIV ART >1y,Week 17,CUW14I,Carriage Positive,NVT,NVT,"36,850"
+NAS1741,PLHIV ART <3m,Week 17,CUW14E,Carriage Positive,15[H+S+],15A/B/C/F,"670,000"
+NAS1808,PLHIV ART <3m,Week 17,CUW14D,Carriage Positive,NVT[G+],NVT[G+],"6,700"
+NAS1865,HIV-,Week 17,CUW146,Carriage Positive,22[F+T+],22A/F,168
+NAS1907,PLHIV ART <3m,Week 17,CUW15B,Carriage Positive,4[A+R+],4,"30,150"
+NAS1758,HIV-,Week 17,CUW15A,Carriage Positive,NVT,NVT,"1,340"
+NAS1931,PLHIV ART <3m,Week 17,CUW157,Carriage Positive,20[C+T+],20,670
+NAS1782,PLHIV ART <3m,Week 17,CUW158,Carriage Positive,NVT,NVT,67
+NAS1980,PLHIV ART <3m,Week 17,CUW154,Carriage Positive,10[E+S+],10A/B/C/F,"1,005,000"
+NAS1972,PLHIV ART <3m,Week 17,CUW152,Carriage Positive,20[C+T+],20,"3,685,000"
+NAS2004,PLHIV ART <3m,Week 17,CUW153,Carriage Positive,11[D+T+],11A/B/C/D/F,34
+NAS0024,PLHIV ART >1y,Week 8,CUM101,Carriage Positive,NVT[G+],NVT[G+],"90,450"
+NAS0040,HIV-,Week 8,CUM103,Carriage Positive,23F[H+Q+](b+),23F,"5,862,500"
+NAS0107,PLHIV ART <3m,Week 8,CUM10A,Carriage Positive,NVT,NVT,"1,005,000"
+NAS0198,HIV-,Week 8,CUM10H,Carriage Positive,NVT,NVT,101
+NAS0255,PLHIV ART <3m,Week 8,CUM10I,Carriage Positive,12[E+R+],12A/B/F,"53,600"
+NAS0180,PLHIV ART <3m,Week 8,CUM10M,Carriage Positive,NVT,NVT,"5,025"
+NAS0263,PLHIV ART >1y,Week 8,CUM10N,Carriage Positive,NVT[G+],NVT[G+],"23,450,000"
+NAS0412,PLHIV ART <3m,Week 8,CUM112,Carriage Positive,NVT[C+],NVT[C+],"60,300"
+NAS0479,PLHIV ART >1y,Week 8,CUM11T,Carriage Positive,7[C+P+](b-),7A/B/C,"70,350"
+NAS0594,PLHIV ART >1y,Week 8,CUM11G,Carriage Positive,15[H+S+],15A/B/C/F,168
+NAS0578,PLHIV ART >1y,Week 8,CUM11J,Carriage Positive,15[H+S+],15A/B/C/F,335
+NAS0677,HIV-,Week 8,CUM11S,Carriage Positive,11[D+T+],11A/B/C/D/F,"6,700"
+NAS0701,PLHIV ART <3m,Week 8,CUM11Q,Carriage Positive,NVT[H+],NVT[H+],"636,500"
+NAS0727,PLHIV ART >1y,Week 8,CUM120,Carriage Positive,NVT,NVT,"169,175"
+NAS0834,PLHIV ART >1y,Week 8,CUM124,Carriage Positive,19F[B+P+](b+c-),19F,670
+NAS0909,PLHIV ART <3m,Week 8,CUM12B,Carriage Positive,NVT,NVT,"6,700"
+NAS0917,HIV-,Week 8,CUM12C,Carriage Positive,NVT[G+],NVT[G+],"469,000"
+NAS0933,PLHIV ART >1y,Week 8,CUM12G,Carriage Positive,NVT[I+],NVT[I+],"11,558"
+NAS0958,HIV-,Week 8,CUM12E,Carriage Positive,3[B+R+],3,"11,055"
+NAS0974,PLHIV ART >1y,Week 8,CUM12J,Carriage Positive,17[F+S+],17A/F,"28,475"
+NAS0982,PLHIV ART <3m,Week 8,CUM12K,Carriage Positive,9[D+R+](g-),9A/L/N,67
+NAS0990,PLHIV ART >1y,Week 8,CUM12L,Carriage Positive,10[E+S+],10A/B/C/F,"4,188"
+NAS0792,HIV-,Week 8,CUM12M,Carriage Positive,19F[B+P+](b+c-),19F,"10,050"
+NAS1006,PLHIV ART >1y,Week 8,CUM12P,Carriage Positive,19[B+P+](b-c-),19B/C,"368,500"
+NAS0784,PLHIV ART <3m,Week 8,CUM12Q,Carriage Positive,10[E+S+],10A/B/C/F,"2,010"
+NAS1048,PLHIV ART >1y,Week 8,CUM12U,Carriage Positive,23[H+Q+](b-),23A/B,268
+NAS1071,PLHIV ART <3m,Week 8,CUM12Y,Carriage Positive,19F[B+P+](b+c-),19F,"2,010"
+NAS1089,HIV-,Week 8,CUM12Z,Carriage Positive,NVT,NVT,302
+NAS1147,PLHIV ART <3m,Week 8,CUM14C,Carriage Positive,11[D+T+],11A/B/C/D/F,"1,340,000"
+NAS1162,HIV-,Week 8,CUM14B,Carriage Positive,NVT,NVT,67
+NAS1170,PLHIV ART >1y,Week 8,CUM14F,Carriage Positive,6A[B+Q+](b+c-d-),6A,"19,263"
+NAS1196,PLHIV ART >1y,Week 8,CUM14G,Carriage Positive,23[H+Q+](b-),23A/B,"686,750"
+NAS1261,PLHIV ART >1y,Week 8,CUM14I,Carriage Positive,11[D+T+],11A/B/C/D/F,"20,100"
+NAS1337,PLHIV ART <3m,Week 8,CUM14M,Carriage Positive,NVT,NVT,335
+NAS1345,PLHIV ART <3m,Week 8,CUM14N,Carriage Positive,23[H+Q+](b-),23A/B,"33,500"
+NAS1493,PLHIV ART >1y,Week 8,CUM151,Carriage Positive,7[C+P+](b-),7A/B/C,"201,000"
+NAS1238,PLHIV ART <3m,Week 8,CUM13P,Carriage Positive,17[F+S+],17A/F,"351,500"
+NAS1204,PLHIV ART <3m,Week 8,CUM14Y,Carriage Positive,NVT,NVT,"10,050"
+NAS1212,PLHIV ART <3m,Week 8,CUM13M,Carriage Positive,20[C+T+],20,"201,000"
+NAS1253,PLHIV ART >1y,Week 8,CUM13R,Carriage Positive,3[B+R+],3,"569,500"
+NAS1527,PLHIV ART >1y,Week 8,CUM13W,Carriage Positive,23[H+Q+](b-),23A/B,"30,150"
+NAS1592,PLHIV ART >1y,Week 8,CUM142,Carriage Positive,3[B+R+],3,"3,685"
+NAS1642,PLHIV ART <3m,Week 8,CUM144,Carriage Positive,19A[B+P+](b-c+),19A,"418,750"
+NAS1675,HIV-,Week 8,CUM146,Carriage Positive,11[D+T+],11A/B/C/D/F,"30,150"
+NAS1659,HIV-,Week 8,CUM15P,Carriage Positive,NVT,NVT,536
+NAS1683,PLHIV ART >1y,Week 8,CUM15N,Carriage Positive,NVT[D+],NVT[D+],"100,500"
+NAS1816,HIV-,Week 8,CUM15Z,Carriage Positive,8[B+S+],8,"6,700"
+NAS1873,PLHIV ART <3m,Week 8,CUM164,Carriage Positive,23[H+Q+](b-),23A/B,"30,150"
+NAS1964,PLHIV ART >1y,Week 8,CUM13J,Carriage Positive,7[C+P+](b-),7A/B/C,"67,000"
+NAS1972,PLHIV ART <3m,Week 8,CUM13H,Carriage Positive,15[H+S+],15A/B/C/F,"13,400"
+NAS1998,PLHIV ART >1y,Week 8,CUM132,Carriage Positive,8[B+S+],8,"38,525"
+NAS2004,PLHIV ART <3m,Week 8,CUM13G,Carriage Positive,NVT,NVT,"40,200"
+NAS0024,PLHIV ART >1y,Week 9,CUN101,Carriage Positive,NVT[G+],NVT[G+],"201,000"
+NAS0040,HIV-,Week 9,CUN103,Carriage Positive,23F[H+Q+](b+),23F,"7,370"
+NAS0107,PLHIV ART <3m,Week 9,CUN10A,Carriage Positive,6C[B+Q+](b-c-d+),6C,"7,705,000"
+NAS0115,PLHIV ART >1y,Week 9,CUN10C,Carriage Positive,3[B+R+],3,"65,325"
+NAS0222,PLHIV ART <3m,Week 9,CUN10G,Carriage Positive,NVT[C+],NVT[C+],"23,450,000"
+NAS0172,HIV-,Week 9,CUN10K,Carriage Positive,NVT[D+],NVT[D+],"70,350"
+NAS0255,PLHIV ART <3m,Week 9,CUN10L,Carriage Positive,12[E+R+],12A/B/F,"4,522,500"
+NAS0180,PLHIV ART <3m,Week 9,CUN10N,Carriage Positive,6C[B+Q+](b-c-d+),6C,"636,500"
+NAS0263,PLHIV ART >1y,Week 9,CUN10I,Carriage Positive,NVT[G+],NVT[G+],"4,020"
+NAS0271,PLHIV ART >1y,Week 9,CUN10P,Carriage Positive,NVT,NVT,"1,340,000"
+NAS0412,PLHIV ART <3m,Week 9,CUN111,Carriage Positive,NVT[C+],NVT[C+],"77,050,000"
+NAS0438,HIV-,Week 9,CUN115,Carriage Positive,NVT,NVT,168
+NAS0479,PLHIV ART >1y,Week 9,CUN116,Carriage Positive,7[C+P+](b-),7A/B/C,"10,553"
+NAS0321,HIV-,Week 9,CUN11V,Carriage Positive,11[D+T+],11A/B/C/D/F,"3,350"
+NAS0511,PLHIV ART >1y,Week 9,CUN11X,Carriage Positive,12[E+R+],12A/B/F,"5,025,000"
+NAS0578,PLHIV ART >1y,Week 9,CUN129,Carriage Positive,15[H+S+],15A/B/C/F,503
+NAS0644,PLHIV ART <3m,Week 9,CUN12F,Carriage Positive,NVT,NVT,"26,800"
+NAS0610,HIV-,Week 9,CUN12A,Carriage Positive,NVT,NVT,34
+NAS0677,HIV-,Week 9,CUN12K,Carriage Positive,NVT,NVT,"3,350"
+NAS0735,PLHIV ART >1y,Week 9,CUN12N,Carriage Positive,19F[B+P+](b+c-),19F,101
+NAS0727,PLHIV ART >1y,Week 9,CUN12P,Carriage Positive,33[E+T+],33A/B/C/D/F,"100,500"
+NAS0859,HIV-,Week 9,CUN12Y,Carriage Positive,NVT[G+],NVT[G+],319
+NAS0842,PLHIV ART <3m,Week 9,CUN12Z,Carriage Positive,NVT[I+],NVT[I+],"110,550"
+NAS0917,HIV-,Week 9,CUN133,Carriage Positive,NVT[G+],NVT[G+],"36,850"
+NAS0966,PLHIV ART <3m,Week 9,CUN13P,Carriage Positive,23[H+Q+](b-),23A/B,34
+NAS0974,PLHIV ART >1y,Week 9,CUN13Q,Carriage Positive,17[F+S+],17A/F,"1,005"
+NAS0990,PLHIV ART >1y,Week 9,CUN135,Carriage Positive,10[E+S+],10A/B/C/F,"2,010"
+NAS1030,HIV-,Week 9,CUN13D,Carriage Positive,NVT[C+],NVT[C+],"123,950"
+NAS1022,PLHIV ART >1y,Week 9,CUN13B,Carriage Positive,17[F+S+],17A/F,"1,005"
+NAS1121,PLHIV ART <3m,Week 9,CUN13J,Carriage Positive,7[C+P+](b-),7A/B/C,"13,400"
+NAS1147,PLHIV ART <3m,Week 9,CUN15N,Carriage Positive,11[D+T+],11A/B/C/D/F,"3,183"
+NAS1162,HIV-,Week 9,CUN13U,Carriage Positive,NVT,NVT,"35,175"
+NAS1170,PLHIV ART >1y,Week 9,CUN15P,Carriage Positive,6A[B+Q+](b+c-d-),6A,"3,350"
+NAS1196,PLHIV ART >1y,Week 9,CUN13X,Carriage Positive,23[H+Q+](b-),23A/B,335
+NAS1279,HIV-,Week 9,CUN13Z,Carriage Positive,NVT,NVT,318
+NAS1261,PLHIV ART >1y,Week 9,CUN13K,Carriage Positive,11[D+T+],11A/B/C/D/F,838
+NAS1345,PLHIV ART <3m,Week 9,CUN141,Carriage Positive,23[H+Q+](b-),23A/B,"1,005,000"
+NAS1352,PLHIV ART <3m,Week 9,CUN143,Carriage Positive,NVT[G+],NVT[G+],670
+NAS1493,PLHIV ART >1y,Week 9,CUN15Z,Carriage Positive,7[C+P+](b-),7A/B/C,"6,198"
+NAS1238,PLHIV ART <3m,Week 9,CUN149,Carriage Positive,17[F+S+],17A/F,"2,562,500"
+NAS1212,PLHIV ART <3m,Week 9,CUN148,Carriage Positive,20[C+T+],20,"1,675"
+NAS1451,PLHIV ART >1y,Week 9,CUN14A,Carriage Positive,11[D+T+],11A/B/C/D/F,"10,050"
+NAS1444,PLHIV ART >1y,Week 9,CUN164,Carriage Positive,NVT[G+],NVT[G+],302
+NAS1527,PLHIV ART >1y,Week 9,CUN166,Carriage Positive,23[H+Q+](b-),23A/B,335
+NAS1592,PLHIV ART >1y,Week 9,CUN117,Carriage Positive,3[B+R+],3,"2,680"
+NAS1642,PLHIV ART <3m,Week 9,CUN14F,Carriage Positive,19A[B+P+](b-c+),19A,"201,000"
+NAS1683,PLHIV ART >1y,Week 9,CUN11B,Carriage Positive,NVT[D+],NVT[D+],67
+NAS1808,PLHIV ART <3m,Week 9,CUN11I,Carriage Positive,NVT[G+],NVT[G+],"201,000"
+NAS1816,HIV-,Week 9,CUN11N,Carriage Positive,8[B+S+],8,"234,000"
+NAS1840,PLHIV ART <3m,Week 9,CUN11S,Carriage Positive,NVT,NVT,"53,600"
+NAS1865,HIV-,Week 9,CUN11P,Carriage Positive,22[F+T+],22A/F,"2,680"
+NAS1998,PLHIV ART >1y,Week 9,CUN14W,Carriage Positive,18[A+Q+](c-f-),18A/B/C/F,"636,500"
+NAS2004,PLHIV ART <3m,Week 9,CUN14V,Carriage Positive,NVT,NVT,"20,100"
