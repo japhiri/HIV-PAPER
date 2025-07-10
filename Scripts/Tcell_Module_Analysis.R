@@ -1,7 +1,7 @@
 
 # T cell Module Analysis using CEMiTool
-# Author: [Your Name]
-# Date: [Insert Date]
+# Author: [Joseph Aston Phiri]
+# Date: [22nd December 2023]
 # Description: This script performs module enrichment analysis on CD3+ T cells using CEMiTool.
 
 # Required Packages
